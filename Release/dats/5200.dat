@@ -1,0 +1,204 @@
+[BERZERK.BIN]
+name=Berzerk
+maker=Atari
+year=1983
+[BLUEPR~1.BIN]
+name=Blueprint
+maker=CBS
+year=1982
+[CENTIP~1.BIN]
+name=Centipede
+maker=Atari
+year=1982
+[CHOPLI~1.BIN]
+name=Choplifter!
+maker=Atari
+year=1984
+[CONGOB~1.BIN]
+name=Congo Bongo
+maker=Sega
+year=1983
+[DECATH~1.BIN]
+name=The Activision Decathlon
+maker=Activision
+year=1984
+[DEFENDER.BIN]
+name=Defender
+maker=Atari
+year=1982
+[BALLBL~1.BIN]
+name=Ballblazer
+maker=Atari
+year=1984
+[ASTROC~1.BIN]
+name=Astrochase
+maker=Parker Bros.
+year=1982
+[BEAMRI~1.BIN]
+name=Beamrider
+maker=Activision
+year=1984
+[BUCKRO~1.BIN]
+name=Buck Rogers: Planet of Zoom
+maker=Sega
+year=1983
+[DIGDUG.BIN]
+name=Dig Dug
+maker=Atari
+year=1983
+[FROGGER.BIN]
+name=Frogger
+maker=Parker Bros.
+[FROGGER2.BIN]
+name=Frogger II: Threedeep!
+maker=Parker Bros.
+[GALAXIAN.BIN]
+name=Galaxian
+maker=Atari
+year=1982
+[GORF.BIN]
+name=Gorf
+maker=CBS
+year=1982
+[GREMLINS.BIN]
+name=Gremlins
+maker=Atari
+year=1984
+[GYRUSS.BIN]
+name=Gyruss
+maker=Parker Bros.
+year=1984
+[HERO.BIN]
+name=H.E.R.O.
+maker=Activision
+year=1984
+[JAMESB~1.BIN]
+name=James Bond 007
+maker=Parker Bros.
+year=1984
+[JOUST.BIN]
+name=Joust
+maker=Atari
+year=1983
+[JUNGLE~1.BIN]
+name=Jungle Hunt
+maker=Atari
+year=1983
+[KABOOM.BIN]
+name=Kaboom!
+maker=Activision
+year=1983
+[KANGAROO.BIN]
+name=Kangaroo
+maker=Atari
+year=1982
+[KEYSTO~1.BIN]
+name=Keystone Kapers
+maker=Activision
+year=1984
+[MARIOB~1.BIN]
+name=Mario Bros.
+maker=Atari
+year=1983
+[MILLIP~1.BIN]
+name=Millipede
+maker=Atari
+year=1984
+[MISSLE~1.BIN]
+name=Missile Command
+maker=Atari
+year=1982
+[MRDOSC~1.BIN]
+name=Mr. Do's Castle ?
+maker=Parker Bros.
+[MSPACMAN.BIN]
+name=Ms. Pac-Man
+maker=Atari
+year=1983
+[PACMAN.BIN]
+name=Pac-Man
+maker=Atari
+year=1982
+[PENGO.BIN]
+name=Pengo
+maker=Atari
+year=1983
+[POPEYE.BIN]
+name=Popeye
+maker=Parker Bros.
+[QBERT.BIN]
+name=Q*Bert
+maker=Parker Bros.
+[QIX.BIN]
+name=Qix
+maker=Atari
+year=1982
+[ROBOTR~1.BIN]
+name=Robotron: 2084
+maker=Atari
+year=1983
+[STARRA~1.BIN]
+name=Star Raiders
+maker=Atari
+year=1982
+[STARTREK.BIN]
+name=Star Trek
+maker=Sega
+year=1983
+[STARWARS.BIN]
+name=Star Wars: The Arcade Game
+maker=Parker Bros.
+year=1984
+[SUPERBRK.BIN]
+name=Super Breakout
+maker=Atari
+year=1982
+[VANGUARD.BIN]
+name=Vanguard
+maker=Atari
+year=1983
+[XEVIOUS.BIN]
+name=Xevious
+maker=Atari
+year=1984
+comments=(prototype)
+[ZAXXON.BIN]
+name=Zaxxon
+maker=Sega
+year=1983
+[SUPERC~1.BIN]
+name=Super Cobra
+maker=Parker Bros.
+year=1983
+[WIZARD~1.BIN]
+name=Wizard of Wor
+maker=CBS
+year=1981
+[SPACEI~1.BIN]
+name=Space Invaders
+maker=Atari
+year=1982
+[KRAZYS~1.BIN]
+name=K-Razy Shootout
+maker=CBS
+year=1982
+[LASTST~1.BIN]
+name=The Last Starfighter
+maker=Atari
+year=1984
+comments=(prototype)
+[COUNTE~1.BIN]
+name=Countermeasure
+maker=Atari
+year=1982
+[BATTLE~1.BIN]
+name=Battlezone
+maker=Atari
+year=1983
+comments=(prototype)
+[BB.BIN]
+name=Bounty Bob Strikes Back!
+maker=Big Five Software
+year=1985
+[DIANOG~1.BIN]
+name=Diagnostics

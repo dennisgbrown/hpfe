@@ -1,0 +1,38 @@
+[Lynx]
+romsdir1 = D:\EMU\LYNX\ROMS
+romsdir2 = D:\EMU\LYNX\ZIPROMS
+romsdir2hasmultigamezips = no
+extension1 = lnx
+emulator1 = Handy
+emulator1.workingdir = D:\EMU\LYNX\EMUS\HANDY
+emulator1.commandline = D:\EMU\LYNX\EMUS\HANDY\HANDY.EXE %d%\%b%.%e%
+
+[2600]
+romsdir1 = D:\EMU\2600\ROMS
+romsdir2 = D:\EMU\2600\ZIPROMS
+romsdir2hasmultigamezips = no
+extension1 = bin
+emulator2 = PCAE-Win
+emulator2.workingdir = D:\EMU\2600\EMUS\PCAEWIN
+emulator2.commandline = D:\EMU\2600\EMUS\PCAEWIN\PCAEWIN.EXE %d%\%b%.%e%
+emulator1 = Z26
+emulator1.workingdir = D:\EMU\2600\EMUS\Z26
+emulator1.commandline = D:\EMU\2600\EMUS\Z26\Z26.EXE %d%\%b%.%e%
+
+[COLECO]
+romsdir1 = D:\EMU\COLECO\ROMS
+romsdir2 = D:\EMU\COLECO\ZIPROMS
+romsdir2hasmultigamezips = no
+extension1 = rom
+emulator1 = MESS COLECO
+emulator1.workingdir = D:\EMU\MESS
+emulator1.commandline = D:\EMU\MESS\mess coleco %d%\%b%.%e%
+
+[7800]
+romsdir1 = D:\EMU\7800\ROMS
+romsdir2 = D:\EMU\7800\ZIPROMS
+romsdir2hasmultigamezips = no
+extension1 = a78
+emulator1 = MESS 7800
+emulator1.workingdir = D:\EMU\MESS
+emulator1.commandline = D:\EMU\MESS\mess a7800 %d%\%b%.%e%

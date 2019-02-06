@@ -1,0 +1,624 @@
+[1943.PCE]
+name=1943
+maker=Naxat Soft
+year=1991
+comments=(Jp)
+[91-BASE.PCE]
+name=Baseball '91
+maker=Namcot
+year=1991
+comments=(Jp)
+[ADVENT~1.PCE]
+name=Adventure Island
+maker=Hudson Soft
+year=1991
+comments=(Jp)
+[AEROBLAS.PCE]
+name=Aero Blasters
+maker=Hudson Soft
+year=1990
+[AFTBURNR.PCE]
+name=Afterburner II
+maker=NEC Avenue
+year=1990
+[AFTERBRN.PCE]
+name=Afterburner II
+maker=NEC Avenue
+year=1990
+comments=(2)
+[AGMEDA.PCE]
+name=Agmeda
+maker=NEC
+comments=(Jp)
+[AIRZONK.PCE]
+name=Air Zonk
+maker=Hudson Soft
+year=1992
+[AIRZONKP.PCE]
+name=Air Zonk
+maker=Hudson Soft
+year=1992
+comments=(2)
+[PARASOLS.PCE]
+name=Parasol Stars
+maker=Taito
+year=1991
+[OUTRUNPC.PCE]
+name=OutRun
+maker=NEC Avenue
+year=1990
+[KATOCHAN.PCE]
+name=Kato & Ken
+maker=Hudson Soft
+year=1987
+comments=(Jp)
+[JJ&JEFFD.PCE]
+name=J.J. & Jeff
+maker=Hudson Soft
+year=1990
+[JAP1.PCE]
+name=Mahjong
+maker=Video System Co.
+comments=(Jp)
+[XEVIOUS.PCE]
+name=Xevious
+maker=Namcot
+year=1990
+[ZIPANG.PCE]
+name=Zipang
+maker=Pack-In-Video
+year=1990
+[ZERO_F~1.PCE]
+name=Zero 4 Champ
+maker=Media Rings
+year=1991
+comments=(Jp)
+[YOBROPCE.PCE]
+name=Yo, Bro
+maker=NEC
+year=1991
+[15IN1V20.PCE]
+name=15in1v20
+[1941.PCE]
+name=1941
+[ADVENT~2.PCE]
+name=Adventure Island
+comments=(J)
+[AFTERB~1.PCE]
+name=Afterburner Ii
+comments=(2)
+[AIRZON~1.PCE]
+name=Air Zonk
+comments=(2)
+[AISLAND.PCE]
+name=AISLAND
+[ALDYNES.PCE]
+name=ALDYNES
+[ALICEWDL.PCE]
+name=ALICEWDL
+[ALIEN_~1.PCE]
+name=alien_crush_jap
+[ALNCRUSH.PCE]
+name=ALNCRUSH
+[ALTEREDB.PCE]
+name=ALTEREDB
+[ANDREP.PCE]
+name=Andrep
+[ANDRE_~1.PCE]
+name=andre_panza_kick_boxingp
+[ARMED_F.PCE]
+name=ARMED_F
+[ATOMIC~1.PCE]
+name=Atomic Robot
+[BARI_B~1.PCE]
+name=bari_bari
+[BATMANPC.PCE]
+name=BATMANPC
+[BATTLE~1.PCE]
+name=battle_ace
+[BATTLE~2.PCE]
+name=battle_royal
+[BLAZING.PCE]
+name=BLAZING
+[BLODERUN.PCE]
+name=BLODERUN
+[BLODIA.PCE]
+name=BLODIA
+[BODYCON2.PCE]
+name=bodycon2
+[BOMBER~1.PCE]
+name=bomberman
+[BOMBER~2.PCE]
+name=bomberman93
+[BOMBRM94.PCE]
+name=BOMBRM94
+[BONK3.PCE]
+name=BONK3
+[BONKREVG.PCE]
+name=BONKREVG
+[BONZEADV.PCE]
+name=BONZEADV
+[BOUKENDE.PCE]
+name=BOUKENDE
+[BOUKENDN.PCE]
+name=boukendn
+[BREAKIN.PCE]
+name=BREAKIN
+[BREAKI~1.PCE]
+name=BREAKI~1
+[BULLFIGH.PCE]
+name=BULLFIGH
+[BWOLF.PCE]
+name=BWOLF
+[CADASHPC.PCE]
+name=CADASHPC
+[CHAMPWRE.PCE]
+name=CHAMPWRE
+[CHASEHQP.PCE]
+name=CHASEHQP
+[CHUMANFU.PCE]
+name=CHUMANFU
+[CITYHUNT.PCE]
+name=CITYHUNT
+[COLUMNS.PCE]
+name=COLUMNS
+[CORYOONC.PCE]
+name=CORYOONC
+[CRATERMA.PCE]
+name=CRATERMA
+[CYBCOMPO.PCE]
+name=CYBCOMPO
+[CYBER_~1.PCE]
+name=cyber_knight
+[CYBER_~2.PCE]
+name=cyber_police
+[DARIUS.PCE]
+name=darius
+[DARIUS8M.PCE]
+name=DARIUS8M
+[DAVISCUP.PCE]
+name=DAVISCUP
+[DBLDUNG.PCE]
+name=DBLDUNG
+[DEEPBLUE.PCE]
+name=DEEPBLUE
+[DELIVE~1.PCE]
+name=delivery_boy
+[DODGEB~2.PCE]
+name=Dodgeball
+comments=(jap)
+[DORAEM~2.PCE]
+name=Doraemon
+comments=(jap)
+[DOWNLO~1.PCE]
+name=Download
+comments=(jap)
+[DORAEM~1.PCE]
+name=doraemon2
+[DOUBLE~1.PCE]
+name=double_ring
+[DRAGON~4.PCE]
+name=Dragon Egg
+comments=(jap)
+[DRAGON~1.PCE]
+name=Dragon Saber
+[DRAGONSP.PCE]
+name=DRAGONSP
+[DRAGON~2.PCE]
+name=dragon_fire_jap
+[DROPROCK.PCE]
+name=DROPROCK
+[DUNGEXPL.PCE]
+name=DUNGEXPL
+[DWINGDCK.PCE]
+name=DWINGDCK
+[ETERCITY.PCE]
+name=ETERCITY
+[F1CIRC91.PCE]
+name=F1CIRC91
+[F1DREAM.PCE]
+name=F1DREAM
+[F1TRIPLE.PCE]
+name=F1TRIPLE
+[F1_CIR~1.PCE]
+name=f1_circus92
+[F1_PILOT.PCE]
+name=f1_pilot
+[FALCONPC.PCE]
+name=FALCONPC
+[FANTZONE.PCE]
+name=FANTZONE
+[FIGHTI~1.PCE]
+name=fighting_run
+[FINALBLA.PCE]
+name=FINALBLA
+[FINAL_~1.PCE]
+name=final_lap_twin
+[FINAL_~2.PCE]
+name=final_soldier
+[FIRE_P~1.PCE]
+name=fire_pro_wrestling
+[FIRE_P~2.PCE]
+name=fire_pro_wrestling2
+[FIRE_P~3.PCE]
+name=fire_pro_wrestling3
+[FMATCHTN.PCE]
+name=FMATCHTN
+[FORMAT~1.PCE]
+name=Formation Soccer
+[GALAGA88.PCE]
+name=GALAGA88
+[GALAGA90.PCE]
+name=GALAGA90
+[GATEBALL.PCE]
+name=gateball
+[GHOSTMAN.PCE]
+name=GHOSTMAN
+[GOKURA~1.PCE]
+name=gokurak_chuka_taisen
+[GOMOLA~1.PCE]
+name=gomola_speed
+[GRADIUSP.PCE]
+name=GRADIUSP
+[GUNBOAT.PCE]
+name=gunboat
+[GUNHEDPC.PCE]
+name=GUNHEDPC
+[HANYISKY.PCE]
+name=HANYISKY
+[HANY_O~1.PCE]
+name=hany_on_the_road
+[HATRIS.PCE]
+name=HATRIS
+[HEAVUNIT.PCE]
+name=HEAVUNIT
+[HEROAGEN.PCE]
+name=HEROAGEN
+[HITTHEIC.PCE]
+name=HITTHEIC
+[HORSRACE.PCE]
+name=HORSRACE
+[IMAGEFIG.PCE]
+name=IMAGEFIG
+[IMPOSSAM.PCE]
+name=IMPOSSAM
+[JACKGOLF.PCE]
+name=JACKGOLF
+[JACKIECH.PCE]
+name=JACKIECH
+[JAMANOID.PCE]
+name=JAMANOID
+[KATO&K~1.PCE]
+name=Kato & Ken
+comments=(J)
+[JAP8.PCE]
+name=jap8
+[KCOURAGE.PCE]
+name=KCOURAGE
+[KICKBO~1.PCE]
+name=Kickboxing
+[KICKDOG.PCE]
+name=KICKDOG
+[KIKI_KAI.PCE]
+name=kiki_kai
+[KLAX.PCE]
+name=Klax
+[KNCASINO.PCE]
+name=KNCASINO
+[KNIGHTRI.PCE]
+name=KNIGHTRI
+[LADY_S~1.PCE]
+name=lady_sword
+[MAGICA~1.PCE]
+name=Magical Chase
+comments=(horiz shooter)
+[LIFEFRCE.PCE]
+name=LIFEFRCE
+[LIQUIDKI.PCE]
+name=LIQUIDKI
+[LODERUNR.PCE]
+name=LODERUNR
+[MAHJON~1.PCE]
+name=mahjong_wars
+[MARCHE~1.PCE]
+name=Marchen Maze
+[MEGA_C~1.PCE]
+name=mega_collection_15_in_1
+[MILITARY.PCE]
+name=MILITARY
+[MOTOROA2.PCE]
+name=MOTOROA2
+[MOTORODR.PCE]
+name=MOTORODR
+[MRHELIPC.PCE]
+name=MRHELIPC
+[NAXAT_~1.PCE]
+name=naxat_open
+[NECROMAN.PCE]
+name=NECROMAN
+[NES.PCE]
+name=nes
+[NEUTOPI2.PCE]
+name=NEUTOPI2
+[NEUTOPIA.PCE]
+name=NEUTOPIA
+[NEWADVIS.PCE]
+name=NEWADVIS
+[NEWZEAST.PCE]
+name=NEWZEAST
+[NIGHTCRS.PCE]
+name=NIGHTCRS
+[NINJAGDN.PCE]
+name=NINJAGDN
+[NINJAWAR.PCE]
+name=NINJAWAR
+[ORDYNEPC.PCE]
+name=ORDYNEPC
+[OVERRIDE.PCE]
+name=override
+[PACLAND.PCE]
+name=PACLAND
+[PARANOIA.PCE]
+name=PARANOIA
+[PARODIUS.PCE]
+name=PARODIUS
+[PCKID1.PCE]
+name=PCKID1
+[PHOTOG~1.PCE]
+name=photograph_boy
+[POPULOUS.PCE]
+name=populous
+[POWDRIFT.PCE]
+name=POWDRIFT
+[POWELEVN.PCE]
+name=POWELEVN
+[POWER_~1.PCE]
+name=power_sports
+[POWLEAG5.PCE]
+name=POWLEAG5
+[POWRGATE.PCE]
+name=POWRGATE
+[POWRGOLF.PCE]
+name=POWRGOLF
+[PRTSTRIP.PCE]
+name=prtstrip
+[SPINPA~1.PCE]
+name=Spinpair
+comments=(tetris)
+[RABIOLEP.PCE]
+name=RABIOLEP
+[RACESPIR.PCE]
+name=RACESPIR
+[RAIDEN.PCE]
+name=raiden
+[ROCK_ON.PCE]
+name=rock_on
+[RTYPE-2.PCE]
+name=RTYPE-2
+[RTYPE.PCE]
+name=RTYPE
+[RTYPE1.PCE]
+name=Rtype1
+[SAMGHOST.PCE]
+name=SAMGHOST
+[SASSAULT.PCE]
+name=SASSAULT
+[SF2CEJ.PCE]
+name=sf2cej
+[SFIREP~1.PCE]
+name=sfirepro_jap
+[SHANGHAI.PCE]
+name=SHANGHAI
+[SHINOBIP.PCE]
+name=SHINOBIP
+[SHOCKMAN.PCE]
+name=SHOCKMAN
+[SIDEARMS.PCE]
+name=SIDEARMS
+[SINIST~1.PCE]
+name=sinistron
+[SKWEEK.PCE]
+name=skweek
+[SOKO_B~1.PCE]
+name=soko_ban_world
+[SOLBLADE.PCE]
+name=SOLBLADE
+[SONICSPK.PCE]
+name=SONICSPK
+[SPACEINV.PCE]
+name=SPACEINV
+[SPLHOUSE.PCE]
+name=SPLHOUSE
+[STARSOLD.PCE]
+name=STARSOLD
+[STDRAG.PCE]
+name=STDRAG
+[STRATEGO.PCE]
+name=STRATEGO
+[SUDODBAL.PCE]
+name=SUDODBAL
+[SUPER_~1.PCE]
+name=super_volleyball
+[S_C_I.PCE]
+name=s_c_i
+[TAKIN_~1.PCE]
+name=takin_it_to_the_hoop
+[TALESPIN.PCE]
+name=TALESPIN
+[TERRA_~1.PCE]
+name=terra_cresta2
+[THUBLADE.PCE]
+name=THUBLADE
+[XEVIOUSB.PCE]
+name=Xeviousb
+[TIGEROAD.PCE]
+name=TIGEROAD
+[TIGERSHA.PCE]
+name=TIGERSHA
+[TIMECRSE.PCE]
+name=TIMECRSE
+[TIMECRUI.PCE]
+name=TIMECRUI
+[TITANPCE.PCE]
+name=TITANPCE
+[TODRUAGA.PCE]
+name=TODRUAGA
+[TOILET~1.PCE]
+name=Toilet Kids
+[TOILET~2.PCE]
+name=toilet_kids
+[TOY_SH~1.PCE]
+name=toy_shop_boys
+[TRICKICK.PCE]
+name=TRICKICK
+[TRUXTON.PCE]
+name=Truxton
+[TURRICAN.PCE]
+name=TURRICAN
+[TVHOCKEY.PCE]
+name=TVHOCKEY
+[TVSBASKB.PCE]
+name=TVSBASKB
+[TVSFOOTB.PCE]
+name=TVSFOOTB
+[TWINBEE.PCE]
+name=TWINBEE
+[VALKYRIE.PCE]
+name=valkyrie
+[VEIGUEST.PCE]
+name=VEIGUEST
+[VICTRRUN.PCE]
+name=VICTRRUN
+[VIGILANT.PCE]
+name=VIGILANT
+[ZERO4C~1.PCE]
+name=Zero 4 Champ
+comments=(J)
+[WAR_OF~1.PCE]
+name=war_of_the_dead
+[WATARU.PCE]
+name=wataru
+[WBOY2E.PCE]
+name=WBOY2E
+[WCTENNIS.PCE]
+name=WCTENNIS
+[WINNIN~1.PCE]
+name=winning_shot
+[WONDER~1.PCE]
+name=wonder_momo
+[WONDRBOY.PCE]
+name=WONDRBOY
+[WRLDCIRC.PCE]
+name=WRLDCIRC
+[1943(J~1.PCE]
+name=1943
+comments=(J)
+[YASKARPC.PCE]
+name=YASKARPC
+[TIGERHEL.PCE]
+name=Tigerhel
+[BASEBA~1.PCE]
+name=Baseball '91
+comments=(J)
+[HEROAG~1.PCE]
+name=Hero Agenda
+comments=(J)
+[ALICEI~1.PCE]
+name=Alice In Monsterland
+comments=(Jap)
+[ALIENC~1.PCE]
+name=Alien Crush
+comments=(pinball)
+[BALLIS~1.PCE]
+name=Ballistix
+comments=(Logic)
+[BARUNB~1.PCE]
+name=Barunba
+comments=(shooter)
+[BIONIC~1.PCE]
+name=Bionic Boxer
+comments=(jap platform)
+[BLUEBL~1.PCE]
+name=Blue Blink
+comments=(platform)
+[BOXYBO~1.PCE]
+name=Boxyboy
+comments=(boxxle)
+[CHAMPI~1.PCE]
+name=Champions Forever
+comments=(boxing)
+[CHEWMA~1.PCE]
+name=Chew Man Fu
+comments=(English Beball)
+[CHINAW~1.PCE]
+name=China Warrior
+comments=(Eng)
+[CYBERC~1.PCE]
+name=Cyber Cross
+comments=(Jap)
+[DEADMO~1.PCE]
+name=Deadmoon
+comments=(shooter)
+[DEVIL'~1.PCE]
+name=Devil's Crush
+comments=(pinball)
+[DIEHAR~1.PCE]
+name=Die Hard
+comments=(jap)
+[DIGITA~2.PCE]
+name=Digital Champ
+comments=(boxing)
+[DRAGON~3.PCE]
+name=Dragon's Curse
+comments=(platform RPG)
+[CHINAW~2.PCE]
+name=China Warrior
+comments=(Jap)
+[PCE#20~1.PCE]
+name=Pce #2038
+comments=(JAP)
+[DAIMAK~1.PCE]
+name=Daimakaimura
+comments=(Jap, like G&G)
+[MAHJON~2.PCE]
+name=Mahjong
+comments=(J)
+[JAPSTR~1.PCE]
+name=Jap Strategy Game
+comments=(like Archon
+[LEGEND~2.PCE]
+name=Legendary Axe 2
+comments=(Jap)
+[LEGEND~3.PCE]
+name=Legendary Axe 2
+comments=(ENG)
+[MAISON~1.PCE]
+name=Maison Ikkoku
+comments=(Jap Text Adv)
+[MONSTE~1.PCE]
+name=Monster Battle
+comments=(JAP)
+[NAXATO~1.PCE]
+name=Naxat Open
+comments=(Golf)
+[NINJAS~1.PCE]
+name=Ninja Spirit
+comments=(platform)
+[PSYCHO~1.PCE]
+name=Psycho Chaser
+comments=(shooter)
+[PUZZNI~1.PCE]
+name=Puzznic
+comments=(logic)
+[SONSON~1.PCE]
+name=Sonson 2
+comments=(platform RPG)
+[VAMPIR~1.PCE]
+name=Vampire Empire
+comments=(Jap, platform
+[VIOLEN~1.PCE]
+name=Violent Soldier
+comments=(ENG)
+[VOLFIE~1.PCE]
+name=Volfiev
+comments=(like Qix)

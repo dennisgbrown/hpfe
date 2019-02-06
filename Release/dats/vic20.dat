@@ -1,0 +1,487 @@
+[MSPACMAN.60]
+name=Ms. Pac-Man
+[PAC-MAN.PRG]
+name=Pac-Man
+[AE.60]
+name=AE
+[AMIDAR.PRG]
+name=Amidar
+[ARCADIA.PRG]
+name=Arcadia
+[ARTILL~1.60]
+name=Artillery Duel
+[MENAGE~1.PRG]
+name=Menagerie
+[METEOR~1.PRG]
+name=Meteor Run
+[MINEMA~1.PRG]
+name=Mine Madness
+[MINER2~1.PRG]
+name=Miner 2049'er
+[AWORLD~1.PRG]
+name=A World At War
+[AGGRES~2.PRG]
+name=Aggressor
+[AGGRES~1.PRG]
+name=Aggressor-2
+[ALIEN.PRG]
+name=Alien
+[MOLEAT~1.PRG]
+name=Mole Attack
+[MONEYW~1.PRG]
+name=Money Wars
+[MONSTE~1.PRG]
+name=Monster Maze
+[MOONPA~1.60]
+name=Moon Patrol
+[APEESC~1.PRG]
+name=Ape Escape
+[APPLEP~1.60]
+name=Apple Panic
+comments=(2 part ROM)
+[OMEGAR~1.PRG]
+name=Omega Race
+comments=(cheat)
+[ARACHN~1.60]
+name=Arachnoid
+[OMEGAR~2.PRG]
+name=Omega Race
+[APPLEP~3.PRG]
+name=Apple Panic
+[OUTWORLD.60]
+name=Outworld
+comments=(2 part ROM)
+[OUTWORLD.PRG]
+name=Outworld
+[CANNON~1.20]
+name=Cannonball Blitz
+[CARRAC~1.PRG]
+name=Car Race
+[PHARAO~1.60]
+name=Pharaoh's Curse
+[PIPES.PRG]
+name=Pipes
+[ALPHAB~1.60]
+name=Alphabet Zoo
+comments=(original)
+[ALPHAB~2.60]
+name=Alphabet Zoo
+[OMEGAR~3.PRG]
+name=Omega Race
+comments=(original)
+[PARATR~1.PRG]
+name=Paratrooper
+[POKER-2.PRG]
+name=Poker-2
+[POKER.PRG]
+name=Poker
+[POLARIS.PRG]
+name=Polaris
+[POLEPO~1.60]
+name=Pole Position
+[PREDATOR.PRG]
+name=Predator
+[Q-BERT.PRG]
+name=Q*Bert
+[QUACKERS.PRG]
+name=Quackers
+[ROBOTRON.60]
+name=Robotron
+[SEAFOX.60]
+name=Seafox
+[SHAMUS.PRG]
+name=Shamus
+[TITAN.PRG]
+name=Titan
+[TYPO.PRG]
+name=Typo
+[TURMOIL.PRG]
+name=Turmoil
+[TRASHMAN.PRG]
+name=Trashman
+[TRASHMAN.60]
+name=Trashman
+comments=(2 part ROM)
+[SPRINGER.60]
+name=Springer
+[SCORPION.PRG]
+name=Scorpion
+[BATTLE~1.60]
+name=Battlezone
+[BUCKRO~1.60]
+name=Buck Rogers
+[DANCIN~1.20]
+name=Dancing Bear
+[RADARR~1.PRG]
+name=Radar Rat Race-2
+[CAPTUR~1.PRG]
+name=Capture the Flag
+comments=(original)
+[TANKAT~1.60]
+name=Tank Atak
+comments=(2 part ROM)
+[TANKAT~1.PRG]
+name=Tank Atak
+[RADARR~2.PRG]
+name=Radar Rat Race
+[RAIDON~1.PRG]
+name=Raid on Fort Knox
+[RATHOT~1.PRG]
+name=Rat Hotel
+comments=(original)
+[RATHOT~2.PRG]
+name=Rat Hotel
+[DIGDUG~1.20]
+name=Dig Dug
+[DONKEY~1.20]
+name=Donkey Kong
+[RENAIS~1.60]
+name=Renaissance
+comments=(2 part ROM)
+[RENAIS~3.PRG]
+name=Renaissance
+[RIVERR~1.PRG]
+name=River Rescue
+comments=(original)
+[RIVERR~2.PRG]
+name=River Rescue
+[INTHEC~1.60]
+name=In the Chips
+[JUNGLE~1.60]
+name=Jungle Hunt
+[KINDER~1.60]
+name=Kindercomp
+[MASTER~1.60]
+name=Mastertype
+[MAZE.PRG]
+name=Maze
+[ROBOTP~1.PRG]
+name=Robot Panic
+[SARGON~1.PRG]
+name=Sargon II Chess
+[K-RAZY~1.60]
+name=K-Razy Antics
+[ROADRA~1.PRG]
+name=Road Race
+[LODERU~1.60]
+name=Lode Runner
+[SERPEN~1.PRG]
+name=Serpentine
+comments=(NTSC)
+[SERPEN~2.PRG]
+name=Serpentine
+comments=(PAL)
+[SHAMUS~1.PRG]
+name=Shamus
+comments=(original)
+[K-STAR~1.60]
+name=K-Star Patrol
+[LUNARL~1.20]
+name=Lunar Leeper
+[SIRLAN~1.PRG]
+name=Sir Lancelot
+[SOLARS~1.PRG]
+name=Solar System
+[SPACES~1.PRG]
+name=Space Snake
+[MOUNTA~1.60]
+name=Mountain King
+[SPIDER~1.PRG]
+name=Spiders of Mars
+[SPIKE'~1.PRG]
+name=Spike's Peak
+[SATELL~1.60]
+name=Satellites and Meteorites
+comments=(2 part ROM)
+[SATELL~3.PRG]
+name=Satellites and Meteorites
+comments=(PAL)
+[PINBAL~1.60]
+name=Pinball-2
+[PINBALL.60]
+name=Pinball
+[PHARAO~2.60]
+name=Pharoah's Curse
+comments=(original)
+[SEAWOL~1.PRG]
+name=Sea Wolf
+[SPILLS~1.PRG]
+name=Spills and Fills
+[STARBA~1.PRG]
+name=Star Battle
+[SKYBLA~1.60]
+name=Skyblazer
+[SUPERA~1.PRG]
+name=Super Amok
+[SUPERS~1.PRG]
+name=Super Slot-2
+[SUPERS~2.PRG]
+name=Super Slot
+[SUPERS~3.PRG]
+name=Super Smash-2
+[SUPERS~4.PRG]
+name=Super Smash
+[SYNTHE~1.PRG]
+name=Synthesong
+[SPEEDM~1.PRG]
+name=Speed Math/Bingo Math
+[TUTANK~1.PRG]
+name=Tutankham
+[STORYM~1.60]
+name=Story Machine
+[SUBCHA~1.PRG]
+name=Sub Chase
+[STORYM~2.60]
+name=Story Machine
+comments=(original)
+[TOOTHI~1.PRG]
+name=Tooth Invaders
+[TOPPER~1.PRG]
+name=Topper
+comments=(NTSC)
+[TYPEAT~1.PRG]
+name=Type Attack
+[VICMUS~1.PRG]
+name=Vic Music Composer
+[AMAZIN~2.PRG]
+name=Amazing Maze
+[AMAZIN~1.PRG]
+name=Amazing Maze
+comments=(original)
+[VICSUP~1.PRG]
+name=Vic Super Lander
+[THESKY~1.PRG]
+name=The Sky is Falling
+[STARTR~2.PRG]
+name=Star Trek SOS
+comments=(original)
+[STARTR~1.PRG]
+name=Star Trek SOS
+[ALIENS~1.PRG]
+name=Alien Sidestep
+[ALIENB~1.PRG]
+name=Alien Blitz
+[AMOK!.PRG]
+name=Amok!
+[VIDEOV~1.PRG]
+name=Video Vermin
+[ASTROB~1.PRG]
+name=Astroblitz
+comments=(NTSC)
+[ASTROB~2.PRG]
+name=Astroblitz
+comments=(PAL)
+[COLORT~1.PRG]
+name=Color Test
+[INVENT~1.PRG]
+name=Inventions
+[ATLANT~1.PRG]
+name=Atlantis
+comments=(NTSC)
+[ATLANT~2.PRG]
+name=Atlantis
+comments=(PAL)
+[BEWITC~1.PRG]
+name=Bewitched
+[BLACKH~1.PRG]
+name=Black Hole
+comments=(NTSC)
+[BLACKH~2.PRG]
+name=Black Hole
+comments=(PAL)
+[BUGCRU~1.PRG]
+name=Bug Crusher
+comments=(original)
+[BUGCRU~2.PRG]
+name=Bug Crusher
+[AVENGER.PRG]
+name=Avenger
+[BANDITS.PRG]
+name=Bandits
+[CAVE-IN.PRG]
+name=Cave-in
+[CENTIP~1.20]
+name=Centipede
+[CLOWNS.PRG]
+name=Clowns
+[COMMOD~1.PRG]
+name=Commodore Artist
+[VISIBL~1.PRG]
+name=Visible Solar System-2
+[IFR(FL~1.PRG]
+name=IFR
+comments=(Flight Simulator)
+[CLOUDB~1.PRG]
+name=Cloudburst
+[THESKY~2.PRG]
+name=The Sky is Falling-2
+[COSMIC~1.PRG]
+name=Cosmic Cruncher
+comments=(fixed)
+[THEMAD~1.PRG]
+name=The Mad Boogy
+[DEADLY~1.PRG]
+name=Deadly Skies
+[VISIBL~2.PRG]
+name=Visible Solar System
+[DEMONA~1.PRG]
+name=Demon Attack
+comments=(NTSC)
+[DEMONA~2.PRG]
+name=Demon Attack
+comments=(PAL)
+[TOMARC~1.PRG]
+name=Tomarc the Barbarian
+[DOTGOB~1.PRG]
+name=Dot Gobbler
+comments=(original)
+[DOTGOB~2.PRG]
+name=Dot Gobbler
+[GOLDFE~1.PRG]
+name=Gold Fever
+[GRIDRU~1.PRG]
+name=Gridrunner
+[GORF.PRG]
+name=Gorf
+[GALAXIAN.PRG]
+name=Galaxian
+[MOSQUI~1.PRG]
+name=Mosquito Infestation
+[SATELL~4.PRG]
+name=Satellite Patrol
+[SKIBBE~1.PRG]
+name=Skibbereen
+comments=(NTSC)
+[SKIBBE~2.PRG]
+name=Skibbereen
+comments=(PAL)
+[SNAKEB~1.PRG]
+name=Snake Byte
+[SPIDER~4.PRG]
+name=Spider City
+comments=(NTSC)
+[TERRAG~1.PRG]
+name=Terraguard
+[VIDEOM~1.PRG]
+name=Videomania
+[VICMUS~2.PRG]
+name=Vic Music Composer
+comments=(original)
+[ATTACK~1.PRG]
+name=Attack of the Mutant Camels
+[CAPTUR~2.PRG]
+name=Capture the Flag
+[CATCHA~1.PRG]
+name=Catch a Snatch
+[CHOPLI~1.PRG]
+name=Choplifter
+comments=(original)
+[CHOPLI~2.PRG]
+name=Choplifter
+[CHUCKN~1.PRG]
+name=Chuck Norris Superkicks
+[CLOWNS~1.PRG]
+name=Clowns-paddle
+[COMPUT~1.PRG]
+name=Computer War
+comments=(original)
+[COMPUT~2.PRG]
+name=Computer War
+[CONGOB~1.PRG]
+name=Congo Bongo
+[COSMIC~2.PRG]
+name=Cosmic Cruncher-2
+[COSMIC~4.PRG]
+name=Cosmic Cruncher
+[COSMIC~3.PRG]
+name=Cosmic Cruncher
+comments=(cheat)
+[COSMIC~5.PRG]
+name=Cosmic Jailbreak
+[CREEPY~1.PRG]
+name=Creepy Corridors
+[CROSSF~1.PRG]
+name=Crossfire
+comments=(NTSC)
+[CROSSF~2.PRG]
+name=Crossfire
+comments=(PAL)
+[CYCLON.PRG]
+name=Cyclon
+[DEADLY~2.PRG]
+name=Deadly Duck
+[DEFENDER.60]
+name=Defender
+[DRAGON~1.PRG]
+name=Dragonfire
+[ET.PRG]
+name=ET
+[FACEMA~1.PRG]
+name=Facemaker
+comments=(original)
+[FACEMA~2.PRG]
+name=Facemaker
+[FASTED~1.PRG]
+name=Fast Eddie
+[FINALO~2.PRG]
+name=Final Orbit/Bumper Bash
+[FLIPPE~1.PRG]
+name=Flipper
+[FRANTIC.PRG]
+name=Frantic
+[FROGGER.PRG]
+name=Frogger
+[FOURTH~1.PRG]
+name=Fourth Encounter
+[FUNWIT~1.PRG]
+name=Fun With Music
+[GARDEN~1.PRG]
+name=Garden Wars
+[GHOSTM~1.PRG]
+name=Ghost Manor
+[HOMEBA~1.PRG]
+name=Home Babysitter
+[JUPITE~1.PRG]
+name=Jupiter Lander
+[JELLYM~3.PRG]
+name=Jelly Monsters-v2
+[JELLYM~2.PRG]
+name=Jelly Monsters-fixed
+[JELLYM~1.PRG]
+name=Jelly Monsters-v2-fixed
+[JAWBRE~1.PRG]
+name=Jawbreaker II
+comments=(NTSC)
+[JAWBRE~2.PRG]
+name=Jawbreaker II
+comments=(PAL)
+[KIDSON~1.PRG]
+name=Kids on Keys
+[JELLYM~4.PRG]
+name=Jelly Monsters
+[MEDIEV~1.PRG]
+name=Medieval Joust
+comments=(original)
+[MEDIEV~2.PRG]
+name=Medieval Joust
+[MUTANT~1.PRG]
+name=Mutant Herd
+[NUMBER~1.PRG]
+name=Number Nabber/Shape Grabber
+[PRINCE~1.PRG]
+name=Princess and Frog
+[PROTEC~1.PRG]
+name=Protector
+[ROBINH~1.PRG]
+name=Robin Hood
+[SPIDER~1.60]
+name=Spiders of Mars
+[STARPO~1.PRG]
+name=Star Post
+[SUBMAR~1.60]
+name=Submarine Commander
+[THRESH~1.PRG]
+name=Threshold
+[FINALO~1.PRG]
+name=Final Orbit/Bumper Bash
+comments=(original)

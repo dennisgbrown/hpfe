@@ -1,0 +1,3560 @@
+[3TAMA.GB]
+name=Tama and Friends
+maker=S.C.P.
+year=1994
+comments=(jap)
+[720.GBC]
+name=720
+maker=Midway
+comments=(color)
+[720DEG~1.GB]
+name=dupe
+[ADDAMSF1.GB]
+name=Addams Family
+maker=Ocean
+year=1991
+[ADDAMSF2.GB]
+name=Addams Family: Pugsley's Scavenger Hunt
+maker=Ocean
+year=1992
+[AEROSTAR.GB]
+name=AeroStar
+maker=Vic Tokai
+year=1991
+[AFTERBUR.GB]
+name=AfterBurst
+maker=NCS
+year=1990
+[ALADDIN.GB]
+name=Aladdin
+maker=Virgin
+year=1994
+comments=(super)
+[ALENVPRE.GB]
+name=Alien Vs Predator
+maker=Activision
+year=1993
+[ALFREDCH.GB]
+name=Alfred Chicken
+maker=Mindscape
+year=1993
+[SUPERM~1.GB]
+name=Warioland 2
+maker=Nintendo
+year=1998
+comments=(color,jap)
+[SUPERM~2.GB]
+name=Super Mario Brothers Deluxe
+maker=Nintendo
+year=1999
+comments=(color,jap)
+[SUPERM~3.GB]
+name=dupe
+[SUPER_~1.GB]
+name=Super Chinese 2
+maker=Culture Brain
+comments=(jap)
+[WARIOL2.GB]
+name=Warioland 2
+comments=(super) (not working?)
+[MARIO1.GB]
+name=Super Mario Land
+maker=Nintendo
+year=1989
+[MARIO2.GB]
+name=Super Mario Land 2
+maker=Nintendo
+year=1992
+[MARIO3.GB]
+name=Warioland-Super Mario Land 3
+maker=Nintendo
+year=1993
+[MINR2049.GB]
+name=Miner 2049er
+maker=Mindscape
+year=1991
+[MISSLE.GB]
+name=Missile Command
+maker=Accolade
+year=1991
+[MNC-BSHI.GBC]
+name=Battleship
+maker=Majesco
+year=1999
+comments=(color)
+[MNC-ELMA.GBC]
+name=Elmo ABC
+maker=CTW
+year=1998
+comments=(color)
+[MNC-GRGR.GB]
+name=Great Greed
+maker=Namco
+year=1992
+[MNC-JDEF.GBC]
+name=Defender/Joust
+maker=Midway
+year=1998
+comments=(color)
+[MNC-LOGI.GBC]
+name=Logical
+maker=Sunsoft
+year=1999
+comments=(color)
+[MNC-QUES.GBC]
+name=Quest Fantasy Challenge
+maker=Sunsoft
+year=1998
+comments=(color)
+[MNC-SOH2.GB]
+name=MNC-SOH2.GB
+maker=not working?
+[MNC-CENT.GBC]
+name=MNC-CENT.GBC
+maker=not working?
+[MNC-TGPK.GBC]
+name=Top Gear Pocket
+maker=Kemco
+comments=(color)
+[MONRACE2.GBC]
+name=Monster Race 2
+maker=Koei
+year=1999
+comments=(jap,color,super)
+[NBAJAM99.GBC]
+name=NBA Jam '99
+maker=Acclaim
+year=1998
+comments=(color)
+[NBAJAM.GB]
+name=NBA Jam
+maker=Acclaim
+year=1994
+[NIL-BEAT.GBC]
+name=Beat Mania
+maker=Konami
+year=1999
+comments=(jap,color,super)
+[NIL-SHAI.GBC]
+name=Shanghai Pocket
+maker=Sunsoft
+year=1998
+comments=(jap,color,super)
+[NIL-BLCK.GBC]
+name=Pocket Color Block
+maker=Bottom Up
+year=1998
+comments=(jap,color,super)
+[PAC-MANB.GB]
+name=Pac-Man
+maker=Namcot
+year=1990
+[PACMAN.GB]
+name=Pac-Man
+maker=Namco
+year=1991
+[PDX-VRLY.GBC]
+name=PDX-VRLY.GBC
+maker=not working?
+[PDX-SHCL.GBC]
+name=Shadowgate Classic
+maker=Kemco
+year=1999
+comments=(color)
+[PDX-PROM.GBC]
+name=Gameboy Color Demo
+maker=Nintendo
+year=1998
+comments=(color)
+[ROBOSTAR.GBC]
+name=ROBOSTAR.GBC
+maker=not working?
+[ROBOSUN.GBC]
+name=ROBOSUN.GBC
+maker=not working?
+[TOKIMEKI.GBC]
+name=Toki Meki
+maker=Konami
+year=1999
+comments=(jap,color,super)
+[BMQUEST.GBC]
+name=Bomberman Quest
+maker=Hudson Soft
+year=1998
+comments=(jap,color)
+[CGB_-_~1.GB]
+name=Bug's Life
+maker=THQ
+year=1998
+comments=(color)
+[CGB_-_~2.GB]
+name=Dragon Quest Monsters
+maker=Enix
+comments=(jap,super,color)
+[CGB_-_~3.GB]
+name=Game & Watch Gallery 2
+maker=Nintendo
+comments=(super)
+[CGB_-_~4.GB]
+name=Gex: Enter the Gecko
+maker=Crave
+year=1998
+comments=(color)
+[CGB_-_~5.GB]
+name=Global Hexcite
+maker=NEC
+year=1998
+comments=(jap,super)
+[CGB_-_~6.GB]
+name=CGB_-_~6.GB
+maker=not working?
+[CGB_-_~7.GB]
+name=NFL Blitz
+maker=Midway
+year=1998
+comments=(color)
+[CGB_-_~8.GB]
+name=Pocket Bomberman
+maker=Hudson Soft
+year=1998
+comments=(color)
+[CGB_-_~9.GB]
+name=Quest for Camelot
+maker=Titus
+year=1998
+comments=(color,super)
+[CGB_-~10.GB]
+name=Rampage World Tour
+maker=Midway
+year=1998
+comments=(color)
+[CGB_-~11.GB]
+name=Sanrio Timenet
+maker=Imagineer
+year=1998
+comments=(jap,super)
+[CGB_-~12.GB]
+name=Super Black Bass Pocket 3
+maker=Starfish
+year=1998
+comments=(jap,color)
+[CGB_-~13.GB]
+name=Super Breakout
+maker=Majesco
+year=1998
+comments=(color)
+[CGB_-~14.GB]
+name=Tetris DX
+maker=Nintendo
+year=1998
+comments=(color,super)
+[CGB_-~15.GB]
+name=Turok 2: Seeds of Evil
+maker=Acclaim
+year=1998
+comments=(color)
+[CGB_-~16.GB]
+name=dupe
+[CPL-DZON.GBC]
+name=Dropzone
+maker=Acclaim
+year=1999
+comments=(color)
+[CPL-HWPB.GBC]
+name=Hollywood Pinball
+maker=Take 2
+year=1999
+comments=(color)
+[CPL-SMRF.GBC]
+name=Smurfs Nightmare
+maker=Infogrames
+year=1998
+comments=(color)
+[CPL-TRRM.GBC]
+name=Rugrats Movie
+maker=Viacom
+year=1998
+comments=(color,super)
+[EUR-BUGS.GBC]
+name=Bugs Bunny & Lola Bunny
+maker=Infogrames
+year=1998
+comments=(color)
+[FAIRYKIT.GBC]
+name=Fairy Kitty
+maker=Imagineer
+year=1998
+comments=(jap,color)
+[EUR_ZLDA.GBC]
+name=Legend of Zelda: Link's Awakening DX
+maker=Nintendo
+year=1998
+comments=(color)
+[EUR_ZLDA.GB]
+name=dupe
+[EUR-TURO.GB]
+name=Turok: Battle of the Dinosaurs
+maker=Acclaim
+year=1997
+[TUROK2.GB]
+name=dupe
+[EUR-GBW2.GBC]
+name=GB Wars 2
+maker=Hudson Soft
+year=1998
+comments=(jap,color,super)
+[EUR-SGCL.GBC]
+name=dupe
+[EUR-ODDW.GB]
+name=Oddworld Adventures
+maker=GT Interactive
+year=1998
+[EUR-PKCD.GBC]
+name=Pokemon Card
+maker=Nintendo
+year=1998
+comments=(jap,color)
+[EUR-PTFL.GBC]
+name=EUR-PTFL.GBC
+maker=not working?
+[EUR-SF2U.GB]
+name=Street Fighter II
+maker=Capcom
+year=1995
+comments=(super)
+[GBGALLRY.GB]
+name=Game & Watch Gallery
+maker=Nintendo
+year=1994
+comments=(super)
+[GBGLLRY3.GBC]
+name=Game & Watch Gallery 3
+maker=Nintendo
+comments=(super)
+[NIL-RATS.GBC]
+name=Rats!
+maker=Take 2
+year=1998
+comments=(color)
+[NIL-PPKP.GBC]
+name=PP Success
+maker=Konami
+year=1999
+comments=(jap,color)
+[NIL-POKY.GB]
+name=Pokemon Yellow
+maker=Nintendo
+year=1998
+comments=(jap,color,super)
+[NIL-PKD2.GBC]
+name=Pocket Densya 2
+maker=Coconuts
+year=1999
+comments=(jap,color,super)
+[NIL-PFAM.GB]
+name=NIL-PFAM.GB
+maker=not working?
+[NIL-CHND.GBC]
+name=Las Vegas Cool Hand
+maker=Take 2
+year=1998
+comments=(color)
+[NIL-BWRS.GBC]
+name=Beast Wars
+maker=Takara
+year=1998
+comments=(jap,super)
+[NIL-BUGS.GBC]
+name=Bugs Bunny Crazy Castle 3
+maker=Kemco
+year=1999
+comments=(color)
+[NIL-BOWL.GBC]
+name=Pocket Bowling
+maker=Athena
+year=1998
+comments=(color)
+[NIL-BASS.GB]
+name=Pocket Bass Fishing
+maker=Bottom Up
+year=1998
+comments=(jap)
+[NIL-MPLY.GBC]
+name=Monopoly
+maker=Hasbro
+comments=(jap,super,color)
+[NIL-MIBS.GBC]
+name=Men In Black
+maker=Crave
+year=1998
+comments=(color)
+[NIL-MAHQ.GBC]
+name=Mahjong Quest
+maker=J-Wing
+year=1998
+comments=(jap,color,super)
+[NIL-KWA3.GB]
+name=Kawanushi 3 fishing
+maker=Pack In Soft
+year=1997
+comments=(jap,super)
+[NIL-GOEM.GBC]
+name=Goemon Teng
+maker=Konami
+year=1998
+comments=(jap,color)
+[NIL-DENS.GB]
+name=Pocket Densya
+maker=Coconuts
+year=1998
+comments=(jap,color,super)
+[POWERQ.GBC]
+name=Power Quest
+maker=Sunsoft
+year=1998
+comments=(color,super)
+[PITFALL.GB]
+name=Pitfall: Beyond the Jungle
+maker=Crave
+year=1998
+comments=(color)
+[OS-WARTU.GB]
+name=GB Wars Turbo
+maker=Hudson Soft
+year=1997
+comments=(jap,super)
+[OS-WARI2.GB]
+name=OS-WARI2.GB
+maker=not working?
+[OS-SUCHI.GB]
+name=Chinese Fighter
+comments=(jap,super,color)
+[OS-CHAND.GBC]
+name=Cool Hand
+maker=Take 2
+year=1998
+comments=(color)
+[OS-DUCKT.GMB]
+name=Duck Tales
+maker=Capcom
+[OS-MONZ.GBC]
+name=Montezuma's Return
+maker=Take 2
+year=1998
+comments=(color)
+[OS-RRAT.GBC]
+name=Reservior Rat
+maker=Take 2
+year=1998
+comments=(color)
+[OS-SHANP.GBC]
+name=dupe
+[KIRBY.GB]
+name=Kirby's Dream Land
+maker=Nintendo
+year=1992
+[KIRBY2.GB]
+name=Kirby's Dream Land 2
+maker=Nintendo
+year=1995
+comments=(super)
+[KIRBYPIN.GB]
+name=Kirby's Pinball Land
+maker=Nintendo
+year=1993
+[GOEM.GBC]
+name=dupe
+[ZOOLB.GB]
+name=Zool
+maker=Gametek
+year=1993
+[ZOOL.GB]
+name=dupe
+[ZOIDS.GB]
+name=Zoids
+maker=Tomy
+year=1990
+comments=(jap)
+[ZERD.GB]
+name=ZERD.GB not working?
+[ZEOTH.GB]
+name=Battle Unit Zeoth
+maker=Jaleco
+year=1990
+comments=(jap)
+[ZEOTH!.GB]
+name=Battle Unit Zeoth
+maker=Jaleco
+year=1990
+[ZELDA4~1.GB]
+name=dupe
+[ZELDA.GB]
+name=Legend of Zelda: Link's Awakening
+maker=Nintendo
+year=1993
+[V-RALL~1.GB]
+name=V-Rally
+maker=Inforgrames
+year=1998
+[TOY_ST~1.GB]
+name=Toy Story
+maker=THQ
+year=1996
+comments=(super)
+[SONIC6.GB]
+name=Sonic 6
+maker=Sonic World
+year=1998
+comments=(hack)
+[OS-MYSTN.GMB]
+name=Mystical Ninja Goemon
+maker=Konami
+year=1998
+comments=(super)
+[JEEPJAMB.GB]
+name=Jeep Jamboree
+maker=Virgin
+year=1992
+[GARFIELD.GB]
+name=Garfield Labyrinth
+maker=Kotobuki
+[ALIEN-PD.GB]
+name=dupe
+[ALIEN3.GB]
+name=Alien3
+maker=LJN
+year=1992
+[ALLEYWAY.GB]
+name=Alleyway
+maker=Nintendo
+year=1989
+[ALLSTA2B.GB]
+name=NBA All-Star Challenge 2
+maker=LJN
+year=1992
+[ALLSTAR1.GB]
+name=NBA All-Star Challenge
+maker=LJN
+year=1990
+[ALLSTAR2.GB]
+name=dupe
+[ALTEREDB.GB]
+name=Altered Space
+maker=Sony
+year=1991
+[ALTRSPAC.GB]
+name=dupe
+[AMAZTATR.GB]
+name=Amazing Tater
+maker=Altus
+year=1991
+[AMIDA.GB]
+name=Amida
+maker=Coconuts
+year=1990
+comments=(jap)
+[ANIMAL~1.GB]
+name=Animal Breeder 2
+maker=J-Wing
+comments=(jap,super)
+[ANIMANIA.GB]
+name=Animaniacs
+maker=Konami
+year=1995
+comments=(super)
+[ANIMAN~1.GB]
+name=dupe
+[ANOTHERB.GB]
+name=Another Bible
+maker=Atlus
+year=1995
+comments=(jap,super)
+[ARETHA3.GB]
+name=Aretha
+maker=Japan Art Media
+year=1992
+comments=(jap)
+[ARREMER.GB]
+name=Red Arremer
+maker=Capcom
+year=1990
+comments=(jap)
+[AS-KIRBB.GB]
+name=Kirby's Block Ball
+maker=Nintendo
+year=1996
+comments=(super)
+[ASG-BRAN.GB]
+name=Brain Bender
+maker=Electro Brain
+year=1991
+[ASG-FAST.GB]
+name=Fastest Lap
+maker=NTVIC
+year=1991
+[ASG-PINB.GB]
+name=Pinball Deluxe
+maker=Gametek
+year=1995
+[ASG-PINF.GB]
+name=Pinball Fantasies
+maker=Gametek
+year=1994
+[ASTERIX.GB]
+name=Asterix
+maker=Infogrames
+year=1993
+[ASTEROID.GB]
+name=Asteroids
+maker=Accolade
+year=1991
+[ASTRORAB.GB]
+name=Astro Rabby
+maker=IGS
+year=1990
+[ATOMPUNK.GB]
+name=Atomic Punk
+maker=Hudson Soft
+year=1991
+[ATTACK~1.GB]
+name=Attack of the Killer Tomatoes
+maker=THQ
+[AVENGSPI.GB]
+name=Avenging Spirit
+maker=Jaleco
+year=1992
+[AYAKASI.GB]
+name=Ayakasi No Sero
+maker=Seta
+year=1990
+comments=(jap)
+[A_ISLAN2.GB]
+name=Adventure Island 2
+maker=Hudson Soft
+year=1993
+[A_ISLAND.GB]
+name=Adventure Island
+maker=Hudson Soft
+year=1991
+[A_OLYMPC.GB]
+name=Alien Olympics
+maker=Ocean
+[BANDBUTT.GB]
+name=Beavis and Butthead
+maker=GT Interactive
+year=1998
+[BIONCCOM.GB]
+name=Bionic Commando
+maker=Capcom
+year=1992
+[BOBBLE2.GB]
+name=Bubble Bobble 2
+maker=Taito
+year=1993
+[BOBBLE.GB]
+name=Bubble Bobble
+maker=Taito
+year=1990
+[BUGSLOLA.GB]
+name=dupe
+[B_BUNNY.GB]
+name=Bugs Bunny
+maker=Kemco
+year=1990
+[BURNPAPR.GB]
+name=Burning Paper
+maker=G.Amusements
+year=1992
+[BURGERTI.GB]
+name=BurgerTime
+maker=Data East
+year=1991
+[BURAIDLX.GB]
+name=Burai Fighter Deluxe
+maker=Taxan
+year=1990
+[COOLSPOT.GB]
+name=Cool Spot
+maker=Virgin
+year=1992
+[DEFENDER.GB]
+name=Defender/Joust
+maker=Nintendo
+year=1995
+comments=(super)
+[DENNIS~1.GB]
+name=Dennis the Menace
+maker=Ocean
+year=1993
+[DONKEYKG.GB]
+name=Donkey Kong
+maker=Nintendo
+year=1994
+comments=(super)
+[DROPZONE.GB]
+name=Dropzone
+maker=Mindscape
+year=1992
+[DTETRIS.GB]
+name=Palamedes
+maker=HotB
+year=1990
+[FELIXCAT.GB]
+name=Felix the Cat
+maker=Hudson Soft
+year=1993
+[FFL.GB]
+name=Final Fantasy Legend
+maker=Square Soft
+year=1989
+[FFL2.GB]
+name=Final Fantasy Legend 2
+maker=Square Soft
+year=1991
+[FFL3.GB]
+name=Final Fantasy Legend 3
+maker=Square Soft
+year=1993
+[FFORREAL.GB]
+name=Foreman For Real
+maker=Acclaim
+year=1995
+[FIFA98.GB]
+name=FIFA Soccer 98
+maker=THQ
+year=1998
+comments=(super)
+[FIFASOCC.GB]
+name=FIFA Soccer 96
+maker=THQ
+year=1995
+comments=(super)
+[G&W2.GB]
+name=Game & Watch Gallery 2
+maker=Nintendo
+year=1997
+comments=(jap,super)
+[KGOLF.GB]
+name=Golf
+maker=Konami
+year=1994
+[MINESWEE.GB]
+name=Minesweeper
+maker=Pack-in Video
+year=1991
+[MINIPUTT.GB]
+name=Mini-Putt
+maker=Accolade
+year=1991
+[MONTEZ.GB]
+name=dupe
+[BACKFROM.GB]
+name=TMHT: Back from the Sewers
+maker=Konami
+year=1992
+[BALLOON.GB]
+name=Balloon Kid
+maker=Nintendo
+year=1990
+[BAM4.GB]
+name=Bust-A-Move 4
+maker=Acclaim
+year=1999
+comments=(color)
+[BANRACER.GB]
+name=Banishing Racer
+maker=Jaleco
+year=1991
+comments=(jap)
+[BARBIE.GB]
+name=Barbie Game Girl
+maker=Hi Tech Expressions
+year=1992
+[BARDIGUN.GB]
+name=Bardigun
+maker=Tam
+year=1998
+comments=(jap,color,super)
+[BARTSIMP.GB]
+name=Bart Simpson's Escape from Camp Deadly
+maker=Acclaim
+year=1991
+[BASEBALL.GB]
+name=Baseball
+maker=Nintendo
+year=1989
+[BASES_LO.GB]
+name=Bases Loaded
+maker=Jaleco
+year=1990
+[BASKET.GB]
+name=GB Basketball
+maker=Imagineer
+year=1992
+comments=(jap)
+[BASS.GB]
+name=Hyper Black Bass
+maker=HotB
+year=1992
+[BATLBULL.GB]
+name=Battle Bull
+maker=Seta
+year=1990
+[BATMAN4E.GB]
+name=Batman Forever
+maker=Acclaim
+year=1995
+[BATMANAN.GB]
+name=Batman: The Animated Series
+maker=Konami
+year=1998
+[BATMANRO.GB]
+name=Batman: Return of the Joker
+maker=Sunsoft
+year=1992
+[BATOKING.GB]
+name=Battle of Kingdom
+maker=Meldac - 1991
+comments=(jap)
+[BATTLETO.GB]
+name=Battletoads
+maker=Tradewest
+year=1991
+[BATTLE_C.GB]
+name=Battle City
+maker=Nova
+year=1991
+[BATTLE~1.GB]
+name=dupe
+[BBKIDS.GB]
+name=Baseball Kids
+maker=Jaleco
+year=1990
+comments=(jap)
+[BCKID2.GB]
+name=BC Kid 2
+maker=Hudson Soft
+year=1994
+comments=(super)
+[BEACH.GB]
+name=Beach Volleyball
+maker=Technos
+year=1994
+comments=(jap,super)
+[BEET2ND.GB]
+name=Beethoven's 2nd
+maker=Hi Tech Entertainment
+year=1994
+comments=(super)
+[BEETLEJU.GB]
+name=Beetlejuice
+maker=LJN
+year=1991
+[BEST.GB]
+name=Best of the Best
+maker=Electro Brain
+year=1992
+[BILLANDT.GB]
+name=Bill & Ted's Excellent Adventure
+maker=LJN
+year=1990
+[BILLELLI.GB]
+name=Bill Elliot's NASCAR Fast Tracks
+maker=Konami
+year=1991
+[ZEN_-_~1.GB]
+name=Zen Intergalactic Ninja
+maker=Konami
+year=1993
+[ZENINTEB.GB]
+name=Zen Intergalactic Ninja
+maker=Konami
+year=1992
+[ZEN.GB]
+name=dupe
+[ZELDAJ.GB]
+name=Legend of Zelda: Link's Awakening
+maker=Nintendo
+year=1993
+comments=(jap)
+[YUYUH4.GB]
+name=Yuu Yuu 4
+maker=Tomy
+year=1994
+comments=(jap,super)
+[YUYUH3.GB]
+name=Yuu Yuu 3
+maker=Tomy
+year=1994
+comments=(jap)
+[YUYUH1.GB]
+name=Yuu Yuu 1
+maker=Tomy
+year=1993
+comments=(jap)
+[YUUYUU2.GB]
+name=Yuu Yuu 2
+maker=Tomy
+year=1993
+comments=(jap)
+[YOSSYNOP.GB]
+name=Yoshi no Panepon
+maker=Nintendo
+year=1996
+comments=(jap)
+[YOSSYNOB.GB]
+name=Yoshi no Tomago
+maker=Nintendo
+year=1992
+[YAMATO.GB]
+name=Yamato
+maker=Bec
+year=1992
+comments=(jap)
+[YAIBA.GB]
+name=Yaiba
+maker=Banpresto
+year=1994
+comments=(jap)
+[Y2.GB]
+name=Yoshi's Cookie
+maker=Nintendo
+year=1993
+[XERD2.GB]
+name=Legend of Zerd 2
+comments=(jap)
+[XENON2.GB]
+name=Xenon 2
+maker=Mindscape
+year=1992
+[XEKKUSU.GB]
+name=X
+maker=Nintendo
+year=1992
+comments=(jap)
+[RATS.GB]
+name=dupe
+[POPEYE.GB]
+name=Popeye
+maker=Sigma
+year=1990
+[POPEYE2.GB]
+name=Popeye 2
+maker=Activision
+[POPEYE2J.GB]
+name=Popeye 2
+maker=Sigma
+year=1991
+[POQU.GB]
+name=dupe
+[BIONICBA.GB]
+name=Bionic Battler
+maker=Electro Brain
+year=1992
+[BJACKSON.GB]
+name=Bo Jackson Hit and Run
+maker=THQ
+year=1990
+[BLADES.GB]
+name=Blades of Steel
+maker=Ultra
+year=1991
+[BLODIA.GB]
+name=Blodia
+maker=Broderbund
+year=1990
+[BLUESBRO.GB]
+name=Blues Brothers Jukebox Adventure
+maker=Titus
+year=1994
+[WACKY.GB]
+name=Tiny Toon Adventures Wacky Sports
+maker=Konami
+year=1994
+[WARIOBLS.GB]
+name=Wario Blast
+maker=Nintendo
+year=1994
+comments=(super)
+[VIRTUAL.GB]
+name=Virtual Wars
+maker=Coconuts
+year=1994
+comments=(jap)
+[BMBERMAN.GB]
+name=Bomberman GB
+maker=Hudson Soft
+year=1994
+comments=(super)
+[BMBGB2.GB]
+name=Bomberman GB 2
+maker=Hudson Soft
+year=1995
+comments=(super)
+[BMBKING2.GB]
+name=Bomber King 2
+maker=Sunsoft
+year=1991
+[BMBRMAN3.GB]
+name=Bomberman GB 3
+maker=Hudson Soft
+year=1996
+comments=(super,jap)
+[BM_BOY.GB]
+name=Blaster Master Boy
+maker=Sunsoft
+year=1991
+[BOB-LUCL.GB]
+name=Lucle
+maker=Vic Tokai
+year=1994
+[BOBBYBOY.GB]
+name=Booby Boys
+maker=Nihon Bussan
+year=1993
+comments=(jap)
+[BOKUDRAC.GB]
+name=Dracula
+maker=Konami
+year=1993
+[BOMBER~1.GB]
+name=dupe
+[BOMBER~2.GB]
+name=dupe
+[BOMBJACK.GB]
+name=Bomb Jack
+maker=Infogrames
+year=1992
+[BOMBRBOY.GB]
+name=Bomber Boy
+maker=Hudson Soft
+year=1990
+[BONK1.GB]
+name=Bonk's Adventure
+maker=Hudson Soft
+year=1992
+[BONK2.GB]
+name=Bonk 2
+maker=Hudson Soft
+year=1994
+comments=(jap,super)
+[BOOM-ADV.GB]
+name=Boomer's Adventure in Asmik World
+maker=Asmik
+year=1990
+[BOOMERSJ.GB]
+name=Boomer's Adventure
+maker=Asmik
+year=1989
+comments=(jap)
+[BOULDERD.GB]
+name=Boulder Dash
+maker=First Star
+year=1990
+[BOXING.GB]
+name=Boxing
+maker=Tonkin House
+year=1990
+comments=(jap)
+[AGS-VR99.GBC]
+name=dupe
+[AGS-BAM4.GB]
+name=dupe
+[CPL-HOMC.GBC]
+name=Holy Magic Century
+maker=Imagineer
+year=1998
+comments=(super,color)
+[MNC-AB2K.GBC]
+name=All-Star Baseball 2000
+maker=Acclaim
+year=1999
+[MNC-PBOY.GBC]
+name=Paperboy
+maker=Midway
+comments=(color)
+[MNC-CHHQ.GBC]
+name=Chase HQ Secret Police
+maker=Taito
+year=1999
+comments=(color)
+[Volume.in]
+name=no label
+[DEFEND~1.GBC]
+name=Defender,Joust
+comments=(U)
+[BEATMA~2.GBC]
+name=Beat Mania 2
+comments=(J)
+[HOLLYW~1.GBC]
+name=Hollywood Pinball
+comments=(U)
+[BABE(U~1.GBC]
+name=Babe
+comments=(U)
+[ELMOAB~1.GBC]
+name=Elmo Abc
+comments=(U)
+[TOPGEA~2.GBC]
+name=Topgear Pocket
+comments=(U)
+[AMIDA(~1.GB]
+name=Amida
+comments=(J)
+[QUESTF~1.GBC]
+name=Quest Fantasy
+comments=(U)
+[WWFATT~1.GBC]
+name=Wwf Attitude
+comments=(U)
+[SPYVSS~1.GBC]
+name=Spy Vs
+[NBAJAM~1.GBC]
+name=Nba Jam 99
+comments=(U)
+[SPAWN(~1.GBC]
+name=Spawn
+comments=(U)
+[SUZUKI~1.GBC]
+name=Suzuki
+comments=(U)
+[QIXADV~1.GBC]
+name=Qix Adventure
+comments=(J)
+[RPN(J)~1.GB]
+name=Rpn
+comments=(J)
+[RESERV~1.GBC]
+name=Reservoir Rat
+comments=(U)
+[MONTEZ~2.GB]
+name=Montezuma's Revenge
+comments=(U)
+[TAZMAN~1.GBC]
+name=Tazmania
+comments=(U)
+[BOMBER~1.GBC]
+name=Bomberman Quest
+comments=(J)
+[FRONTR~1.GBC]
+name=Front Row
+comments=(J)
+[CRAZYB~1.GBC]
+name=Crazy Bikers
+comments=(U)
+[MISSIO~1.GBC]
+name=Mission Impossible
+comments=(U)
+[NUTZ(U~1.GBC]
+name=Nutz
+comments=(U)
+[EVELKN~1.GBC]
+name=Evel Knieval
+comments=(U)
+[COOLHA~2.GBC]
+name=Cool Hand
+comments=(U)
+[SUPERR~1.GBC]
+name=Super Real Fishing
+comments=(J)
+[BASSMA~1.GBC]
+name=Bass Master
+comments=(U)
+[RAMPAR~1.GBC]
+name=Rampart
+comments=(U)
+[CARMAG~2.GBC]
+name=Carmageddon
+comments=(U)
+[BESTOF~1.GB]
+name=Best Of The Best
+comments=(U)
+[CGBDEM~1.GBC]
+name=Cgb Demo
+comments=(U)
+[CAESAR~1.GBC]
+name=Caesars Palace 2
+comments=(U)
+[BOMBER~2.GBC]
+name=Bomberquest
+comments=(U)
+[SHANGH~2.GBC]
+name=Shanghai Pocket
+comments=(U)
+[TARZAN~1.GBC]
+name=Tarzan
+comments=(U)
+[MARIOD~1.GB]
+name=Mario Deluxe
+comments=(U)
+[SPRITE~1.GB]
+name=Sprite
+comments=(J)
+[HIGHWA~1.GBC]
+name=Highway Racing
+comments=(J)
+[GOEMON~2.GBC]
+name=Goemon Teng
+comments=(J)
+[QUIQUI~1.GBC]
+name=Quiqui
+comments=(J)
+[THESMU~1.GBC]
+name=The Smurfs 3
+comments=(U)
+[POCKET~3.GBC]
+name=Pocket Cl Block
+comments=(J)
+[WETRIX~1.GBC]
+name=Wetrix
+comments=(J)
+[PITFAL~1.GB]
+name=Pitfall
+comments=(U)
+[HOLEIN~1.GBC]
+name=Hole In One
+comments=(U)
+[ISS99(~1.GB]
+name=Iss99
+comments=(U)
+[YUGI(J~1.GBC]
+name=Yugi
+comments=(J)
+[HAMSTE~1.GBC]
+name=Hamster Club
+comments=(J)
+[R-TYPE~1.GBC]
+name=R-type Dx
+comments=(U)
+[ROX(J)~1.GB]
+name=Rox
+comments=(J)
+[BUGSLI~1.GBC]
+name=Bugs Life
+[SYLVES~1.GB]
+name=Sylvester
+comments=(U)
+[SYLVAN~1.GBC]
+name=Sylvanian
+comments=(J)
+[KARAMU~1.GBC]
+name=Karamucho
+comments=(J)
+[SOUND(~1.GB]
+name=Sound
+comments=(J)
+[BARDIG~1.GB]
+name=Bardigun
+comments=(J)
+[POKEMO~2.GB]
+name=Pokemon Usa
+comments=(U)
+[ALLSTA~1.GBC]
+name=Allstar 2000
+comments=(U)
+[WIZARD~1.GBC]
+name=Wizardry
+comments=(J)
+[CLOWN1~1.GB]
+name=Clown 1
+comments=(J)
+[HOLYMA~1.GBC]
+name=Holy Magic
+comments=(U)
+[GODZIL~1.GBC]
+name=Godzilla
+comments=(U)
+[BBATTL~1.GBC]
+name=B Battlers
+comments=(J)
+[TONKAR~1.GBC]
+name=Tonka Race
+comments=(U)
+[KLUSTA~1.GB]
+name=Klustar
+comments=(U)
+[PETSHO~1.GBC]
+name=Pet Shop
+comments=(J)
+[ASTERO~1.GBC]
+name=Asteroids
+comments=(U)
+[SHADOW~2.GBC]
+name=Shadowgate Classic
+comments=(U)
+[BUBBLE~1.GBC]
+name=Bubble Bobble
+comments=(U)
+[LOGICA~1.GB]
+name=Logical
+comments=(U)
+[V-RALL~1.GBC]
+name=V-rally
+comments=(U)
+[WORMS(~1.GBC]
+name=Worms
+comments=(U)
+[RONALD~1.GBC]
+name=Ronaldo
+comments=(U)
+[FAIRYK~1.GBC]
+name=Fairy Kitty
+comments=(J)
+[CHASEH~1.GBC]
+name=Chase Hq
+comments=(U)
+[PPSUCC~1.GBC]
+name=Pp Success
+comments=(J)
+[PAPERB~1.GBC]
+name=Paperboy
+comments=(U)
+[ZELDA(~1.GB]
+name=Zelda
+comments=(U)
+[MISSIL~1.GBC]
+name=Missile Command
+comments=(U)
+[TNNFIS~1.GBC]
+name=Tnn Fishing
+comments=(U)
+[PAC-MA~1.GBC]
+name=Pac-man
+comments=(U)
+[ANTZ(U~1.GBC]
+name=Antz
+comments=(U)
+[CHESSM~1.GBC]
+name=Chessmaster
+comments=(U)
+[VCALDA~1.GB]
+name=Vcaldan
+comments=(J)
+[RATS!(2).GBC]
+name=Rats!
+comments=(2)
+[BUSTAM~2.GB]
+name=Bust A Move 4
+comments=(U)
+[MAHJON~1.GBC]
+name=Mahjong Quest
+comments=(J)
+[TOKIME~1.GBC]
+name=Tokimeki
+comments=(J)
+[RATS!(~1.GB]
+name=Rats!
+comments=(U)
+[MENINB~1.GBC]
+name=Men In Black
+comments=(U)
+[BATTLE~1.GBC]
+name=Battle Ship
+comments=(U)
+[MOTOMA~1.GBC]
+name=Moto Mania 2
+comments=(U)
+[CONTRA~1.GB]
+name=Contra
+comments=(J)
+[TOPGEA~1.GBC]
+name=Topgear Pocket
+comments=(J)
+[MONTEZ~1.GB]
+name=Montezuma
+comments=(U)
+[TOPGEA~1.GB]
+name=Topgear Rally
+comments=(U)
+[GOEMON~1.GBC]
+name=Goemon Teng
+comments=(2)
+[ROBOPO~1.GBC]
+name=Robopon Star
+comments=(J)
+[ELMO(U).GBC]
+name=Elmo
+comments=(U)
+[MARIOG~1.GBC]
+name=Mario Golf
+comments=(J)
+[POCKET~1.GBC]
+name=Pocket Gt
+comments=(J)
+[ISS99(2).GBC]
+name=Iss99
+comments=(2)
+[MONSTE~1.GBC]
+name=Monster
+comments=(J)
+[POCKET~1.GB]
+name=Pocket Puyo
+comments=(J)
+[MARIOG~2.GBC]
+name=Mario Golf
+comments=(U)
+[POKEMO~1.GB]
+name=Pokemon Pinball
+comments=(J)
+[THERIV~1.GB]
+name=The River King
+comments=(U)
+[POKEMO~1.GBC]
+name=Pokemon Pinball
+comments=(U)
+[CARMAG~1.GBC]
+name=Carmageddon
+comments=(2)
+[BEATMA~1.GBC]
+name=Beat Mania
+comments=(J)
+[SHANGH~1.GBC]
+name=Shanghai Pocket
+comments=(U)
+[ZELDA(2).GB]
+name=Zelda
+comments=(2)
+[ZELDA(3).GBC]
+name=Zelda
+comments=(3)
+[POKEMO~2.GBC]
+name=Pokemon Blue
+comments=(U)
+[POCKET~2.GBC]
+name=Pocket Densya 2
+comments=(J)
+[NBAINT~1.GB]
+name=Nba In The Zone
+comments=(U)
+[BUGSBU~1.GB]
+name=Bugs Bunny
+comments=(U)
+[BUGSBU~1.GBC]
+name=Bugs Bunny
+comments=(2)
+[BUSTAM~1.GB]
+name=Bust A Move 4
+comments=(2)
+[SHADOW~1.GBC]
+name=Shadowgate Classic
+comments=(2)
+[PAPERB~1.GB]
+name=Paperboy
+comments=(U)
+[RAMPAG~1.GBC]
+name=Rampage 2
+comments=(U)
+[SUPERB~1.GBC]
+name=Super Breakout
+comments=(U)
+[GBGALL~1.GBC]
+name=Gb Gallery 3
+comments=(U)
+[POKEMO~3.GBC]
+name=Pokemon Card
+comments=(J)
+[LOGICA~1.GBC]
+name=Logical
+comments=(U)
+[POWERQ~1.GBC]
+name=Power Quest
+comments=(2)
+[COOLHA~1.GBC]
+name=Cool Hand
+comments=(U)
+[RUGRAT~1.GBC]
+name=Rugrats Movie
+comments=(U)
+[ROBOPO~2.GBC]
+name=Robopon Sun
+comments=(J)
+[MORTAL~1.GB]
+name=Mortal Kombat 4
+comments=(U)
+[MONSTE~2.GBC]
+name=Monster Race 2
+comments=(J)
+[MONTEZ~1.GBC]
+name=Montezuma
+comments=(U)
+[TUROK2~1.GB]
+name=Turok 2
+comments=(U)
+[BOWLIN~1.GBC]
+name=Bowling
+comments=(J)
+[RUGRAT~2.GBC]
+name=Rugrats Moive
+comments=(U)
+[GRANDT~1.GBC]
+name=Grand Theft Auto
+comments=(U)
+[BACKGA~1.GBC]
+name=Backgammon
+comments=(J)
+[EARTHW~1.GBC]
+name=Earthworm Jim 2
+comments=(U)
+[RAMPAG~1.GB]
+name=Rampage World Tour
+comments=(U)
+[PAPYRU~1.GBC]
+name=Papyrus
+comments=(U)
+[HARVES~1.GB]
+name=Harvest Moon
+comments=(U)
+[BUGSBU~2.GBC]
+name=Bugs Bunny Cc3
+comments=(J)
+[BEASTW~1.GBC]
+name=Beast Wars
+comments=(J)
+[JEFFGO~1.GBC]
+name=Jeff Gordon
+comments=(U)
+[DRAGON~1.GB]
+name=Dragonquest Monsters
+comments=(J)
+[MONOPO~1.GBC]
+name=Monopoly
+comments=(J)
+[NFLBLI~1.GB]
+name=Nfl Blitz
+comments=(U)
+[MSPAC-~1.GBC]
+name=Ms
+[GBWARS~1.GBC]
+name=Gb Wars 2
+comments=(J)
+[SPACEI~1.GBC]
+name=Space In
+comments=(U)
+[DUKENU~1.GBC]
+name=Duke Nukem
+comments=(U)
+[OTHELL~1.GBC]
+name=Othello 2000
+comments=(J)
+[BILLYB~1.GBC]
+name=Billy Bob
+comments=(U)
+[MADDEN~1.GBC]
+name=Madden 2000
+comments=(U)
+[BEAUTY~1.GB]
+name=Beauty And The Beast
+comments=(U)
+[DROPZO~1.GBC]
+name=Dropzone
+comments=(U)
+[SURVIV~1.GBC]
+name=Survival Kids
+comments=(U)
+[TRACK&~1.GBC]
+name=Track & Field
+comments=(J)
+[10-PIN~1.GBC]
+name=10-pin Bowling
+comments=(U)
+[CONKER~1.GBC]
+name=Conker
+comments=(U)
+[NUMBER~1.GBC]
+name=Number Place
+comments=(J)
+[GENSAN~1.GB]
+name=Gensan
+comments=(J)
+[TOM&JE~1.GBC]
+name=Tom & Jerry
+comments=(U)
+[TOYSTO~1.GBC]
+name=Toy Story 2
+comments=(U)
+[PUZZLE~1.GBC]
+name=Puzzle Master
+comments=(U)
+[MUSCLE~1.GBC]
+name=Muscle Rank
+comments=(J)
+[BALLIS~1.GBC]
+name=Ballistic
+comments=(U)
+[POWERQ~1.GB]
+name=Power Quest
+comments=(U)
+[720DEG~1.GBC]
+name=720 Degrees
+[ABOYAN~1.GB]
+name=A Boy and His Blob
+comments=(US)
+[ADDAMS~1.GB]
+name=Addams Family
+comments=(US)
+[ADDAMS~2.GB]
+name=Addams Family 2 Pugsley's Scavenger Hunt
+comments=(US)
+[ADVENT~1.GB]
+name=Adventure Island
+comments=(US)
+[ADVENT~2.GB]
+name=Adventure Island 2
+comments=(US)
+[AEROST~1.GB]
+name=Aerostar
+comments=(J)(59509)
+[AFTERB~1.GB]
+name=After Burst
+comments=(J)
+[ALADDI~1.GB]
+name=Aladdin
+comments=(US)
+[ALFRED~1.GB]
+name=Alfred Chicken
+comments=(US)
+[ALIEN3~1.GB]
+name=Alien 3
+comments=(US)(54867)
+[ALIENO~1.GB]
+name=Alien Olympics 2044 AD
+comments=(US)(29973)
+[ALIENV~1.GB]
+name=Alien vs Predator
+comments=(J)
+[ALIENV~2.GB]
+name=Alien vs Predator
+comments=(US)
+[ALLSTA~1.GB]
+name=All Star Challenge 2
+comments=(J)
+[ALLEYW~1.GB]
+name=Alleyway
+comments=(J)
+[ALTERE~1.GB]
+name=Altered Space
+comments=(J)
+[ALTERE~2.GB]
+name=Altered Space
+comments=(US)(48211)
+[AMAZIN~1.GB]
+name=Amazing Spider-Man, The
+comments=(US)
+[AMAZIN~2.GB]
+name=Amazing Tater
+comments=(US)
+[ANOTHE~1.GB]
+name=Another Bible
+comments=(SGB)(J)
+[ARETHA~1.GB]
+name=Aretha 3
+comments=(J)(54515)
+[ASTERI~1.GB]
+name=Asterix
+comments=(US)(53206)
+[ASTERO~1.GB]
+name=Asteroids & Missile Command
+comments=(SGB)(US)(43779)
+[ASTERO~2.GB]
+name=Asteroids
+comments=(US)
+[ASTROR~1.GB]
+name=Astro Rabby
+comments=(J)
+[ATOMIC~1.GB]
+name=Atomic Punk
+comments=(US)(4857)
+[AVENGI~1.GB]
+name=Avenging Spirit
+comments=(US)
+[AYAKAS~1.GB]
+name=Ayakasi no Siro
+comments=(J)
+[BCKID2~1.GB]
+name=BC Kid 2
+comments=(SGB)(US)
+[BALLOO~1.GB]
+name=Balloon Kid
+comments=(J)
+[BANISH~1.GB]
+name=Banishing Racer
+comments=(J)
+[BARBIE~1.GB]
+name=Barbie Game Girl
+comments=(US)
+[BARTSI~1.GB]
+name=Bart Simpson's Escape from Camp Deadly
+comments=(US)
+[BASEBA~1.GB]
+name=Baseball
+comments=(J)
+[BASEBA~2.GB]
+name=Baseball Kids
+comments=(J)
+[BASESL~1.GB]
+name=Bases Loaded
+comments=(US)
+[BASKET~1.GB]
+name=Basketball
+comments=(J)
+[BATMAN~1.GB]
+name=Batman Forever
+comments=(US)
+[BATMAN~2.GB]
+name=Batman Return of the Joker
+comments=(J)
+[BATMAN~3.GB]
+name=Batman The Animated Series
+comments=(US)
+[BATTLE~2.GB]
+name=Battle Crusher
+comments=(SGB)(J)
+[BATTLE~3.GB]
+name=Battle Pingpong
+comments=(J)
+[BATTLE~4.GB]
+name=Battle Unit Zeoth
+comments=(J)
+[BATTLE~5.GB]
+name=Battle Unit Zeoth
+comments=(US)
+[BATTLE~6.GB]
+name=Battle of Kingdom
+comments=(J)
+[BATTLE~7.GB]
+name=Battlecity
+comments=(J)
+[BATTLE~8.GB]
+name=Battletoads
+comments=(US)
+[BATTLE~9.GB]
+name=Battletoads in Ragnarok's World
+comments=(US)
+[BEACHV~1.GB]
+name=Beach Volleyball
+comments=(SGB)(J)(19449)
+[BEAVIS~1.GB]
+name=Beavis and Butthead
+comments=(US)
+[BEETHO~1.GB]
+name=Beethovens 2nd
+comments=(SGB)(US)
+[BEETLE~1.GB]
+name=Beetlejuice
+comments=(US)
+[BILLEL~1.GB]
+name=Bill Elliotts Nascar Fast Tracks
+comments=(US)
+[BILLAN~1.GB]
+name=Bill and Ted's Excellent GB Adventure
+comments=(US)
+[BIONIC~1.GB]
+name=Bionic Battler
+comments=(US)
+[BIONIC~2.GB]
+name=Bionic Commando
+comments=(US)(14554)
+[BISHOJ~1.GB]
+name=Bishojyo Sensi SE
+comments=(J)
+[BLADES~1.GB]
+name=Blades of Steel
+comments=(US)
+[BLASTE~1.GB]
+name=Blaster Master Boy
+comments=(US)
+[BLODIA~1.GB]
+name=Blodia
+comments=(J)(29719)
+[BLUESB~1.GB]
+name=Blues Brothers Jukebox Adventure
+comments=(US)
+[BOJACK~1.GB]
+name=Bo Jackson Hit and Run
+comments=(US)
+[BOKUDR~1.GB]
+name=Boku Dracura Kun
+comments=(J)
+[BOMBJA~1.GB]
+name=Bomb Jack
+comments=(US)
+[BOMBER~3.GB]
+name=Bomberman Collection
+comments=(SGB)(J)
+[BOMBER~4.GB]
+name=Bomberman GB
+comments=(SGB)(J)
+[BOMBER~5.GB]
+name=Bomberman GB
+comments=(SGB)(US)
+[BOMBER~6.GB]
+name=Bomberman GB 3
+comments=(SGB)(J)
+[BONK'S~1.GB]
+name=Bonk's Adventure
+comments=(US)
+[BOOBYB~1.GB]
+name=Booby Boys
+comments=(J)
+[BOOMER~1.GB]
+name=Boomer's Adventure ASMIK World
+comments=(J)
+[BOOMER~2.GB]
+name=Boomer's Adventure ASMIK World
+comments=(US)
+[BOULDE~1.GB]
+name=Boulder Dash
+comments=(US)
+[BOXING~1.GB]
+name=Boxing
+comments=(J)(19826)
+[BOXXLE~1.GB]
+name=Boxxle - Version 1
+[BOXXLE~2.GB]
+name=Boxxle 2
+comments=(US)
+[BRAINB~1.GB]
+name=Brainbender
+comments=(US)
+[BREAKT~1.GB]
+name=Breakthru
+comments=(US)
+[BUBBLE~2.GBC]
+name=Bubble Bobble
+comments=(I)
+[BUBBLE~1.GB]
+name=Bubble Bobble
+comments=(J)(2428)
+[BUBBLE~2.GB]
+name=Bubble Bobble 2
+comments=(US)
+[BUBBLE~3.GB]
+name=Bubble Bobble Jr
+[BUBBLE~4.GB]
+name=Bubble Ghost
+comments=(J)
+[BUBSYI~1.GB]
+name=Bubsy II
+comments=(+2 Trainer)
+[BUGSBU~2.GB]
+name=Bugs Bunny
+comments=(US)(43169)
+[BURAIF~1.GB]
+name=Burai Fighter Deluxe
+comments=(US)
+[BURGER~1.GB]
+name=Burger Time
+comments=(J)
+[BURNIN~1.GB]
+name=Burning Paper
+comments=(J)
+[BUSTAM~1.GBC]
+name=Bust a Move 4
+comments=(I)
+[CADILL~1.GB]
+name=Cadillac 2
+comments=(J)
+[CAESAR~1.GB]
+name=Caesar's Palace
+comments=(US)
+[CAPCOM~1.GB]
+name=Capcom Quiz
+comments=(J)
+[CARDGA~1.GB]
+name=Card Game
+comments=(J)
+[CASTEL~1.GB]
+name=Castelian
+comments=(US)
+[CASTLE~1.GB]
+name=Castlevania 2 - Belmont's Revenge
+comments=(US)(12776)
+[CASTLE~2.GB]
+name=Castlevania Adventure
+comments=(J)
+[CASTLE~3.GB]
+name=Castlevania Adventure
+comments=(US)(41541)
+[CENTIP~1.GB]
+name=Centipede-Millipede
+comments=(SGB)(US)
+[CHESSM~1.GB]
+name=Chessmaster, The
+comments=(Version 1
+[CHINES~1.GB]
+name=Chinese Fighter
+comments=(SGB)(J)
+[CHOPLI~1.GB]
+name=Choplifter 2
+comments=(US)(LucasArts - Broderbund)
+[CHOPLI~2.GB]
+name=Choplifter 3
+comments=(US)
+[CLIFFH~1.GB]
+name=Cliffhanger
+comments=(US)
+[CONKER~1.GB]
+name=Conker's Pocket Tales
+[CONTRA~2.GB]
+name=Contra Spirit
+comments=(SGB)(J)
+[COOLSP~1.GB]
+name=Cool Spot
+comments=(US)(46981)
+[COOLWO~1.GB]
+name=Cool World
+comments=(US)(21352)
+[CRYSTA~1.GB]
+name=Crystal Quest
+comments=(US)
+[CUTTHR~1.GB]
+name=Cutthroat Island
+comments=(US)(37394)
+[CYBERF~1.GB]
+name=Cyber Formula
+comments=(J)
+[CYRAID~1.GB]
+name=Cyraid
+comments=(US)
+[DAFFYD~1.GB]
+name=Daffy Duck
+comments=(SGB)(J)
+[DAFFYD~2.GB]
+name=Daffy Duck - The Marvin Mission
+comments=(US)
+[DARKWI~1.GB]
+name=Darkwing Duck
+comments=(US)
+[DAYSOF~1.GB]
+name=Days of Thunder
+comments=(US)
+[DEADHE~1.GB]
+name=Dead Heat Scramble
+comments=(US)
+[DEFEND~1.GB]
+name=Defender-Joust
+comments=(SGB)(US)
+[DESERT~1.GB]
+name=Desert Strike - Return to the Gulf
+[DEXTER~1.GB]
+name=Dexterity
+comments=(US)
+[DICKTR~1.GB]
+name=Dick Tracy
+comments=(US)
+[DIGDUG~1.GB]
+name=Dig Dug
+comments=(US)
+[DODGEB~1.GB]
+name=Dodge Ball
+comments=(J)(35821)
+[DODGEB~2.GB]
+name=Dodge Boy
+comments=(J)
+[DODGED~1.GB]
+name=Dodge Danpei
+comments=(J)
+[DONKEY~1.GB]
+name=Donkey Kong - Version 1
+[DONKEY~2.GB]
+name=Donkey Kong Land 95
+comments=(SGB)(US)
+[DOUBLE~1.GB]
+name=Double Dragon 2
+comments=(US)
+[DOUBLE~2.GB]
+name=Double Dragon 3
+comments=(US)
+[DOUBLE~3.GB]
+name=Double Dribble
+comments=(US)
+[DRFRAN~1.GB]
+name=Dr Franken
+comments=(US)
+[DRFRAN~2.GB]
+name=Dr Franken 2
+comments=(US)
+[DRMARI~1.GB]
+name=Dr Mario
+comments=(J)
+[DRAGON~1.GBC]
+name=Dragon Quest Monsters
+[DRAGON~2.GB]
+name=Dragon Slayer
+comments=(J)
+[DRAGON~3.GB]
+name=Dragon's Lair - The Legend UKO
+comments=(US)
+[DROPZO~1.GB]
+name=Dropzone
+comments=(US)
+[DUCKTA~1.GB]
+name=Duck Tales
+comments=(US)(34067)
+[DUCKTA~2.GB]
+name=Duck Tales 2
+comments=(US)
+[DUNGEO~1.GB]
+name=Dungeonland
+comments=(J)
+[EARTHW~1.GB]
+name=Earthworm Jim
+comments=(SGB)(US)(35960)
+[ELEVAT~1.GB]
+name=Elevator Action
+comments=(US)
+[EMPIRE~1.GB]
+name=Empire Strikes Back, The
+comments=(US)
+[F-1BOY~1.GB]
+name=F-1 Boy
+comments=(J)(56055)
+[F-1SPI~1.GB]
+name=F-1 Spirit
+comments=(J)
+[F-1SUP~1.GB]
+name=F-1 Super Driving
+comments=(J)
+[F-15ST~1.GB]
+name=F-15 Strike Eagle
+comments=(US)
+[FIFASO~1.GB]
+name=FIFA Soccer `96
+comments=(SGB)(US)
+[FIFASO~2.GB]
+name=FIFA Soccer `98
+comments=(SGB)(US)
+[FACEBA~1.GB]
+name=Faceball 2000
+[FAMILY~1.GB]
+name=Family Jockey
+comments=(J)
+[FASTES~1.GB]
+name=Fastest Lap
+comments=(US)
+[FELIXT~1.GB]
+name=Felix the Cat
+comments=(US)(34754)
+[FERRAR~1.GB]
+name=Ferrari
+comments=(US)
+[FIDGET~1.GB]
+name=Fidgetts, The
+comments=(J)
+[FIGHBI~1.GB]
+name=Fighbird
+comments=(J)
+[FINALF~1.GB]
+name=Final Fantasy Legend - Saga
+comments=(US)
+[FINALF~2.GB]
+name=Final Fantasy Legend 2 - Saga 2
+comments=(US)
+[FINALF~3.GB]
+name=Final Fantasy Legend 3 - Sega 3
+comments=(US)(57766)
+[FINALR~1.GB]
+name=Final Reverse
+comments=(J)
+[FIREFI~1.GB]
+name=Fire Fighter
+[FISHDU~1.GB]
+name=Fish Dude
+comments=(US)
+[FISTOF~1.GB]
+name=Fist of the North Star
+comments=(US)
+[FLAPPY~1.GB]
+name=Flappy Special
+comments=(J)
+[FLASH_~1.GB]
+name=Flash, The
+comments=(US)
+[FLINTS~1.GB]
+name=Flintstones, The
+comments=(US)(44379)
+[FLINTS~2.GB]
+name=Flintstones, The - King Rock Treasure Island
+comments=(US)
+[FLYING~1.GB]
+name=Flying Warriors
+comments=(US)
+[FORMAN~1.GB]
+name=Forman for Real
+comments=(US)
+[FORTIF~1.GB]
+name=Fortified Zone
+comments=(US)
+[FRISKY~1.GB]
+name=Frisky Tom
+comments=(SGB)(J)
+[FUNNYF~1.GB]
+name=Funny Field
+comments=(J)(57763)
+[FUNPAC~1.GB]
+name=Funpack 4 in 1
+comments=(J)
+[FUNPAC~2.GB]
+name=Funpack 4 in 1 Vol
+[GINGA(~1.GB]
+name=Ginga
+comments=(J)
+[EUR-STNF.GBC]
+name=eur-stnf
+[EUR-STNP.GBC]
+name=eur-stnp
+[GALAGA~1.GB]
+name=Galaga & Galaxian
+comments=(SGB)(US)
+[GAME&W~1.GB]
+name=Game & Watch Gallery 2
+comments=(SGB)(J)
+[GAMEAN~1.GBC]
+name=Game and Watch Gallery 2
+[GAMEOF~1.GB]
+name=Game of Harmony, The
+comments=(US)
+[GAMEBO~1.GB]
+name=Gameboy Gallery
+comments=(SGB)(US)(43908)
+[GAMEBO~2.GB]
+name=Gameboy Wars Turbo
+comments=(SGB)(J)
+[GANBAR~1.GB]
+name=Ganbare Goemon
+comments=(J)
+[GARFIE~1.GB]
+name=Garfield
+comments=(US)
+[GARGOY~1.GB]
+name=Gargoyle's Quest
+comments=(US)
+[GOAL(U~1.GB]
+name=Goal
+comments=(US)
+[OS-BOKU2.GBC]
+name=os-boku2
+[OS-MAYAB.GBC]
+name=os-mayab
+[GARMS(~1.GB]
+name=Garms
+comments=(J)(6977)
+[OS-REALC.GBC]
+name=os-realc
+[GOJIRA~1.GB]
+name=Gojira
+comments=(J)
+[PDX-F1GP.GBC]
+name=pdx-f1gp
+[PDX-GOAL.GBC]
+name=pdx-goal
+[PDX-HUG2.GBC]
+name=pdx-hug2
+[GAUNTL~1.GB]
+name=Gauntlet 2
+comments=(US)(52289)
+[GAWANO~1.GB]
+name=Gawa no Kawanushi 3
+comments=(SGB)(J)
+[GENJIN~1.GB]
+name=Genjin 2 - Bonk 2
+comments=(SGB)(J)
+[GENJIN~2.GB]
+name=Genjin Land
+comments=(J)
+[GENSAN~2.GB]
+name=Gensan 2
+comments=(J)
+[GEORGE~1.GB]
+name=George Foreman Boxing
+comments=(US)
+[GETAWA~1.GB]
+name=Getaway, The
+comments=(US)(17008)
+[GEX-EN~1.GBC]
+name=Gex - Enter The Gecko
+[GLOCAL~1.GBC]
+name=Glocal Hexcite
+[GOGOTA~1.GB]
+name=Go Go Tank
+comments=(J)
+[GODMED~1.GB]
+name=God Medicine
+comments=(J)
+[GODZIL~1.GB]
+name=Godzilla
+comments=(J)
+[GOLFCL~1.GB]
+name=Golf Classic
+comments=(SGB)(US)(58673)
+[GOURME~1.GB]
+name=Gourmet Paradise
+comments=(US)
+[GRADIU~1.GB]
+name=Gradius
+comments=(US)
+[GREATG~1.GB]
+name=Great Greed
+comments=(US)
+[GREMLI~1.GB]
+name=Gremlins 2
+comments=(J)(50312)
+[HALWRE~1.GB]
+name=Hal Wrestling
+comments=(US)
+[HAMMER~1.GB]
+name=Hammerin' Harry
+comments=(US)
+[HARIMA~1.GB]
+name=Harimanada
+comments=(J)
+[HARVES~2.GB]
+name=Harvest Moon
+comments=(SGB)(US)
+[HARVES~1.GBC]
+name=Harvest Moon
+[HATRIS~1.GB]
+name=Hatris
+comments=(US)(10105)
+[HEADON~1.GB]
+name=Head On
+comments=(J)
+[HEIANK~1.GB]
+name=Heiankyo Alien
+comments=(US)
+[HERCUL~1.GB]
+name=Hercules
+comments=(SGB)(US)
+[HERCUL~2.GB]
+name=Hercules Eikou
+comments=(J)(21604)
+[HIGHST~1.GB]
+name=High Stakes
+comments=(US)
+[HIRYUG~1.GB]
+name=Hiryu Gaiden
+comments=(J)
+[HOMEAL~1.GB]
+name=Home Alone
+comments=(US)
+[HOMEAL~2.GB]
+name=Home Alone 2
+comments=(US)
+[HONGKO~1.GB]
+name=Hong Kong
+comments=(J)
+[HOOK(U~1.GB]
+name=Hook
+comments=(US)
+[HUDSON~1.GB]
+name=Hudson Hawk
+comments=(J)
+[HUDSON~2.GB]
+name=Hudson Hawk
+comments=(US)
+[HUNTFO~1.GB]
+name=Hunt for Red October, The
+comments=(J)
+[HYPELO~1.GB]
+name=Hype Lode Runner
+comments=(J)
+[HYPERB~1.GB]
+name=Hyper Black Bass
+comments=(J)(63212)
+[HYPERD~1.GB]
+name=Hyper Dunk
+comments=(US)
+[IKARIN~1.GB]
+name=Ikari no Yousai
+comments=(J)
+[INYOUR~1.GB]
+name=In Your Face
+comments=(US)
+[INDIAN~1.GB]
+name=Indiana Jones 3, And The Last Crusade
+comments=(US)
+[IREMFI~1.GB]
+name=Irem Fighter
+comments=(J)
+[IRONLE~1.GB]
+name=Iron League
+comments=(J)
+[ISHIDO~1.GB]
+name=Ishido
+comments=(J)
+[ISHIDO~2.GB]
+name=Ishido
+comments=(US)
+[ITCHY&~1.GB]
+name=Itchy & Scratchy - Minature Golf Madness
+comments=(US)(22379)
+[JALECO~1.GB]
+name=Jaleco Cup Soccer
+comments=(J)
+[JAMESB~1.GB]
+name=James Bond 007
+comments=(SGB)(US)
+[JINSEI~1.GB]
+name=Jinsei
+comments=(J)
+[MNC-RAGE.GBC]
+name=mnc-rage
+[JANKEN~1.GB]
+name=Jankenman
+comments=(J)
+[JANTAK~1.GB]
+name=Jantaku Boy
+comments=(J)
+[JEEPJA~1.GB]
+name=Jeep Jamboree
+comments=(US)
+[JELLYB~1.GB]
+name=Jelly Boy
+comments=(US)(38094)
+[JEOPAR~1.GB]
+name=Jeopardy
+comments=(US)
+[JETSON~1.GB]
+name=Jetsons, The
+comments=(US)
+[JIDAIG~1.GB]
+name=Jida Igeki
+comments=(J)(15362)
+[JIMMYC~1.GB]
+name=Jimmy Conners Tennis
+comments=(J)
+[JOE&MA~1.GB]
+name=Joe & Mac
+comments=(US)
+[JORDAN~1.GB]
+name=Jordan One-on-One
+comments=(J)
+[JORDAN~2.GB]
+name=Jordan Vs
+[JUDGED~1.GB]
+name=Judge Dredd
+comments=(US)
+[JUNGLE~1.GB]
+name=Jungle Book
+comments=(US)
+[JUNGLE~2.GB]
+name=Jungle Strike
+comments=(US)(49567)
+[JURASS~1.GB]
+name=Jurassic Park 2
+comments=(US)(7199)
+[JURASS~2.GB]
+name=Jurassic Park
+[KAERUN~1.GB]
+name=Kaeruno Tameni
+comments=(J)
+[KAGUYA~1.GB]
+name=Kaguyahime
+comments=(J)
+[KATTOB~1.GB]
+name=Kattobi Road
+comments=(J)
+[KESAMA~1.GB]
+name=Kesamaru
+comments=(J)
+[KIDICA~1.GB]
+name=Kid Icarus - Of Myths and Monsters
+comments=(Version C)
+[KIDNIK~1.GB]
+name=Kid Niki
+comments=(J)
+[KILLER~1.GB]
+name=Killer Instinct 95
+comments=(SGB)(US)
+[KINGOF~1.GB]
+name=King of Fighters 95, The
+comments=(SGB)(US)
+[KINGDO~1.GB]
+name=Kingdom Crusade
+comments=(US)
+[KINNKU~1.GB]
+name=Kinnkuman DM
+comments=(J)
+[KINTAR~1.GB]
+name=Kintaro ACG
+comments=(J)
+[KIRBY-~1.GB]
+name=Kirby - Hoshinoka-Bi
+comments=(J)
+[KIRBY2~1.GB]
+name=Kirby 2 - Hoshinoka 2
+comments=(SGB)(J)
+[KIRBYB~1.GB]
+name=Kirby Blockball
+comments=(SGB)(US)
+[KIRBY'~1.GB]
+name=Kirby's Dream Land
+comments=(US)(44537)
+[KIRBY'~2.GB]
+name=Kirby's Dream Land 2
+comments=(SGB)(US)
+[KIRBY'~3.GB]
+name=Kirby's Pinball
+comments=(J)
+[KIRBY'~4.GB]
+name=Kirby's Pinball
+comments=(US)
+[KITCHI~1.GB]
+name=Kitchin Panic
+comments=(J)
+[KITERE~1.GB]
+name=Kiteretu Zyuraki
+comments=(J)
+[KLAX(J~1.GB]
+name=Klax
+comments=(J)
+[KNIGHT~1.GB]
+name=Knight Quest
+comments=(US)
+[KOIWAK~1.GB]
+name=Koi Wa Kakehiki
+comments=(J)
+[KONAMI~1.GB]
+name=Konami Collection 1
+comments=(SGB)(J)
+[KONAMI~2.GB]
+name=Konami Collection 2
+comments=(SGB)(J)
+[KONAMI~3.GB]
+name=Konami Collection 3
+comments=(SGB)(J)
+[KONAMI~4.GB]
+name=Konami Collection 4
+comments=(SGB)(J)
+[KONAMI~5.GB]
+name=Konami Golf
+comments=(US)(35913)
+[KONAMI~6.GB]
+name=Konamic Sports
+comments=(J)(55159)
+[KORODI~1.GB]
+name=Korodice
+comments=(J)
+[KRUSTY~1.GB]
+name=Krusty's Funhouse
+comments=(US)(954719)
+[KUMANO~1.GB]
+name=Kumano Putaru
+comments=(SGB)(J)
+[KUNIO(~1.GB]
+name=Kunio
+comments=(J)
+[KUREYO~1.GB]
+name=Kureyon Shin
+comments=(J)
+[KWIRK(~1.GB]
+name=Kwirk
+comments=(US)
+[KYORCH~1.GB]
+name=Kyorchan Land Hiro
+comments=(J)
+[LAMBOR~1.GB]
+name=Lamborghini American Challenge
+comments=(US)(5560)
+[LANGUA~1.GB]
+name=Language Translator
+comments=(French)
+[LASTAC~1.GB]
+name=Last Action Hero
+comments=(US)
+[LASTBI~1.GB]
+name=Last Bible
+comments=(J)
+[LAWNMO~1.GB]
+name=Lawnmower Man, The
+comments=(US)(14679)
+[LEGEND~1.GB]
+name=Legend of Zelda, The
+comments=(J)
+[LEGEND~2.GB]
+name=Legend of Zelda, The - Version 1
+[LEGEND~3.GB]
+name=Legend of Zerd, The
+comments=(J)
+[LEMMIN~1.GB]
+name=Lemmings
+comments=(US)(57427)
+[LEMMIN~2.GB]
+name=Lemmings 2, The Tribes
+comments=(US)
+[LETHAL~1.GB]
+name=Lethal Weapon
+comments=(US)
+[LIONKI~1.GB]
+name=Lion King, The
+comments=(US)
+[LITTLE~1.GB]
+name=Little Mermaid
+comments=(US)
+[LOCK'N~1.GB]
+name=Lock 'N Chase
+comments=(J)
+[LODOSS~1.GB]
+name=Lodoss War
+[LOLO(J~1.GB]
+name=Lolo
+comments=(J)(11951)
+[LOONEY~1.GB]
+name=Looney Tunes
+comments=(US)
+[LOOPZ(~1.GB]
+name=Loopz
+comments=(US)
+[LUCKYM~1.GB]
+name=Lucky Monkey
+comments=(J)(56AC)
+[LUCLE(~1.GB]
+name=Lucle
+comments=(J)
+[LUNARL~1.GB]
+name=Lunar Lander
+comments=(J)
+[MACHGO~1.GB]
+name=Mach Go G0!
+comments=(SGB)(J)
+[MADDEN~1.GB]
+name=Madden Football 95
+comments=(SGB)(US)
+[MAGNET~1.GB]
+name=Magnetic Soccer
+comments=(US)(18228)
+[MAHOUJ~1.GB]
+name=Mahoujin Guru Guru
+comments=(SGB)(J)(26671)
+[MAKAIM~1.GB]
+name=Makaimura Gaiden
+comments=(J)
+[MARBLE~1.GB]
+name=Marble Madness
+comments=(US)(33650)
+[MARIO&~1.GB]
+name=Mario & Yoshi
+comments=(US)
+[MARIOG~3.GBC]
+name=Mario Golf
+comments=(I)
+[MARIO'~1.GB]
+name=Mario's Picross
+comments=(SGB)(US)(10825)
+[MARU'S~1.GB]
+name=Maru's Mission
+comments=(US)(22019)
+[MASKRI~1.GB]
+name=Maskrider SD
+comments=(J)
+[MASTER~1.GB]
+name=Master Karateka
+comments=(J)
+[MCDONA~1.GB]
+name=McDonaldland
+comments=(US)(25487)
+[MEGAMA~1.GB]
+name=Mega Man
+comments=(US)(49755)
+[MEGAMA~2.GB]
+name=Mega Man 2
+comments=(US)(Nintendo)
+[MEGAMA~3.GB]
+name=Mega Man 3
+comments=(US)(19155)
+[MEGAMA~4.GB]
+name=Mega Man 4
+comments=(US)
+[MEGAMA~5.GB]
+name=Mega Man 5
+comments=(SGB)(US)
+[MEGAMA~6.GB]
+name=Mega Mania [usa eur jap]
+[MEGALI~1.GB]
+name=Megalit
+comments=(US)
+[MERCEN~1.GB]
+name=Mercenary Force
+comments=(US)
+[METROI~1.GB]
+name=Metroid 2 - Return of Samus
+comments=(US)(22559)
+[MICKEY~1.GB]
+name=Mickey Mouse
+comments=(J)
+[MICKEY~2.GB]
+name=Mickey Mouse 2
+comments=(J)
+[MICKEY~3.GB]
+name=Mickey Mouse 4
+comments=(J)
+[MICKEY~4.GB]
+name=Mickey's Chase
+comments=(US)
+[MICROM~1.GB]
+name=Micro Machines 2
+comments=(US)
+[MIGRAI~1.GB]
+name=Migrain Acclaim
+comments=(J)
+[MILON'~1.GB]
+name=Milon's Secret Castle
+[MINER2~1.GB]
+name=Miner 2049er
+comments=(US)
+[MINESW~1.GB]
+name=Minesweeper
+comments=(J)
+[MINI4B~1.GB]
+name=Mini 4 Boy
+comments=(SGB)(J)
+[MINIPU~1.GB]
+name=Mini Putt
+comments=(J)
+[MIRACL~1.GB]
+name=Miracle Adventure of Esparks
+comments=(J)(6067)
+[MISSIL~1.GB]
+name=Missile Command
+comments=(US)
+[MOGURA~1.GB]
+name=Mogura De Pon!
+comments=(J)
+[MOGURA~2.GB]
+name=Moguranya - Mole Mania
+comments=(SGB)(US)
+[MOMOTA~1.GB]
+name=Momotaro Collection
+comments=(SGB)(J)
+[MOMOTA~2.GB]
+name=Momotaro Dengeki
+comments=(J)
+[MOMOTA~3.GB]
+name=Momotaro Dengeki 2
+comments=(SGB)(J)(25697)
+[MOMOTE~1.GB]
+name=Momotetu
+comments=(J)
+[MONOPO~1.GB]
+name=Monopoly
+comments=(E)
+[MONOPO~2.GB]
+name=Monopoly
+comments=(J)
+[MONOPO~3.GB]
+name=Monopoly
+comments=(US)
+[MONSTE~1.GB]
+name=Monster Maker
+comments=(J)
+[MONSTE~2.GB]
+name=Monster Maker 2
+comments=(J)
+[MONSTE~3.GB]
+name=Monster Max
+comments=(US)(53860)
+[MONSTE~4.GB]
+name=Monster Truck Wars
+comments=(J)
+[MORTAL~2.GB]
+name=Mortal Kombat
+comments=(US)(58305)
+[MORTAL~3.GB]
+name=Mortal Kombat 2
+comments=(US)(7118)
+[MORTAL~4.GB]
+name=Mortal Kombat 3
+comments=(US)
+[MOTOCR~1.GB]
+name=Motocross Maniacs
+comments=(J)
+[MOUSET~1.GB]
+name=Mouse Trap Hotel
+comments=(US)
+[MRDO!(~1.GB]
+name=Mr
+[MRNUTZ~1.GB]
+name=Mr
+[MSPAC-~1.GB]
+name=Ms Pac-Man
+comments=(US)
+[MUSASH~1.GB]
+name=Musashi Road
+comments=(J)(5379)
+[MYSTIC~1.GB]
+name=Mystic Quest
+comments=(F)
+[MYSTIC~2.GB]
+name=Mystic Quest
+comments=(G)
+[MYSTIC~3.GB]
+name=Mystic Quest
+comments=(US)(65062)
+[MYSTIC~4.GB]
+name=Mystical Ninja
+comments=(SGB)(US)
+[NBAALL~1.GB]
+name=NBA All Star Challenge
+comments=(US)
+[NBAALL~2.GB]
+name=NBA All Star Challenge 2
+comments=(US)(3917)
+[NBAJAM~1.GB]
+name=NBA Jam
+comments=(US)(5140)
+[NBAJAM~2.GB]
+name=NBA Jam Tournament Edition
+comments=(US)
+[NFLBLI~1.GBC]
+name=NFL Blitz
+[NFLFOO~1.GB]
+name=NFL Football
+comments=(US)
+[NFLQUA~1.GB]
+name=NFL Quarter Back Club 96
+comments=(US)(51741)
+[NHLHOC~1.GB]
+name=NHL Hockey 95
+comments=(SGB)(US)
+[NAILNS~1.GB]
+name=Nail N Scale
+comments=(US)
+[NAMCOG~1.GB]
+name=Namco Gallery Volume 2
+comments=(SGB)(J)
+[NAVYBL~1.GB]
+name=Navy Blue
+comments=(J)
+[NAVYSE~1.GB]
+name=Navy Seals
+comments=(US)(20929)
+[NEMESI~1.GB]
+name=Nemesis 2
+comments=(J)(9490)
+[NETTOU~1.GB]
+name=Nettou Garou 2
+comments=(SGB)(J)
+[NETTOU~2.GB]
+name=Nettou King of Fighters '95
+comments=(SGB)(J)
+[NETTOU~3.GB]
+name=Nettou World Hero 2 Jet
+comments=(SGB)(J)
+[NEWCHE~1.GB]
+name=New Chessmaster, The
+comments=(US)
+[NEWSDG~1.GB]
+name=New SD Gundam
+comments=(SGB)(J)(36155)
+[NIGELM~1.GB]
+name=Nigel Mansell's World Championship
+comments=(US)
+[NINJAB~1.GB]
+name=Ninja Boy 2
+comments=(US)
+[NINJAR~1.GB]
+name=Ninja Ryukenden
+comments=(J)
+[NINJAT~1.GB]
+name=Ninja Taro
+comments=(US)
+[NINTAM~1.GB]
+name=Nintama Eawase
+comments=(SGB)(J)
+[ODDWOR~1.GB]
+name=Oddworld Adventures
+comments=(US)
+[ONTHET~1.GB]
+name=On the Tiles
+comments=(US)(11981)
+[ONI5(S~1.GB]
+name=Oni 5
+comments=(SGB)(J)
+[OPERAT~1.GB]
+name=Operation C
+comments=(US)
+[OTHELL~1.GB]
+name=Othello
+comments=(J)
+[PAC-IN~1.GB]
+name=Pac-In-Time
+comments=(SGB)(J)
+[PAC-IN~2.GB]
+name=Pac-In-Time
+comments=(SGB)(US)(24623)
+[PAC-MA~1.GB]
+name=Pac-Man
+comments=(J)
+[PAC-MA~2.GB]
+name=Pac-Man
+comments=(US)(63193)
+[PAC-PA~1.GB]
+name=Pac-Panic
+comments=(SGB)(J)(48554)
+[PAGEMA~1.GB]
+name=Pagemaster, The
+comments=(SGB)(US)(55663)
+[PALAME~1.GB]
+name=Palamedes
+comments=(J)
+[PARASO~1.GB]
+name=Parasol Stars
+comments=(US)(42120)
+[PARASO~2.GB]
+name=Parasoru Hembei
+comments=(J)
+[PARODI~1.GB]
+name=Parodius Da
+comments=(J)
+[PEETAN~1.GB]
+name=Peetan
+comments=(J)(9F95)
+[PENGUI~1.GB]
+name=Penguin Boy
+comments=(J)
+[PENGUI~2.GB]
+name=Penguin Kun Wars Vs
+comments=(J)(FC0F)
+[PERSON~1.GB]
+name=Personal Organizer
+comments=(US)
+[PHANTA~1.GB]
+name=Phantasm
+comments=(J)
+[PINBAL~1.GB]
+name=Pinball
+comments=(J)
+[PINBAL~2.GB]
+name=Pinball - Revenge of the Gator
+comments=(US)(56691)
+[PINBAL~3.GB]
+name=Pinball Deluxe
+comments=(US)
+[PINBAL~4.GB]
+name=Pinball Fantasies
+comments=(US)
+[PIPEDR~1.GB]
+name=Pipe Dream
+comments=(J)
+[PITFIG~1.GB]
+name=Pit Fighter
+comments=(US)(46376)
+[PITMAN~1.GB]
+name=Pitman
+comments=(J)
+[POCKET~2.GB]
+name=Pocket Bass Fishing
+comments=(J)
+[POCKET~3.GB]
+name=Pocket Bomberman
+comments=(SGB)(US)
+[POCKET~4.GBC]
+name=Pocket Bomberman
+[POCKET~4.GB]
+name=Pocket Densya
+comments=(SGB)(J)
+[POCKET~5.GB]
+name=Pocket Family
+comments=(SGB)(J)
+[POKEMI~1.GB]
+name=Poke Mission '97 [jap usa eur] [2]
+[POKEMO~3.GB]
+name=Pokemon Blue
+comments=(SGB)(French)(5335)
+[POKEMO~4.GB]
+name=Pokemon Blue
+comments=(SGB)(US)(40202)
+[POKEMO~5.GB]
+name=Pokemon Green
+comments=(SGB)(J)(56789)
+[POKEMO~6.GB]
+name=Pokemon Red
+comments=(SGB)(French)
+[POKEMO~7.GB]
+name=Pokemon Red
+comments=(SGB)(US)(37350)
+[POKEMO~8.GB]
+name=Pokemon Yellow - Version 1
+[POKEMO~9.GB]
+name=Pokemon Yellow - Version 1
+[POPUP(~1.GB]
+name=Pop Up
+comments=(US)
+[POPEYE~1.GB]
+name=Popeye
+comments=(J)
+[POPEYE~2.GB]
+name=Popeye 2
+comments=(J)
+[POPEYE~3.GB]
+name=Popeye 2
+[POPULO~1.GB]
+name=Populous
+comments=(US)
+[POWERM~1.GB]
+name=Power Movie
+comments=(SGB)(US)
+[POWERM~2.GB]
+name=Powermission
+comments=(J)
+[POWERM~3.GB]
+name=Powermission
+comments=(US)
+[PRIPRI~1.GB]
+name=Pri Pri
+comments=(J)
+[PRIMAL~1.GB]
+name=Primal Rage
+comments=(US)(43367)
+[PRINCE~1.GB]
+name=Prince of Persia
+comments=(US)(36292)
+[PROSOC~1.GB]
+name=Pro Soccer
+comments=(J)(DE7B)
+[PROBOT~1.GB]
+name=Probotector 2
+comments=(SGB)(US)
+[PUNISH~1.GB]
+name=Punisher, The
+comments=(US)
+[PUZZLE~1.GB]
+name=Puzzle
+comments=(J)
+[QBERT2~1.GB]
+name=QBert 2
+comments=(US)
+[QUARTH~1.GB]
+name=Quarth
+comments=(J)
+[QUESTF~2.GBC]
+name=Quest for Camelot
+[R-TYPE~1.GB]
+name=R-Type
+comments=(J)
+[R-TYPE~2.GB]
+name=R-Type 2
+comments=(US)(55911)
+[R-TYPE~2.GBC]
+name=R-Types DX
+comments=(I)
+[RACEDA~1.GB]
+name=Race Days
+comments=(US)
+[RAIJIN~1.GB]
+name=Raijinou
+comments=(J)
+[RAMPAG~2.GBC]
+name=Rampage - World Tour
+[RANMA«~1.GB]
+name=Ranma «
+comments=(J)
+[REALGH~1.GB]
+name=Real Ghostbusters, The
+comments=(US)
+[REDARR~1.GB]
+name=Red Arremer
+comments=(J)
+[REI3DD~1.GB]
+name=Rei 3d Demo [jap usa eur] [X]
+[REN&ST~1.GB]
+name=Ren & Stimpy - Veediots
+comments=(US)
+[ROADRA~1.GB]
+name=Road Rash
+comments=(US)
+[ROBOCO~1.GB]
+name=Robocop 2
+comments=(US)(40961)
+[ROCKMA~1.GB]
+name=Rockman World 5
+comments=(SGB)(J)
+[ROGERC~1.GB]
+name=Roger Clemens MVP Baseball
+comments=(US)
+[ROGERR~1.GB]
+name=Roger Rabbit
+comments=(US)
+[ROLAN'~1.GB]
+name=Rolan's Curse 2
+[RUBBLE~1.GB]
+name=Rubble Saver 2
+comments=(J)
+[RUNESO~1.GB]
+name=Runes of Virtue
+comments=(J)
+[SDHIRY~1.GB]
+name=SD Hiryunoken
+comments=(SGB)(J)
+[SDSEIN~1.GB]
+name=SD Seintparada
+comments=(J)
+[SDSENG~1.GB]
+name=SD Sen Goku Den 3
+comments=(J)
+[SAGA2(~1.GB]
+name=Saga 2
+comments=(J)
+[SAGA3(~1.GB]
+name=Saga 3
+comments=(J)
+[SAMURA~1.GB]
+name=Samurai Showdown
+comments=(SGB)(US)
+[SANGOK~1.GB]
+name=Sangokushi
+comments=(J)
+[SANRIO~1.GBC]
+name=Sanrio - TimeNet - Future
+[SANRIO~1.GB]
+name=Sanrio Carnival
+comments=(J)
+[SDGUND~1.GB]
+name=Sd Gundam Kunitori
+comments=(J)
+[SEIKEN~1.GB]
+name=Seiken Densetsu
+comments=(J)
+[SENSIB~1.GB]
+name=Sensible Soccer
+comments=(US)
+[SERPEN~1.GB]
+name=Serpent
+comments=(US)
+[SHADOW~1.GB]
+name=Shadow Warriors
+comments=(US)
+[SHANGH~1.GB]
+name=Shanghai
+comments=(US)
+[SHIKIN~1.GB]
+name=Shikinjyo
+comments=(J)
+[SHOUGI~1.GB]
+name=Shougi
+comments=(J)
+[SHUTDO~1.GB]
+name=Shutdown
+comments=(J)
+[SIDEPO~1.GB]
+name=Side Pocket
+comments=(US)
+[SIMPSO~1.GB]
+name=Simpsons 2, The - Bart Vs
+[SKATEO~1.GB]
+name=Skate or Die - Bad 'N Rad
+comments=(US)
+[SLAMDU~1.GB]
+name=Slam Dunk
+comments=(SGB)(J)
+[SLAMDU~2.GB]
+name=Slam Dunk 2
+comments=(SGB)(J)
+[SMALLS~1.GB]
+name=Small Soldiers
+comments=(SGB)(US)
+[SMURFS~1.GB]
+name=Smurfs, The
+comments=(SGB)(US)
+[SNEAKY~1.GB]
+name=Sneaky Snakes
+comments=(US)
+[SNOOPY~1.GB]
+name=Snoopy
+comments=(J)
+[SNOOPY~2.GB]
+name=Snoopy - Magic Show
+comments=(US)
+[SNOWBR~1.GB]
+name=Snow Bros Jr
+comments=(US)
+[SOCCER~1.GB]
+name=Soccer
+comments=(SGB)(US)
+[SOCCER~2.GB]
+name=Soccer Boy
+comments=(J)
+[SOKOBA~1.GB]
+name=SokoBan
+comments=(J)
+[SOLOMO~1.GB]
+name=Solomon Blub
+comments=(US)
+[SONIC6~1.GB]
+name=Sonic 6
+comments=(US)
+[SOUKOB~1.GB]
+name=Soukoban
+comments=(J(
+[SOUKOB~2.GB]
+name=Soukoban 2
+comments=(J)
+[SPACED~1.GB]
+name=Space Demo [jap] [X]
+[SPACEI~1.GB]
+name=Space Invaders
+comments=(J)
+[SPACEI~2.GB]
+name=Space Invaders 94
+comments=(SGB)(US)
+[SPANKY~1.GB]
+name=Spanky's Quest
+comments=(US)
+[SPARTA~1.GB]
+name=Spartan X
+comments=(J)
+[SPARTA~2.GB]
+name=Spartan X - Kung-Fu Master
+comments=(US)
+[SPEEDY~1.GB]
+name=Speedy Gonzales
+comments=(US)(12550)
+[SPELLC~1.GB]
+name=Spell Checker
+comments=(US)
+[SPIDER~1.GB]
+name=Spider-Man 2
+comments=(US)
+[SPIDER~2.GB]
+name=Spider-Man 3
+comments=(US)(42755)
+[SPIDER~3.GB]
+name=Spider-Man X-Men
+comments=(US)
+[SPOT(J~1.GB]
+name=Spot
+comments=(J)
+[SPOT(U~1.GB]
+name=Spot
+comments=(US)(104)
+[SPOT_T~1.GB]
+name=Spot, The Cool Adventure
+comments=(J)
+[SPUDSA~1.GB]
+name=Spuds Adventure
+comments=(US)
+[SQUARE~1.GB]
+name=Square Deal - The Game of Two Dimensional Poker
+comments=(US)(63586)
+[STARSA~1.GB]
+name=Star Saver
+comments=(US)
+[STARTR~1.GB]
+name=Star Trek
+comments=(US)(44586)
+[STARTR~2.GB]
+name=Star Trek The Next Generation
+comments=(US)
+[STARWA~1.GB]
+name=Star Wars
+comments=(US)(16214)
+[STREET~1.GB]
+name=Street Fighter 2
+comments=(SGB)(J)
+[STREET~2.GB]
+name=Street Fighter 2
+comments=(SGB)(US)
+[SUMOUF~1.GB]
+name=Sumou Fighter
+comments=(J)
+[SUPERB~1.GB]
+name=Super Bikkuri 1
+comments=(J)
+[SUPERB~2.GBC]
+name=Super BlackBass Pocket 3
+[SUPERB~2.GB]
+name=Super Blackbass Pocket 2
+comments=(SGB)(J)
+[SUPERB~3.GBC]
+name=Super Breakout
+[SUPERC~1.GB]
+name=Super Chinese Land
+comments=(J)
+[SUPERC~2.GB]
+name=Super Chinese Land 2
+comments=(J)
+[SUPERH~1.GB]
+name=Super Hunchback
+comments=(J)
+[SUPERH~2.GB]
+name=Super Hunchback
+comments=(US)(35955)
+[SUPERK~1.GB]
+name=Super Kick Off
+comments=(US)
+[SUPERM~1.GBC]
+name=Super Mario Bros
+[SUPERM~4.GB]
+name=Super Mario Land 3
+comments=(J)
+[SUPERM~2.GBC]
+name=Super Mario Land 4 - Wario Land 2
+comments=(J)
+[SUPERO~1.GB]
+name=Super Off Road
+comments=(US)(8377)
+[SUPERR~1.GB]
+name=Super RC Pro-Am
+comments=(US)
+[SUPERR~2.GB]
+name=Super Robot War 2G
+comments=(SGB)(J)
+[SUPERR~2.GBC]
+name=Super Robot Wars Link Battler
+comments=(J)
+[SWAMPT~1.GB]
+name=Swamp Thing
+comments=(US)
+[SWORDO~1.GB]
+name=Sword of Hope, The
+comments=(German)
+[SWORDO~2.GB]
+name=Sword of Hope, The
+comments=(US)
+[TDLFAN~1.GB]
+name=TDL Fantasy Tour - OS
+comments=(SGB)(J)
+[TMHT-B~1.GB]
+name=TMHT - Back from the Sewers
+comments=(E)
+[TMNT(J~1.GB]
+name=TMNT
+comments=(J)
+[TMNT-F~1.GB]
+name=TMNT - Fall of the Foot Clan
+comments=(US)(16602)
+[TMNT2(~1.GB]
+name=TMNT 2
+comments=(J)
+[TMNT2-~1.GB]
+name=TMNT 2 - Back From the Sewers
+comments=(US)
+[TMNT3-~1.GB]
+name=TMNT 3 - Radical Rescue
+comments=(US)
+[TAILGA~1.GB]
+name=Tail Gator
+comments=(US)
+[TAMA&F~1.GB]
+name=Tama & Friends
+comments=(J)
+[TAMAGO~1.GB]
+name=Tamagotchi
+comments=(SGB)(US)
+[TARZAN~1.GB]
+name=Tarzan
+comments=(US)
+[TAZ-MA~1.GB]
+name=Taz-Mania
+comments=(US)(33223)
+[TECMOB~1.GB]
+name=Tecmo Bowl
+comments=(US)
+[TEKKAM~1.GB]
+name=Tekkaman Blade
+comments=(J)
+[TEKKYU~1.GB]
+name=Tekkyufight
+comments=(J)
+[TENNIS~1.GB]
+name=Tennis
+comments=(J)
+[TENSAI~1.GB]
+name=Tensai Bakabon
+comments=(J)
+[TERMIN~1.GB]
+name=Terminator 2
+comments=(US)(28316)
+[TEST-V~1.GB]
+name=Test - Version 1
+[TETRIS~1.GB]
+name=Tetris
+comments=(J)
+[TETRIS~2.GB]
+name=Tetris 2
+comments=(US)
+[TETRIS~1.GBC]
+name=Tetris DX
+comments=(I)
+[TETRIS~2.GBC]
+name=Tetris DX
+comments=(J)
+[TETRIS~3.GBC]
+name=Tetris DX
+[TETRIS~3.GB]
+name=Tetris Flash
+comments=(SGB)(J)(24542)
+[THEHUM~1.GB]
+name=The Humans
+comments=(US)
+[THEINC~1.GB]
+name=The Incredible Crash Dummies [usa eur]
+[THELEG~1.GB]
+name=The Legend of Zelda - Link gets Laid [hack] [usa eur]
+[THREEL~1.GBC]
+name=Three Lions
+comments=(2)
+[THREEL~2.GBC]
+name=Three Lions
+[TINTIN~1.GB]
+name=Tintin in Tibet
+comments=(SGB)(US)
+[TINYTO~1.GB]
+name=Tiny Toon Adventures
+comments=(J)
+[TINYTO~2.GB]
+name=Tiny Toon Adventures 2
+comments=(J)
+[TINYTO~3.GB]
+name=Tiny Toon Adventures, Wacky Sports
+comments=(US)
+[TITUST~1.GB]
+name=Titus The Fox
+comments=(US)(31263)
+[TOM&JE~2.GBC]
+name=Tom & Jerry
+comments=(I)
+[TOM&JE~1.GB]
+name=Tom & Jerry - Frantic Antics
+comments=(US)(52588)
+[TOM&JE~2.GB]
+name=Tom & Jerry Part 2
+comments=(J)
+[TOPRAN~1.GB]
+name=Top Ranking Tennis
+comments=(US)(59566)
+[TOPGUN~1.GB]
+name=Topgun 2
+comments=(US)(53174)
+[TOTALC~1.GB]
+name=Total Carnage
+comments=(US)(26277)
+[TOTSUG~1.GB]
+name=Totsugeki Tank
+comments=(J)
+[TOWERO~1.GB]
+name=Tower of Druaga, The
+comments=(J)
+[TOYSTO~1.GB]
+name=Toy Story
+comments=(SGB)(US)
+[TRAPPE~1.GB]
+name=Trappers Tengoku
+comments=(J)
+[TRUELI~1.GB]
+name=True Lies
+comments=(US)(23514)
+[TUMBLE~1.GB]
+name=Tumble Pop
+comments=(US)
+[TUROK(~1.GB]
+name=Turok
+comments=(US)
+[TUROK2~1.GBC]
+name=Turok 2 - Seeds of Evil
+[TWIN(J~1.GB]
+name=Twin
+comments=(J)
+[TWIN-B~1.GB]
+name=Twin-Bee Da
+comments=(J)
+[ULTRAG~1.GB]
+name=Ultra Golf
+comments=(US)
+[ULTRAM~1.GB]
+name=Ultraman
+comments=(J)
+[ULTRAM~2.GB]
+name=Ultraman Ball
+comments=(SGB)(J)
+[ULTRAM~3.GB]
+name=Ultraman Club 1
+comments=(J)
+[ULTRAM~4.GB]
+name=Ultraman Gekkiden
+comments=(SGB)(J)
+[UNDERC~1.GB]
+name=Under Cover Cops
+comments=(J)
+[UNDOUK~1.GB]
+name=Undoukai
+comments=(J)(44896)
+[UNIVER~1.GB]
+name=Universal Soldier
+comments=(US)
+[UNO2-S~1.GB]
+name=Uno 2 - Small World
+comments=(SGB)(J)(49823)
+[UOOZU(~1.GB]
+name=Uoozu
+comments=(J)
+[URUSEI~1.GB]
+name=Urusei Yatsura
+comments=(J)
+[VALATI~1.GB]
+name=Valations
+comments=(J)
+[VATTLE~1.GB]
+name=Vattle Guice
+comments=(J)
+[VERSUS~1.GB]
+name=Versus Hero
+comments=(J)
+[VIRTUA~1.GB]
+name=Virtual Wars
+comments=(J)
+[VITAMI~1.GB]
+name=Vitamina Kingdom
+comments=(J)
+[VOLLEY~1.GB]
+name=Volley Fire
+comments=(J)(60259)
+[VSBATT~1.GB]
+name=Vs Battler
+comments=(J)
+[WWFRAW~1.GB]
+name=WWF Raw
+comments=(US)
+[WWFSUP~1.GB]
+name=WWF Superstars
+comments=(J)
+[WWFSUP~2.GB]
+name=WWF Superstars
+comments=(US)(7504)
+[WWFSUP~3.GB]
+name=WWF Superstars 2
+comments=(J)
+[WWFSUP~4.GB]
+name=WWF Superstars 2
+comments=(US)
+[WWFWAR~1.GB]
+name=WWF Warzone
+comments=(US)
+[WARIOB~1.GB]
+name=Wario Blast
+comments=(SGB)(US)(36305)
+[WARIOL~1.GB]
+name=Wario Land 2
+comments=(SGB)(US)
+[WARIOL~1.GBC]
+name=Warioland 2
+[WARRIO~1.GB]
+name=Warrior
+comments=(J)
+[WARS(J~1.GB]
+name=Wars
+comments=(J)
+[WATERW~1.GB]
+name=Water World
+comments=(US)
+[WAVERA~1.GB]
+name=Waverace
+comments=(US)
+[WAYNE'~1.GB]
+name=Wayne's World
+comments=(US)(60666)
+[WE'REB~1.GB]
+name=We're Back, A Dinosaur's Story
+comments=(US)
+[WHEELO~1.GB]
+name=Wheel of Fortune
+comments=(US)
+[WILDSN~1.GB]
+name=Wildsnake
+comments=(SGB)(US)
+[WINNIN~1.GB]
+name=Winning Goal
+comments=(J)
+[WINTER~1.GB]
+name=Winter Gold
+comments=(US)
+[WINTER~2.GB]
+name=Winter Olympics
+comments=(US)
+[WIZARD~1.GB]
+name=Wizardry - Suffering of the Queen
+comments=(J)(36805)
+[WIZARD~2.GB]
+name=Wizards & Warriors
+comments=(US)
+[WORDTR~1.GB]
+name=Wordtris
+comments=(US)
+[WORDZA~1.GB]
+name=Wordzap
+comments=(US)
+[WORLDB~1.GB]
+name=World Bowling
+comments=(J)
+[WORLDC~1.GB]
+name=World Circuit Series
+comments=(US)(42143)
+[WORLDC~2.GB]
+name=World Cup
+comments=(J)(19701)
+[WORLDC~3.GB]
+name=World Cup USA 94
+comments=(J)
+[WORLDI~1.GB]
+name=World Ice Hockey
+comments=(J)
+[WORMS(~1.GB]
+name=Worms
+comments=(US)(29666)
+[XEKKUS~1.GB]
+name=Xekkusu
+comments=(J)
+[XENON2~1.GB]
+name=Xenon 2
+comments=(US)
+[XERD!!~1.GB]
+name=Xerd!!
+comments=(J)
+[YAIBA(~1.GB]
+name=Yaiba
+comments=(J)
+[YAMATO~1.GB]
+name=Yamato
+comments=(J)
+[YOSHI-~1.GB]
+name=Yoshi - Yossi no Tamago
+comments=(US)
+[YOSHI'~1.GB]
+name=Yoshi's Cookie
+comments=(US)(3523)
+[YOSSYN~1.GB]
+name=Yossy no Panepon
+comments=(J)
+[YUUYUU~1.GB]
+name=Yuuyuu 1
+comments=(J)
+[YUUYUU~2.GB]
+name=Yuuyuu 2
+comments=(J)
+[YUUYUU~3.GB]
+name=Yuuyuu 3
+comments=(J)
+[YUUYUU~4.GB]
+name=Yuuyuu 4
+comments=(J)
+[ZELDAD~1.GBC]
+name=Zelda DX - Links Awakening
+comments=(I)
+[ZENINT~1.GB]
+name=Zen Intergalactic Ninja
+comments=(US)(1743)
+[ZENINT~2.GB]
+name=Zen Intergalactic Ninja
+comments=(US)(64999)
+[ZENINT~3.GB]
+name=Zen Intergalactic Ninja
+comments=(US)(8651)
+[ZOIDS(~1.GB]
+name=Zoids
+comments=(J)
+[ZOOL(U~1.GB]
+name=Zool
+comments=(US)(30737)
+[ZOOL(U~2.GB]
+name=Zool
+comments=(US)(65371)

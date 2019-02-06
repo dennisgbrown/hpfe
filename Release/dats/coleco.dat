@@ -1,0 +1,700 @@
+[DONKEY~1.ROM]
+name=Donkey Kong
+maker=Coleco
+year=1982
+[DONKEY~2.ROM]
+name=Donkey Kong
+maker=Coleco
+year=1982
+comments=(24k ADAM)
+[FATHOM.ROM]
+name=Fathom ?
+maker=Imagic
+year=1983
+[FROGGER.ROM]
+name=Frogger
+maker=Parker Bros.
+year=1983
+[FROGGE~1.ROM]
+name=Frogger II: Threedeep!
+maker=Parker Bros.
+year=1984
+[GORF.ROM]
+name=Gorf
+maker=Coleco
+year=1983
+[QBERT.ROM]
+name=Q*Bert
+maker=Parker Bros.
+year=1983
+[QBERT_~1.ROM]
+name=Q*Bert's Qubes
+maker=Parker Bros.
+year=1984
+[BLOCKA~1.ROM]
+name=Blockade Runner
+maker=Interphase
+year=1984
+[BUMPN_~1.ROM]
+name=Bump 'N' Jump
+maker=Coleco
+year=1984
+[BURGER~1.ROM]
+name=Burgertime
+maker=Mattel
+year=1983
+[CAMPAI~1.ROM]
+name=Campaign '84
+maker=Sunrise
+year=1983
+[CARNIVAL.ROM]
+name=Carnival
+maker=Coleco
+year=1982
+[CENTIP~1.ROM]
+name=Centipede
+maker=Atarisoft
+year=1983
+[CHOPLI~1.ROM]
+name=Choplifter!
+maker=Coleco
+year=1984
+[COSMIC~1.ROM]
+name=Cosmic Avenger
+maker=Coleco
+year=1982
+[DECATH~1.ROM]
+name=Decathlon
+maker=Activision
+year=1984
+[DEFENDER.ROM]
+name=Defender
+maker=Atarisoft
+year=1983
+[DESTRU~1.ROM]
+name=Destructor
+maker=Coleco
+year=1984
+[EVOLUT~1.ROM]
+name=Evolution
+maker=Sydney
+year=1983
+[FLIPPE~1.ROM]
+name=Flipper Slipper
+maker=Spectravideo
+year=1983
+[FORTUN~1.ROM]
+name=Fortune Builder
+maker=Coleco
+year=1984
+[FRACTI~1.ROM]
+name=Fraction Fever
+maker=Spinnaker
+year=1983
+[FRANTI~1.ROM]
+name=Frantic Freddy
+maker=Spectravideo
+year=1983
+[FRENZY.ROM]
+name=Frenzy
+maker=Coleco
+year=1983
+[GALAXIAN.ROM]
+name=Galaxian
+maker=Atarisoft
+year=1983
+[GATEWA~1.ROM]
+name=Gateway to Apshai
+maker=Epyx
+year=1984
+[GROGS_~1.ROM]
+name=B.C. II: Grog's Revenge
+maker=Sydney
+year=1984
+[QUEST_~1.ROM]
+name=B.C.'s Quest for Tires
+maker=Sierra On-Line
+year=1983
+[HEIST.ROM]
+name=The Heist
+maker=Micro Fun
+year=1983
+[ILLUSION.ROM]
+name=Illusions
+maker=Coleco
+year=1984
+[JUMPMA~1.ROM]
+name=Jumpman Junior
+maker=Epyx
+year=1984
+[JUNGLE~1.ROM]
+name=Jungle Hunt
+maker=Atarisoft
+year=1983
+[KEYSTO~1.ROM]
+name=Keystone Kapers
+maker=Activision
+year=1984
+[LEARNI~1.ROM]
+name=Learning With Leeper
+maker=Sierra On-Line
+year=1984
+[LOOPING.ROM]
+name=Looping
+maker=Coleco
+year=1983
+[MONTEZ~1.ROM]
+name=Montezuma's Revenge
+maker=Parker Bros.
+year=1984
+[MOONSW~1.ROM]
+name=Moonsweeper
+maker=Imagic
+year=1983
+[MOUNTA~1.ROM]
+name=Mountain King
+maker=Sunrise
+year=1984
+[PITFAL~1.ROM]
+name=Pitfall!
+maker=Activision
+year=1983
+[PITSTOP.ROM]
+name=Pitstop
+maker=Epyx
+year=1983
+[POPEYE.ROM]
+name=Popeye
+maker=Parker Bros.
+year=1983
+[ROCNROPE.ROM]
+name=Roc 'N Rope
+maker=Coleco
+year=1984
+[ROLLOV~1.ROM]
+name=Rolloverture
+maker=Sunrise
+year=1983
+[SLITHER.ROM]
+name=Slither
+maker=Coleco
+year=1983
+[SPECTRON.ROM]
+name=Spectron
+maker=Spectravideo
+year=1983
+[SQUISH~1.ROM]
+name=Squish 'Em Sam!
+maker=Interphase
+year=1983
+[SUBROC.ROM]
+name=Subroc
+maker=Coleco
+year=1983
+[TARZAN.ROM]
+name=Tarzan
+maker=Coleco
+year=1984
+[THRESH~1.ROM]
+name=Threshold
+maker=Sierra On-Line
+year=1983
+[TOMARC~1.ROM]
+name=Tomarc the Barbarian
+maker=Xonox
+year=1984
+[TURBO.ROM]
+name=Turbo
+maker=Coleco
+year=1982
+[VENTURE.ROM]
+name=Venture
+maker=Coleco
+year=1982
+[VICTORY.ROM]
+name=Victory
+maker=Coleco
+year=1983
+[ZAXXON.ROM]
+name=Zaxxon
+maker=Coleco
+year=1982
+[ZENJI.ROM]
+name=Zenji
+maker=Activision
+year=1984
+[BURGER~2.ROM]
+name=Burgertime
+maker=Coleco
+year=1984
+[CABBPA~3.ROM]
+name=Cabbage Patch Kids Picture Show
+maker=Coleco
+year=1984
+[2010-T~1.ROM]
+name=2010: The Graphic Action Game
+maker=Coleco
+year=1984
+[ALCAZAR.ROM]
+name=Alcazar: Forgotten Fortress
+maker=Activision
+year=1985
+[ALPHAB~1.ROM]
+name=Alphabet Zoo
+maker=Spinnaker
+year=1984
+[AMAZIN~1.ROM]
+name=Amazing Bumpman
+maker=Telegames
+year=1986
+[ANTARC~1.ROM]
+name=Antarctic Adventure
+maker=Coleco
+year=1984
+[ANTARC~2.ROM]
+name=Antarctic Adventure
+maker=Konami
+year=1984
+[AQUATT~1.ROM]
+name=Aquattack
+maker=Interphase
+year=1984
+[ARTILL~1.ROM]
+name=Artillery Duel
+maker=Xonox
+year=1983
+[BCSQUE~1.ROM]
+name=B.C.'s Quest For Tires
+maker=Sierra On-Line
+year=1983
+[BEAMRI~1.ROM]
+name=Beamrider
+maker=Activision
+year=1983
+[BOULDE~1.ROM]
+name=Boulderdash
+maker=Micro Lab
+year=1984
+[BRAINS~1.ROM]
+name=Brain Strainers
+maker=Coleco
+year=1984
+[BUCKRO~1.ROM]
+name=Buck Rogers: Planet of Zoom
+maker=Coleco
+year=1983
+[CABBPA~2.ROM]
+name=Cabbage Patch Kids Adventures in the Park
+maker=Coleco
+year=1984
+[CABBPA~1.ROM]
+name=Cabbage Patch Kids Adventures in the Park
+maker=Coleco
+year=1984
+comments=(variation)
+[CHUCKN~1.ROM]
+name=Chuck Norris Superkicks
+maker=Xonox
+year=1983
+[COLECO~1.ROM]
+name=ColecoVision Monitor Test
+[CONGOB~1.ROM]
+name=Congo Bongo
+maker=Coleco
+year=1984
+[COSMIC~2.ROM]
+name=Cosmic Crisis
+maker=Bit Corp.
+[COSMOF~1.ROM]
+name=Cosmo Fighter 2
+maker=Marcel de Kogel
+year=1997
+[DAMBUS~1.ROM]
+name=Dam Busters
+maker=Sydney - 1984
+[DANCEF~1.ROM]
+name=Dance Fantasy
+maker=Fisher-Price
+year=1984
+[DONKEY~4.ROM]
+name=Donkey Kong Junior
+maker=Coleco
+year=1983
+[DONKEY~5.ROM]
+name=Donkey Kong Junior
+maker=Coleco
+year=1983
+comments=(24k)
+[DONKEY~3.ROM]
+name=Donkey Kong
+maker=Coleco
+year=1982
+comments=(24k)
+[DRAGON~1.ROM]
+name=Dragonfire
+maker=Imagic
+year=1984
+[DRSEUS~1.ROM]
+name=Dr. Seuss's Fix-Up the Mix-Up Puzzler
+maker=Coleco
+year=1984
+[DUKESO~1.ROM]
+name=Dukes of Hazzard
+maker=Coleco
+year=1984
+[ESCAPE~1.ROM]
+name=Escape From the Mindmaster
+maker=Epyx
+year=1983
+[FACEMA~1.ROM]
+name=Facemaker
+maker=Spinnaker
+year=1984
+[FALLGUY.ROM]
+name=Fall Guy
+maker=20th Century Fox
+comments=(prototype)
+[FALLGU~1.ROM]
+name=Fall Guy
+maker=20th Century Fox
+[FINALT~1.ROM]
+name=Final Test Cartridge
+[FRONTL~1.ROM]
+name=Front Line
+maker=Coleco
+year=1983
+[BUMPNJ~1.ROM]
+name=Bump 'N' Jump
+maker=Mattel
+year=1984
+[GUSTBU~1.ROM]
+name=Gust Buster
+maker=Sunrise
+year=1983
+[GYRUSS.ROM]
+name=Gyruss
+maker=Parker Bros.
+year=1984
+[HERO.ROM]
+name=H.E.R.O.
+maker=Activision
+year=1984
+[ILLUSI~1.ROM]
+name=Illusions
+maker=Coleco
+year=1984
+[ITSONL~1.ROM]
+name=It's Only Rock 'N' Roll
+maker=K-tel
+year=1984
+[JAMESB~1.ROM]
+name=James Bond 007
+maker=Parker Bros.
+year=1984
+[JUKEBOX.ROM]
+name=Juke Box
+maker=Spinnaker
+year=1984
+[KENUST~1.ROM]
+name=Ken Uston's Blackjack/Poker
+maker=Coleco
+year=1983
+[KEVTRI~1.ROM]
+name=Kevtris
+maker=CVRS (Kevin Horton)
+year=1996
+[LADYBUG.ROM]
+name=Ladybug
+maker=Coleco
+year=1982
+[LINKIN~1.ROM]
+name=Linking Logic
+maker=Fisher-Price
+year=1984
+[LOGICL~1.ROM]
+name=Logic Levels
+maker=Fisher-Price
+year=1984
+[MASH-P~1.ROM]
+name=M*A*S*H
+maker=20th Century Fox
+year=1983
+comments=(prototype)
+[MASH.ROM]
+name=M*A*S*H
+maker=20th Century Fox
+year=1983
+[MEMORY~1.ROM]
+name=Memory Manor
+maker=Fisher-Price
+year=1984
+[METEOR~1.ROM]
+name=Meteoric Shower
+maker=Bit Corp.
+year=1983
+[MINER2~1.ROM]
+name=Miner 2049'er
+maker=Micro Fun
+year=1983
+[MONKEY~1.ROM]
+name=Monkey Academy
+maker=Konami
+year=1984
+[MONKEY~2.ROM]
+name=Monkey Academy
+maker=Coleco
+year=1984
+[MOONPA~1.ROM]
+name=Matt Patrol
+maker=Matt
+year=1984
+comments=(mod of Moon Patrol)
+[MOTOCR~1.ROM]
+name=Motocross Racer
+maker=Xonox
+year=1984
+[PITFALL2.ROM]
+name=Pitfall II: Lost Caverns
+maker=Activision
+year=1984
+[PORKYS~1.ROM]
+name=Porky's
+maker=20th Century Fox
+year=1983
+comments=(prototype)
+[MOUSET~1.ROM]
+name=Mouse Trap
+maker=Coleco
+year=1982
+[MRDO!.ROM]
+name=Mr. Do!
+maker=Coleco
+year=1983
+[MRDOSC~1.ROM]
+name=Mr. Do's Castle
+maker=Parker Bros.
+year=1984
+[MUSICB~1.ROM]
+name=ADAM's Music Box Demo
+[NOISEG~1.ROM]
+name=ColecoVision Noise Generator
+maker=Marcel de Kogel
+[NOVABL~1.ROM]
+name=Nova Blast
+maker=Imagic
+year=1983
+[OILSWELL.ROM]
+name=Oil's Well
+maker=Sierra On-Line
+year=1984
+[OMEGAR~1.ROM]
+name=Omega Race
+maker=Coleco
+year=1983
+[ONEONONE.ROM]
+name=One-on-One
+maker=Micro Lab
+year=1984
+[PEPPER2.ROM]
+name=Pepper II
+maker=Coleco
+year=1983
+[PURPLE~1.ROM]
+name=Purple Dinosaur Massacre
+maker=John Dondzilla
+year=1996
+[Q-BERT.ROM]
+name=Q*Bert
+maker=Parker Bros.
+year=1983
+[Q-BERT~1.ROM]
+name=Q*Bert's Qubes
+maker=Parker Bros.
+year=1984
+[QUESTF~1.ROM]
+name=Quest for Quintana Roo
+maker=Sunrise
+year=1983
+[RIVERR~1.ROM]
+name=River Raid
+maker=Activision
+year=1984
+[ROBINH~1.ROM]
+name=Robin Hood
+maker=Xonox
+year=1984
+[ROCKNBLT.ROM]
+name=Rock 'N' Bolt
+maker=Activision
+year=1984
+[ROCKYS~1.ROM]
+name=Rocky Super Action Boxing
+maker=Coleco
+year=1983
+[ROOTBE~1.ROM]
+name=Root Beer Tapper
+maker=Coleco
+year=1984
+[SAMMYL~1.ROM]
+name=Sammy Lightfoot
+maker=Sierra On-Line
+year=1983
+comments=(variation)
+[SAMMYL~2.ROM]
+name=Sammy Lightfoot
+maker=Sierra On-Line
+year=1983
+[SECTOR~1.ROM]
+name=Sector Alpha
+maker=Spectravideo
+year=1983
+[SEWERSAM.ROM]
+name=Sewer Sam
+maker=Interphase
+year=1984
+[SIRLAN~1.ROM]
+name=Sir Lancelot
+maker=Xonox
+year=1983
+[SKIING.ROM]
+name=Skiing
+maker=Telegames
+year=1986
+[SLURPY.ROM]
+name=Slurpy
+maker=Emag
+year=1984
+[SMURFP~1.ROM]
+name=Smurf Paint 'N Play Workshop
+maker=Coleco
+year=1983
+[SMURFR~1.ROM]
+name=Smurf Rescue in Gargamel's Castle
+maker=1982
+[SPACEF~1.ROM]
+name=Space Fury
+maker=Coleco
+year=1983
+[SPACEP~1.ROM]
+name=Space Panic
+maker=Coleco
+year=1983
+[SPYHUN~1.ROM]
+name=Spy Hunter
+maker=Coleco
+year=1984
+[STARFO~1.ROM]
+name=Star Fortress
+maker=John Dondzilla
+year=1997
+[ZENJI-~1.ROM]
+name=Zenji
+maker=Activision
+year=1984
+[YOLK-P~1.ROM]
+name=Yolk's On You
+maker=20th Century Fox
+year=1983
+comments=(prototype)
+[WINGWAR.ROM]
+name=Wing War
+maker=Imagic
+year=1983
+[WARROOM.ROM]
+name=War Room
+maker=NAP
+year=1983
+[WARGAMES.ROM]
+name=War Games
+maker=Coleco
+year=1984
+[VIDEOH~2.ROM]
+name=Video Hustler
+maker=Konami
+year=1984
+[VIDEOH~1.ROM]
+name=Video Hustler
+maker=Konami
+year=1984
+comments=(prototype)
+[UPNDOWN.ROM]
+name=Up'n Down
+maker=Sega
+year=1984
+[TUTANK~1.ROM]
+name=Tutankham
+maker=Parker Bros.
+year=1983
+[TUNNEL~2.ROM]
+name=Tunnels and Trolls
+maker=Coleco
+year=1984
+[TUNNEL~1.ROM]
+name=Tunnels and Trolls Demo
+maker=Coleco
+year=1984
+[TOURNA~1.ROM]
+name=Tournament Tennis
+maker=Imagic
+year=1984
+[TIMEPI~1.ROM]
+name=Time Pilot
+maker=Coleco
+year=1983
+[TICTAC~1.ROM]
+name=Tic-Tac-Toe ?
+comments=(too short)
+[STARTREK.ROM]
+name=Star Trek
+maker=Coleco
+year=1984
+[STARWA~1.ROM]
+name=Star Wars
+maker=Parker Bros.
+year=1984
+[STRIKEIT.ROM]
+name=Strike It!
+maker=Bit Corp.
+year=1983
+[SUPERA~1.ROM]
+name=Super Action Baseball
+maker=Coleco
+year=1983
+[SUPERA~2.ROM]
+name=Super Controller Tester
+maker=Coleco
+year=1983
+[SUPERA~3.ROM]
+name=Super Action Football
+maker=Coleco
+year=1984
+[SUPERA~4.ROM]
+name=Super Action Soccer
+maker=Coleco
+year=1984
+[SUPERC~1.ROM]
+name=Super Cobra
+maker=Parker Bros.
+year=1983
+[SUPERC~2.ROM]
+name=Super Cross Force
+maker=Spectravideo
+year=1983
+[SUPERD~1.ROM]
+name=Super Donkey Kong
+maker=Coleco
+year=1982
+[SUPERD~2.ROM]
+name=Super Donkey Kong Junior
+maker=Coleco
+year=1983
+[TANKWARS.ROM]
+name=Tank Wars
+maker=Bit Corp.
+year=1983
+[TELLYT~1.ROM]
+name=Telly Turtle
+maker=Coleco
+year=1984
+[BOULDE~1.STA]
+name=BOULDE~1

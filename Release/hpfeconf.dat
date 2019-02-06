@@ -1,0 +1,71 @@
+column1 = name
+column1.display = Game
+column1.position = 1
+column1.width = 175
+column1.align = left
+
+column2 = filename
+column2.display = Filename
+column2.position = 5
+column2.width = 100
+column2.align = left
+
+column3 = system
+column3.display = System
+column3.position = 3
+column3.width = 100
+column3.align = left
+
+column4 = emulator
+column4.display = Emulator
+column4.position = 4
+column4.width = 100
+column4.align = left
+
+column5 = comments
+column5.display = Comments
+column5.position = 2
+column5.width = 125
+column5.align = left
+
+column6 = maker
+column6.display = Maker
+column6.position = 6
+column6.width = 100
+column6.align = left
+
+column7 = year
+column7.display = Year
+column7.position = 7
+column7.width = 75
+column7.align = left
+
+column8 = needtounzip
+column8.display = Unzip?
+column8.position = 8
+column8.width = 50
+column8.align = center
+
+column9 = zipfile
+column9.display = Zipfile
+column9.position = 9
+column9.width = 100
+column9.align = left
+
+column10 = favorite
+column10.display = Favorite?
+column10.position = 10
+column10.width = 50
+column10.align = center
+
+column11 = commandline
+column11.display = Command Line
+column11.position = 11
+column11.width = 175
+column11.align = left
+
+column12 = workingdir
+column12.display = Working Dir
+column12.position = 12
+column12.width = 175
+column12.align = left

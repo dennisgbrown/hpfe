@@ -1,0 +1,67 @@
+# Microsoft Developer Studio Generated Dependency File, included by HPFE.mak
+
+.\HPFE.cpp : \
+	".\Column.h"\
+	".\Emulator.h"\
+	".\gameentry.h"\
+	".\HPFE.h"\
+	".\HPFEData.h"\
+	".\HPFEDlg.h"\
+	".\sharedVars.h"\
+	".\SysObj.h"\
+	".\token.h"\
+	
+
+.\HPFE.rc : \
+	".\res\HPFE.ico"\
+	".\res\HPFE.rc2"\
+	
+
+.\HPFEData.cpp : \
+	".\Column.h"\
+	".\Emulator.h"\
+	".\gameentry.h"\
+	".\HPFEData.h"\
+	".\sharedVars.h"\
+	".\SysObj.h"\
+	".\token.h"\
+	
+
+.\HPFEDlg.cpp : \
+	".\Column.h"\
+	".\Emulator.h"\
+	".\gameentry.h"\
+	".\HPFE.h"\
+	".\HPFEData.h"\
+	".\HPFEDlg.h"\
+	".\HPFEEditDlg.h"\
+	".\sharedVars.h"\
+	".\SysObj.h"\
+	".\token.h"\
+	".\zlib\zconf.h"\
+	".\zlib\zlib.h"\
+	
+
+.\HPFEEditDlg.cpp : \
+	".\HPFE.h"\
+	".\HPFEEditDlg.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\SysObj.cpp : \
+	".\Emulator.h"\
+	".\gameentry.h"\
+	".\sharedVars.h"\
+	".\SysObj.h"\
+	".\token.h"\
+	
+
+.\unzip.c : \
+	".\unzip.h"\
+	".\zconf.h"\
+	".\zlib.h"\
+	

@@ -1,0 +1,97 @@
+[SNES]
+romslist = snes.dat
+romsdir = F:\SNES\ROMS
+emulator1 = SNES9X
+emulator1.workingdir = F:\SNES\SNES9X
+emulator1.commandline = SNES9X %d%\%b%.%e% -tr -16 -st -nojoy
+
+[2600]
+romslist = 2600.dat
+romsdir = F:\2600\ROMS
+emulator1 = Z26
+emulator1.workingdir = F:\2600\Z26
+emulator1.commandline = Z26 %d%\%b%.%e%
+
+[Genesis]
+romslist = genesis.dat
+romsdir = F:\GENESIS\ROMS
+emulator1 = KGen98
+emulator1.workingdir = F:\GENESIS\KGEN98
+emulator1.commandline = KGEN98 -4 -S %d%\%b%.%e%
+
+[Coleco]
+romslist = coleco.dat
+romsdir = F:\COLECO\ROMS
+emulator1 = ColEm
+emulator1.workingdir = F:\COLECO\COLEM
+emulator1.commandline = COLEM -uperiod 1 -sync -nojoy %d%\%b%.%e%
+
+[Lynx]
+romslist = lynx.dat
+romsdir = F:\LYNX\ROMS
+emulator1 = Handy
+emulator1.workingdir = F:\LYNX\HANDY
+emulator1.commandline = HANDY %d%\%b%.%e%
+
+[5200]
+romslist = 5200.dat
+romsdir = F:\5200\ROMS
+emulator1 = Atari800 (5200 mode)
+emulator1.workingdir = F:\5200\A8005200
+emulator1.commandline = ATARI800 -5200 -ags32 %d%\%b%.%e%
+
+[7800]
+romslist = 7800.dat
+romsdir = F:\7800\ROMS
+emulator1 = V7800
+emulator1.workingdir = F:\7800\V7800
+emulator1.commandline = V7800 -control=key -nostick -modex -frame=1 %d%\%b%.%e%
+
+[Gameboy]
+romslist = gb.dat
+romsdir = F:\GB\ROMS
+emulator1 = DBoy
+emulator1.workingdir = F:\GB\DBOY
+emulator1.commandline = DBOY -video 1 %d%\%b%.%e%
+
+[Intellivision]
+romslist = intv.dat
+romsdir = F:\INTV\ROMS
+emulator1 = INTYPC
+emulator1.workingdir = F:\INTV\INTYPC
+emulator1.commandline = INTVPC %d%\%b%.%e% /s2 /v /e /b /r
+
+[Arcadia 2001]
+romslist = 2001.dat
+romsdir = F:\2001\ROMS
+emulator1 = 2001
+emulator1.workingdir = F:\2001\2001
+emulator1.commandline = 2001 %d%\%b%.%e%
+
+[Vic-20]
+romslist = vic20.dat
+romsdir = G:\VIC20\ROMS
+emulator1 = PC-VIC
+emulator1.workingdir = G:\VIC20\PCVIC
+emulator1.commandline = PCVIC %d%\%b%.%e%
+
+[NES]
+romslist = nes.dat
+romsdir = F:\NES\ROMS
+emulator1 = Nesticle
+emulator1.workingdir = F:\NES\NESTICLE
+emulator1.commandline = NESTICLE -banked -res 256 224 -run %d%\%b%.%e%
+
+[TG-16]
+romslist = tg16.dat
+romsdir = F:\TG16\ROMS
+emulator1 = HU6280
+emulator1.workingdir = F:\TG16\HU6280
+emulator1.commandline = HU6280 %d%\%b%.%e% -s1 -v2 -skip1
+
+[SMS]
+romslist = sms.dat
+romsdir = F:\SMS\ROMS
+emulator1 = Meka
+emulator1.workingdir = F:\SMS\MEKA
+emulator1.commandline = MEKA %d%\%b%.%e%

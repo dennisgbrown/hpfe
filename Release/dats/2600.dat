@@ -1,0 +1,2268 @@
+[ATEAM.BIN]
+name=A-Team
+maker=Atari
+year=1984
+comments=(prototype)
+[ACTIONMN.BIN]
+name=Action Man
+comments=(pirate of G.I. Joe Cobra Strike)
+[ADVNTURE.BIN]
+name=Adventure
+maker=Atari
+year=1980
+[ACIDDROP.BIN]
+name=Acid Drop
+maker=Salu
+[ADVNTRON.BIN]
+name=Adventures of TRON
+maker=M Network
+year=1982
+[AIRLOCK.BIN]
+name=Airlock
+maker=Data Age
+year=1982
+[AIR_SEA.BIN]
+name=Air-Sea Battle
+maker=Atari
+year=1977
+[AIR_RAID.BIN]
+name=Air Raid
+maker=Men-A-Vision
+[ALIEN.BIN]
+name=Alien
+maker=20th Century Fox
+year=1982
+[ALPHBEAM.BIN]
+name=Alpha Beam with Ernie
+maker=Atari
+year=1983
+[AMIDAR.BIN]
+name=Amidar
+maker=Parker Bros.
+year=1982
+[AQUAVENT.BIN]
+name=Aquaventure
+maker=Atari
+year=1983
+[ARMAMBSH.BIN]
+name=Armor Ambush
+maker=M Network
+year=1982
+[ART_DUEL.BIN]
+name=Artillery Duel
+maker=Xonox
+year=1983
+[ASSAULT.BIN]
+name=Assault
+maker=Bomb
+[ASTEROID.BIN]
+name=Asteroids
+maker=Atari
+year=1983
+[ASTRBLST.BIN]
+name=Astroblast
+maker=M Network
+year=1982
+[ASTROWAR.BIN]
+name=Astro War
+maker=Dimax
+[ATLANTIS.BIN]
+name=Atlantis
+maker=Imagic
+year=1982
+[VIDCUBE.BIN]
+name=Atari Video Cube
+maker=Atari
+year=1982
+[BACHELOR.BIN]
+name=Bachelor Party
+maker=Mystique
+[BMX_TNT.BIN]
+name=BMX Airmaster
+maker=TNT Games
+year=1989
+[BNJ.BIN]
+name=Bump 'n' Jump
+maker=M Network
+year=1983
+[BACKGAM.BIN]
+name=Backgammon
+maker=Atari
+year=1978
+[BACHLRTT.BIN]
+name=Bachelorette Party
+maker=Playaround
+[BANKHEST.BIN]
+name=Bank Heist
+maker=20th Century Fox
+year=1983
+[BARNSTRM.BIN]
+name=Barnstorming
+maker=Activision
+year=1982
+[BASEATTK.BIN]
+name=Base Attack
+maker=Homevision
+comments=(pirate of Z-Tack)
+[BASIC.BIN]
+name=BASIC Programming
+maker=Atari
+year=1978
+[BASMATH.BIN]
+name=Basic Math
+maker=Atari
+[BASKETBL.BIN]
+name=Basketball
+maker=Atari
+[BATLZONE.BIN]
+name=Battlezone
+maker=Atari
+year=1983
+[BEAMRIDE.BIN]
+name=Beamrider
+maker=Activision
+year=1983
+[BEATEM.BIN]
+name=Beat Em and Eat Em
+maker=Mystique
+[BEANYBOP.BIN]
+name=Beany Bopper
+maker=20th Century Fox
+year=1982
+[ASTERPAL.BIN]
+name=Asterix
+maker=Atari
+year=1983
+comments=(PAL)
+[ASTROIDC.BIN]
+name=Asteroids
+maker=Atari
+year=1981
+comments=(with copr.)
+[3D_TIC.BIN]
+name=3D Tic Tac Toe
+maker=Atari
+[BERMDTRI.BIN]
+name=Bermuda Triangle
+maker=Data Age
+year=1982
+[BERMUDA.BIN]
+name=Bermuda
+maker=SunTek
+comments=(pirate of River Raid)
+[BERZERK.BIN]
+name=Berzerk
+maker=Atari
+year=1982
+[EGGCATCH.BIN]
+name=Big Bird's Egg Catch
+maker=Atari
+year=1983
+[BIBI.BIN]
+name=Bi! Bi!
+maker=Rainbow Vision
+[BLACK_J.BIN]
+name=Blackjack
+maker=Atari
+[BLUEPRNT.BIN]
+name=Blueprint
+maker=CBS
+year=1983
+[BOBBY.BIN]
+name=Bobby is Going Home
+maker=Bit Corp.
+[BOGYBLST.BIN]
+name=Bogey Blaster
+maker=Telegames
+comments=(rerelease of Air Raiders)
+[BOING.BIN]
+name=Boing!
+maker=First Star
+[BOOMBANG.BIN]
+name=Boom Bang
+maker=Rainbow Vision
+comments=(pirate of Crackpots)
+[BOWLING.BIN]
+name=Bowling
+maker=Atari
+year=1978
+[BOXING.BIN]
+name=Boxing
+maker=Activision
+year=1980
+[BRAINGMS.BIN]
+name=Brain Games
+maker=Atari
+[BREAKOUT.BIN]
+name=Breakout
+maker=Atari
+year=1978
+[BRICKICK.BIN]
+name=Brick Kick
+maker=unknown
+[BRIDGE.BIN]
+name=Bridge
+maker=Activision
+year=1980
+[BUCKROG.BIN]
+name=Buck Rogers: Planet of Zoom
+maker=Sega
+year=1983
+[BUGS.BIN]
+name=Bugs
+maker=Data Age
+year=1982
+[BUGSBUN.BIN]
+name=Bugs Bunny
+maker=Atari
+year=1983
+comments=(prototype)
+[BURGTIME.BIN]
+name=Burgertime
+maker=M Network
+year=1982
+[BURNDESR.BIN]
+name=Burning Desire
+maker=Playaround
+[CAKEWALK.BIN]
+name=Cakewalk
+maker=CommaVid
+[CALIFGMS.BIN]
+name=California Games
+maker=Epyx
+year=1988
+[CANYONB.BIN]
+name=Canyon Bomber
+maker=Atari
+year=1979
+[CARNIVAL.BIN]
+name=Carnival
+maker=Coleco
+year=1982
+[CASINO.BIN]
+name=Casino
+maker=Atari
+year=1978
+[CATHOUSE.BIN]
+name=Cathouse Blues
+maker=Playaround
+year=1982
+[CATMOUSE.BIN]
+name=Cat & Mouse
+maker=UA
+year=1983
+[CENTIPED.BIN]
+name=Centipede
+maker=Atari
+year=1982
+[CHALENGE.BIN]
+name=Challenge
+maker=Funvision
+[CHECKACT.BIN]
+name=Checkers
+maker=Activision
+year=1980
+[CHINASYN.BIN]
+name=China Syndrome
+maker=Spectravision
+year=1982
+[CHOPRCMD.BIN]
+name=Chopper Command
+maker=Activision
+year=1982
+[CHUCKICK.BIN]
+name=Chuck Norris Superkicks
+maker=Xonox
+year=1983
+[CIRCATRI.BIN]
+name=Circus Atari
+maker=Atari
+[CHUCKWGN.BIN]
+name=Chase the Chuckwagon
+maker=Spectravision
+year=1983
+[CLWNDOWN.BIN]
+name=Clown Downtown
+maker=unknown
+[COCONUTS.BIN]
+name=Coconuts
+maker=Telesys
+year=1982
+[CODEBRK.BIN]
+name=Codebreaker
+maker=Atari
+year=1978
+[COKEWINS.BIN]
+name=Coke Wins!
+maker=Atari
+[COLN.BIN]
+name=Col 'N'
+maker=Homevision
+[COLORBAR.BIN]
+name=Color Bar Generator
+maker=Videosoft
+[COMBAT.BIN]
+name=Combat
+maker=Atari
+year=1978
+[COMMANDO.BIN]
+name=Commando
+maker=Activision
+year=1988
+[COMANDRD.BIN]
+name=Commando Raid
+maker=Vidtec
+[COMMDEMO.BIN]
+name=Communist Mutants From Space Demo
+maker=Arcadia
+year=1982
+[COMMIE.BIN]
+name=Communist Mutants From Space
+maker=Arcadia
+year=1982
+[COMMYPAL.BIN]
+name=Mutants from Space
+maker=Starpath
+year=1982
+comments=(PAL)
+[COMPALDM.BIN]
+name=Mutants from Space Demo
+maker=Starpath
+year=1982
+comments=(PAL)
+[CONCENTR.BIN]
+name=A Game of Concentration
+maker=Atari
+[CONDOR.BIN]
+name=Condor Attack
+maker=Ultravision
+[CONGBONG.BIN]
+name=Congo Bongo
+maker=Sega
+year=1983
+[COOKMONS.BIN]
+name=Cookie Monster Munch
+maker=Atari
+year=1983
+[COSMCARK.BIN]
+name=Cosmic Ark
+maker=Imagic
+year=1982
+[COSMCORR.BIN]
+name=Cosmic Corridor
+maker=Zimag
+[COSMCREP.BIN]
+name=Cosmic Creeps
+maker=Telesys
+year=1982
+[COSMSWRM.BIN]
+name=Cosmic Swarm
+maker=Commavid
+year=1982
+[CRACKPOT.BIN]
+name=Crackpots
+maker=Activision
+year=1983
+[CRAZCLMB.BIN]
+name=Crazy Climber
+maker=Atari
+year=1982
+[CRIMLPUR.BIN]
+name=Criminal Pursuit
+maker=unknown
+[CROSFRCE.BIN]
+name=Cross Force
+maker=Spectravision
+[CROSSBOW.BIN]
+name=Crossbow
+maker=Atari
+year=1987
+[CRSHDIVE.BIN]
+name=Crash Dive
+maker=20th Century Fox
+year=1983
+[CRPTCHOS.BIN]
+name=Crypts of Chaos
+maker=20th Century Fox
+year=1982
+[CRUSMISL.BIN]
+name=Cruise Missile
+maker=Sancho
+year=1982
+[CRYSCAST.BIN]
+name=Crystal Castles
+maker=Atari
+year=1984
+[CSMCOMTR.BIN]
+name=Cosmic Commuter
+maker=Activision
+year=1984
+[CUBICOL.BIN]
+name=Cubicolor
+maker=Imagic
+year=1982
+[CUSTEREV.BIN]
+name=Custer's Revenge
+maker=Mystique
+[CX2616PL.BIN]
+name=Pele's Soccer
+maker=Atari
+year=1981
+comments=(PAL)
+[DANCPLAT.BIN]
+name=Dancing Plate
+maker=Bit Corp.
+[DARKCHAM.BIN]
+name=Dark Chambers
+maker=Atari
+year=1988
+[DARKCVRN.BIN]
+name=Dark Cavern
+maker=M Network
+year=1982
+[DBLDRAGN.BIN]
+name=Double Dragon
+maker=Activision
+year=1989
+[DEADDUCK.BIN]
+name=Deadly Duck
+maker=Sirius-Fox
+year=1982
+[DECATHLN.BIN]
+name=Decathlon
+maker=Activision
+year=1983
+[DEFENDER.BIN]
+name=Defender
+maker=Atari
+year=1981
+[DEFENDR2.BIN]
+name=Defender II
+maker=Atari
+year=1984
+[DEMOHRBY.BIN]
+name=Demolition Herby
+maker=Telesys
+year=1983
+[DEMONATK.BIN]
+name=Demon Attack
+maker=Imagic
+year=1982
+[DEMONDIM.BIN]
+name=Demons to Diamonds
+maker=Atari
+year=1982
+[DETHTRAP.BIN]
+name=Death Trap
+maker=Avalon Hill
+year=1983
+[DICEPUZL.BIN]
+name=Dice Puzzle
+maker=Sancho
+year=1983
+[DIGDUG.BIN]
+name=Dig Dug
+maker=Atari
+year=1983
+[DISHASTR.BIN]
+name=Dishaster
+maker=Zimag
+[DK.BIN]
+name=Donkey Kong
+maker=Coleco
+year=1982
+[DKJR.BIN]
+name=Donkey Kong Jr.
+maker=Coleco
+year=1982
+[DOCASTLE.BIN]
+name=Mr. Do's Castle
+maker=Parker Bros.
+[DETHSTAR.BIN]
+name=Star Wars: Death Star Battle
+maker=Parker Bros.
+year=1983
+[DODGE_EM.BIN]
+name=Dodge 'Em
+maker=Atari
+year=1981
+[DOLPHIN.BIN]
+name=Dolphin
+maker=Activision
+year=1983
+[DOUBDUNK.BIN]
+name=Double Dunk
+maker=Atari
+year=1989
+[DRGNDFND.BIN]
+name=Dragon Defender
+maker=unknown
+[DRAGON.BIN]
+name=Dragon Stomper
+maker=Starpath
+year=1982
+[DRAGDEMO.BIN]
+name=Dragon Stomper Demo
+maker=Starpath
+year=1982
+[DRAGPAL.BIN]
+name=Dragon Stomper
+maker=Starpath
+year=1982
+comments=(PAL)
+[DRDMOPAL.BIN]
+name=Dragon Stomper Demo
+maker=Starpath
+year=1982
+comments=(PAL)
+[DRAGSTER.BIN]
+name=Dragster
+maker=Activision
+year=1980
+[DRGNFIRE.BIN]
+name=Dragonfire
+maker=Imagic
+[DSRTFALC.BIN]
+name=Desert Falcon
+maker=Atari
+year=1987
+[DUCKSHOT.BIN]
+name=Duck Shoot
+maker=unknown
+[DUKES.BIN]
+name=Dukes of Hazzard
+maker=Atari
+year=1983
+comments=(prototype)
+[EARTHDIE.BIN]
+name=Earth Dies Screaming
+maker=20th Century Fox
+year=1983
+[EGGOMANA.BIN]
+name=Eggomania
+maker=U.S. Games
+year=1982
+[ELILADDR.BIN]
+name=Eli's Ladder
+maker=Simage
+[ELK.BIN]
+name=Elk Attack
+maker=Mark R. Hahn
+year=1987
+[ENCONTL5.BIN]
+name=Encounter at L-5
+maker=Data Age
+year=1982
+[ENDURO_A.BIN]
+name=Enduro
+maker=Activision
+year=1983
+[ENDRO_TW.BIN]
+name=Enduro
+maker=unknown
+comments=(pirate)
+[AIRSEA2.BIN]
+name=Air-Sea Battle
+maker=Atari
+year=1977
+comments=(2)
+[AIRAIDRS.BIN]
+name=Air Raiders
+maker=M Network
+year=1982
+[CIRCUS-J.BIN]
+name=Circus Atari
+comments=(modified for joystick)
+[CHALLANG.BIN]
+name=Challenge
+maker=Funvision
+comments=(2)
+[32IN1.BIN]
+name=32 in 1 ?
+maker=Atari
+[BOWLG_TW.BIN]
+name=Bowling
+comments=(pirate of Atari's Bowling)
+[ENTOMBED.BIN]
+name=Entombed
+maker=U.S. Games
+year=1982
+[ESPIAL.BIN]
+name=Espial
+maker=Tigervision
+year=1984
+[EXOCET.BIN]
+name=Exocet
+maker=Panda
+[E_T.BIN]
+name=E.T.: The Extra Terrestrial
+maker=Atari
+year=1982
+[FANTCVOY.BIN]
+name=Fantastic Voyage
+maker=20th Century Fox
+year=1982
+[FARMYARD.BIN]
+name=Farmyard Fun
+maker=unknown
+[FASTEDIE.BIN]
+name=Fast Eddie
+maker=20th Century Fox
+year=1982
+[FASTFOOD.BIN]
+name=Fast Food
+maker=Telesys
+year=1982
+[FATALRUN.BIN]
+name=Fatal Run
+maker=Atari
+year=1989
+[FATHOM.BIN]
+name=Fathom
+maker=Imagic
+year=1983
+[FIGHTERP.BIN]
+name=Tomcat F-14 Simulator
+maker=Absolute
+year=1988
+[FB_PIR8.BIN]
+name=Pele's Championship Soccer
+comments=(pirate of International Soccer)
+[FINLAPCH.BIN]
+name=Final Approach
+maker=Apollo
+year=1982
+[FIREBALL.BIN]
+name=Fireball
+maker=Arcadia
+year=1982
+[FIRBLPAL.BIN]
+name=Fireball
+maker=Arcadia
+year=1982
+comments=(PAL)
+[FIREBIRD.BIN]
+name=Fire Birds
+maker=ITT
+[FIREDEMO.BIN]
+name=Fireball Demo
+maker=Arcadia
+year=1982
+[FIREFITE.BIN]
+name=Fire Fighter
+maker=Imagic
+year=1982
+[FIREFLY.BIN]
+name=Fire Fly
+maker=Mythicon
+year=1983
+[FIRESPIN.BIN]
+name=Fire Spinner
+maker=Emag
+[FIRPALDM.BIN]
+name=Fireball Demo
+maker=Arcadia
+year=1982
+comments=(PAL)
+[FISHDRBY.BIN]
+name=Fishing Derby
+maker=Activision
+year=1980
+[FLAGCAP.BIN]
+name=Flag Capture
+maker=Atari
+[FLASHGRD.BIN]
+name=Flash Gordon
+maker=20th Century Fox
+year=1983
+[FOOTBALL.BIN]
+name=Football
+maker=Atari
+year=1978
+[FOREST.BIN]
+name=Forest
+maker=Sancho
+[FRANKMON.BIN]
+name=Frankenstein's Monster
+maker=Data Age
+year=1983
+[FREEWAY.BIN]
+name=Freeway
+maker=Activision
+year=1981
+[FRNTLINE.BIN]
+name=Front Line
+maker=Coleco
+year=1984
+[FROGDEMO.BIN]
+name=Frogger Demo
+maker=Starpath
+year=1983
+[FROGFLYS.BIN]
+name=Frogs and Flies
+maker=M Network
+year=1982
+[FROGGER.BIN]
+name=Frogger
+maker=Parker Bros.
+year=1982
+[FROGGER2.BIN]
+name=Frogger II: Threedeep!
+maker=Parker Bros.
+year=1984
+[FROGRPAL.BIN]
+name=Frogger
+maker=Starpath
+year=1983
+comments=(PAL)
+[FROSTBIT.BIN]
+name=Frostbite
+maker=Activision
+year=1983
+[GALAGA.BIN]
+name=Galaga
+maker=?
+year=1984
+comments=(pirate of River Raid)
+[GALAXIAN.BIN]
+name=Galaxian
+maker=Atari
+year=1983
+[FROGPOND.BIN]
+name=Frog Pond
+maker=Atari
+comments=(prototype)
+[GANGALLY.BIN]
+name=Gangster Alley
+maker=Spectravision
+year=1983
+[GASHOG.BIN]
+name=Gas Hog
+maker=Spectravision
+[GAUNTLET.BIN]
+name=Gauntlet
+maker=ASC
+year=1983
+[GHOSTBST.BIN]
+name=Ghostbusters
+maker=Activision
+year=1985
+[GHOSTMAN.BIN]
+name=Ghost Manor
+maker=Xonox
+year=1983
+[GIGOLO.BIN]
+name=Gigolo
+maker=Playaround
+year=1982
+[GIJOE.BIN]
+name=G.I. Joe: Cobra Strike
+maker=Parker Bros.
+year=1983
+[GLIB.BIN]
+name=Glib
+maker=Selchow & Righter
+year=1983
+[GOLF.BIN]
+name=Golf
+maker=Atari
+year=1980
+[GOPHER.BIN]
+name=Gopher
+maker=U.S. Games
+year=1982
+[GORF.BIN]
+name=Gorf
+maker=CBS
+year=1982
+[GRANDPRX.BIN]
+name=Grand Prix
+maker=Activision
+year=1982
+[GRAVITAR.BIN]
+name=Gravitar
+maker=Atari
+year=1983
+[GREMLINS.BIN]
+name=Gremlins
+maker=Atari
+year=1984
+[GRESCAPE.BIN]
+name=Great Escape
+maker=Bomb
+[GROVER.BIN]
+name=Grover's Music Maker
+maker=Atari
+year=1983
+comments=(prototype)
+[GUARDIAN.BIN]
+name=Guardian
+maker=Apollo
+[GYRUSS.BIN]
+name=Gyruss
+maker=Parker Bros.
+year=1984
+[HALOWEEN.BIN]
+name=Halloween
+maker=Wizard Video
+[HANGMAN.BIN]
+name=Hangman
+maker=Atari
+year=1978
+[HARBRESC.BIN]
+name=Harbor Escape
+maker=Panda
+year=1983
+comments=(pirate of River Raid)
+[HAUNTHSE.BIN]
+name=Haunted House
+maker=Atari
+year=1981
+[HERO.BIN]
+name=H.E.R.O.
+maker=Activision
+year=1984
+[HE_MAN.BIN]
+name=He-Man Masters of the Universe
+maker=M Network
+year=1983
+[HOLEHUNT.BIN]
+name=Hole Hunter
+maker=unknown
+[HOLEMOLE.BIN]
+name=Holey Moley
+maker=Atari
+year=1983
+comments=(prototype)
+[HOMERUN.BIN]
+name=Home Run
+maker=Atari
+[HUMAN_CB.BIN]
+name=Human Cannonball
+maker=Atari
+[IWANTMOM.BIN]
+name=I Want My Mommy
+maker=Zimag
+[IMMIES.BIN]
+name=Immies & Aggies
+[IMAGSLCT.BIN]
+name=Imagic Game Selector
+maker=Imagic
+[ICEHOCKY.BIN]
+name=Ice Hockey
+maker=Activision
+year=1981
+[INDY_500.BIN]
+name=Indy 500
+maker=Atari
+year=1978
+comments=(modified for joystick)
+[INFILTRT.BIN]
+name=Infiltrate
+maker=Apollo
+year=1981
+[INTRSCCR.BIN]
+name=International Soccer
+maker=M Network
+year=1982
+[IQ180.BIN]
+name=IQ 180
+maker=Homevision
+[JAWBREAK.BIN]
+name=Jawbreaker
+maker=Tigervision
+year=1982
+[JEDIAREN.BIN]
+name=Star Wars: Jedi Arena
+maker=Parker Bros.
+year=1983
+[JNGLFEVR.BIN]
+name=Jungle Fever
+maker=Playaround
+[JNGLHUNT.BIN]
+name=Jungle Hunt
+maker=Atari
+year=1983
+[JOUST.BIN]
+name=Joust
+maker=Atari
+year=1983
+[JRNYESCP.BIN]
+name=Journey Escape
+maker=Data Age
+year=1982
+[JRPACMAN.BIN]
+name=Jr. Pac-Man
+maker=Atari
+year=1984
+[KABOOM.BIN]
+name=Kaboom!
+maker=Activision
+year=1981
+[KANGAROO.BIN]
+name=Kangaroo
+maker=Atari
+year=1983
+[KARATE.BIN]
+name=Karate
+maker=Ultravision
+[KEYSTONE.BIN]
+name=Keystone Kapers
+maker=Activision
+year=1983
+[KILLDEMO.BIN]
+name=Killer Satellites Demo
+maker=Starpath
+year=1983
+[KILLRPAL.BIN]
+name=Killer Satellites
+maker=Starpath
+year=1983
+comments=(PAL)
+[KILLRSAT.BIN]
+name=Killer Satellites
+maker=Starpath
+year=1983
+[KINGKONG.BIN]
+name=King Kong
+maker=Tigervision
+year=1982
+[KLAX.BIN]
+name=Klax
+maker=Tengen
+year=1990
+comments=(PAL)
+[KLAXNTSC.BIN]
+name=Klax
+maker=Tengen
+year=1990
+[KNIGHTWN.BIN]
+name=Knight on the Town
+maker=Playaround
+[KOOLAIDE.BIN]
+name=Kool-Aid Man
+maker=M Network
+year=1983
+[KRULL.BIN]
+name=Krull
+maker=Atari
+year=1983
+[KUNG_FU.BIN]
+name=Kung Fu Master
+maker=Activision
+year=1987
+[LASRBLST.BIN]
+name=Laser Blast
+maker=Activision
+year=1981
+[LASRGATE.BIN]
+name=Laser Gates
+maker=Imagic
+year=1983
+[LASRVOLY.BIN]
+name=Laser Volley
+comments=(pirate of Laser Gates)
+[LOCKCHSE.BIN]
+name=Lock N Chase
+maker=M Network
+year=1982
+[LONDBLTZ.BIN]
+name=London Blitz
+maker=Avalon Hill
+year=1983
+[LOSTLUGG.BIN]
+name=Lost Luggage
+maker=Apollo
+year=1981
+[MALAGAI.BIN]
+name=Malagai
+maker=Answer
+[MANGIA.BIN]
+name=Mangia
+maker=Spectravision
+[MARIOBRO.BIN]
+name=Mario Bros.
+maker=Atari
+year=1983
+[MARINWAR.BIN]
+name=Marine Wars
+maker=Konami
+year=1983
+[MARFLEGR.BIN]
+name=Marineflieger
+maker=unknown
+[MARAUDER.BIN]
+name=Marauder
+maker=Tigervision
+year=1982
+[MASTBULD.BIN]
+name=Master Builder
+maker=Spectravision
+[MASH.BIN]
+name=M*A*S*H
+maker=20th Century Fox
+year=1983
+[M_A_D.BIN]
+name=M.A.D.
+maker=U.S. Games
+year=1982
+[MATH_GPX.BIN]
+name=Math Gran Prix
+maker=Atari
+year=1982
+[MAZECRZ.BIN]
+name=Maze Craze: A Game of Cops and Robbers
+maker=Atari
+year=1978
+[MEGAFRCE.BIN]
+name=Megaforce
+maker=20th Century Fox
+year=1982
+[MEGAMAN.BIN]
+name=Megamania
+maker=Activision
+year=1982
+[METDEF.BIN]
+name=Meteor Defense
+maker=Home Vision
+year=1983
+[MIDNIGHT.BIN]
+name=Midnight Magic
+maker=Atari
+year=1984
+[MILLIPED.BIN]
+name=Millipede
+maker=Atari
+year=1984
+[MINDDEMO.BIN]
+name=Escape From the Mind Master Demo
+maker=Starpath
+year=1982
+[MINDLINK.BIN]
+name=Mind Link Bionic Breakthrough
+maker=Atari
+year=1984
+comments=(prototype)
+[MINDMAS.BIN]
+name=Escape From the Mind Master
+maker=Starpath
+year=1982
+[MINDPAL.BIN]
+name=Escape From the Mind Master
+maker=Starpath
+year=1982
+comments=(PAL)
+[FROGSC.BIN]
+name=Frogger
+maker=Starpath
+year=1983
+[MINEMNOS.BIN]
+name=Mines of Minos
+maker=Commavid
+year=1982
+[MNR2049R.BIN]
+name=Miner 2049'er
+maker=Tigervision
+year=1983
+[MINRVOL2.BIN]
+name=Miner 2049'er Volume II
+maker=Tigervision
+year=1983
+[MIN_GOLF.BIN]
+name=Miniature Golf
+maker=Atari
+[MISLCONT.BIN]
+name=Missile Control
+maker=Video Gems
+[MISSCOMM.BIN]
+name=Missile Command
+maker=Atari
+year=1981
+[MNDMOPAL.BIN]
+name=Escape From the Mind Master Demo
+maker=Starpath
+year=1982
+comments=(PAL)
+[MISN3000.BIN]
+name=Mission 3000
+maker=unknown
+[MOGULMAN.BIN]
+name=Mogul Maniac
+maker=Amiga
+year=1983
+[MONS.BIN]
+name=Monstercise
+maker=Atari
+year=1984
+comments=(prototype)
+[MONTZREV.BIN]
+name=Montezuma's Revenge
+maker=Parker Bros.
+[MOONPTRL.BIN]
+name=Moon Patrol
+maker=Atari
+year=1983
+[MOTOR.BIN]
+name=Motorodeo
+maker=Atari
+year=1990
+[MOUSETRP.BIN]
+name=Mouse Trap
+maker=Coleco
+year=1982
+[MRDO.BIN]
+name=Mr. Do!
+maker=Coleco
+year=1983
+[MRPOSTMN.BIN]
+name=Mr. Postman
+maker=unknown
+[MSPACMAN.BIN]
+name=Ms. Pac-Man
+maker=Atari
+year=1982
+[MTNKING.BIN]
+name=Mountain King
+maker=CBS
+year=1983
+[MUSCMACH.BIN]
+name=Music Machine
+maker=Sparrow
+[MYGOLF.BIN]
+name=My Golf
+maker=HES
+year=1990
+[NAMEGAME.BIN]
+name=Name This Game
+maker=U.S. Games
+year=1982
+[NEXAR.BIN]
+name=Challenge of NEXAR
+maker=Spectravision
+year=1982
+[NGHTMARE.BIN]
+name=Nightmare
+maker=Sancho
+year=1983
+[NIGHTDRV.BIN]
+name=Night Driver
+maker=Atari
+[NIGHTSTK.BIN]
+name=Night Stalker
+maker=Telegames
+comments=(rerelease of Dark Cavern) ?
+[NOESCAPE.BIN]
+name=No Escape!
+maker=Imagic
+year=1983
+[NUTS.BIN]
+name=Nuts
+maker=Technovision
+[OCEANCTY.BIN]
+name=Ocean City Defender
+maker=Funvision
+comments=(pirate of Atlantis)
+[OBELIX.BIN]
+name=Obelix
+maker=Atari
+year=1983
+[OFFROCKR.BIN]
+name=Off Your Rocker
+maker=Amiga
+comments=(prototype)
+[OFTHWALL.BIN]
+name=Off the Wall
+maker=Atari
+year=1989
+[OINK.BIN]
+name=Oink!
+maker=Activision
+year=1983
+[OKIEDOKE.BIN]
+name=Okie Dokie
+maker=Retroware (Bob Colbert)
+year=1996
+[OMEGARAC.BIN]
+name=Omega Race
+maker=CBS
+year=1983
+[OPENSESM.BIN]
+name=Open, Sesame!
+maker=Bit Corp.
+comments=(pirate of I Want My Mommy)
+[OSCAR.BIN]
+name=Oscar's Trash Race
+maker=Atari
+year=1983
+[OTHELLO.BIN]
+name=Othello
+maker=Atari
+year=1980
+[OUTERSPC.BIN]
+name=Outer Space
+maker=Sears
+year=1977
+comments=(rerelease of Star Ship)
+[OUTLAW.BIN]
+name=Outlaw
+maker=Atari
+year=1978
+[OYSTR29.BIN]
+name=Oystron
+maker=Piero Cavina
+year=1997
+[PACKONG.BIN]
+name=Pac-Kong
+maker=Quelle
+[PACMAN.BIN]
+name=Pac-Man
+maker=Atari
+year=1981
+[PANDCHSE.BIN]
+name=Panda Chase
+maker=Homevision
+[PARCHUTE.BIN]
+name=Parachute
+maker=Homevision
+[PEEKABOO.BIN]
+name=Peek-a-Boo
+maker=Atari
+year=1984
+comments=(prototype)
+[PELE.BIN]
+name=Pele's Soccer
+maker=Atari
+year=1981
+[PELE_TW.BIN]
+name=Pele's Championship Soccer
+comments=(2, pirate of International Soccer)
+[PENGO.BIN]
+name=Pengo
+maker=Atari
+year=1983
+[PETEROSE.BIN]
+name=Pete Rose Baseball
+maker=Absolute
+year=1988
+[PHANTOMT.BIN]
+name=Phantom Tank
+maker=Bit Corp.
+[PHARHCRS.BIN]
+name=Pharaoh's Curse
+maker=Technovision
+[PHASOR.BIN]
+name=Phasor Patrol
+maker=Arcadia
+year=1982
+[PHASRPAL.BIN]
+name=Phasor Patrol
+maker=Starpath
+year=1982
+comments=(PAL)
+[PHILLY.BIN]
+name=Philly Flasher
+maker=Playaround
+[PHOENIX.BIN]
+name=Phoenix
+maker=Atari
+year=1982
+[PICKPILE.BIN]
+name=Pick 'N Pile
+maker=Salu
+[PICNIC.BIN]
+name=Picnic
+maker=U.S. Games
+year=1982
+[PIECECKE.BIN]
+name=Piece O Cake
+maker=U.S. Games
+year=1982
+[PIGSPACE.BIN]
+name=Pigs in Space
+maker=Atari
+[PITFALL.BIN]
+name=Pitfall!
+maker=Activision
+year=1982
+[PITFALL2.BIN]
+name=Pitfall II: The Lost Caverns ?
+maker=Activision
+year=1984
+[PITF_CCE.BIN]
+name=Pitfall
+maker=CCE
+comments=(pirate)
+[PLANTPAT.BIN]
+name=Planet Patrol
+maker=Spectravision
+year=1983
+[PLAQATTK.BIN]
+name=Plaque Attack
+maker=Activision
+year=1983
+[PMIXPAL.BIN]
+name=Party Mix
+maker=Starpath
+year=1983
+comments=(PAL)
+[PARTYDMO.BIN]
+name=Party Mix Demo ?
+maker=Starpath
+year=1983
+[PRTYMIX.BIN]
+name=Party Mix
+maker=Starpath
+year=1983
+[POLARIS.BIN]
+name=Polaris
+maker=Tigervision
+year=1983
+[POLEPSN.BIN]
+name=Pole Position
+maker=Atari
+year=1983
+[POLO.BIN]
+name=Polo
+maker=Atari
+year=1978
+comments=(unreleased)
+[POOYAN.BIN]
+name=Pooyan
+maker=Konami
+year=1982
+[POPEYE.BIN]
+name=Popeye
+maker=Parker Bros.
+year=1983
+[PORKYS.BIN]
+name=Porky's
+maker=20th Century Fox
+year=1983
+[PRESSURE.BIN]
+name=Pressure Cooker
+maker=Activision
+year=1983
+[PRIVEYE.BIN]
+name=Private Eye
+maker=Activision
+year=1983
+[PROWREST.BIN]
+name=Title Match Pro Wrestling
+maker=Absolute
+year=1987
+[PUZZL_TW.BIN]
+name=Puzzle
+maker=unknown
+comments=(pirate of Maze Craze)
+[PYRMDWAR.BIN]
+name=Pyramid War
+comments=(pirate of Chopper Command)
+[QBERT_PB.BIN]
+name=Q*Bert
+maker=Parker Bros.
+year=1983
+[QBRTQUBE.BIN]
+name=Q*Bert's Qubes
+maker=Parker Bros.
+year=1984
+[QUICKSTP.BIN]
+name=Quick Step
+maker=Imagic
+year=1983
+[QUINTROO.BIN]
+name=Quest for Quintana Roo
+maker=Sunrise
+[RABBIT.BIN]
+name=Rabbit Transit
+maker=Starpath
+year=1983
+[RABTDEMO.BIN]
+name=Rabbit Transit Demo
+maker=Starpath
+year=1983
+[RABTPAL.BIN]
+name=Rabbit Transit
+maker=Starpath
+year=1983
+comments=(PAL)
+[RACQUETB.BIN]
+name=Raquetball
+maker=Apollo
+year=1981
+[RADARLOK.BIN]
+name=Radar Lock
+maker=Atari
+year=1989
+[RAFTRIDR.BIN]
+name=Raft Rider
+maker=U.S. Games
+year=1982
+[RAIDERS.BIN]
+name=Raiders of the Lost Ark
+maker=Atari
+year=1982
+[RAMIT.BIN]
+name=Ram It
+maker=Telesys
+year=1982
+[RAMPAGE.BIN]
+name=Rampage
+maker=Activision
+year=1989
+[REACTOR.BIN]
+name=Reactor
+maker=Parker Bros.
+year=1982
+[RESCTER1.BIN]
+name=Rescue Terra I
+maker=VentureVision
+[REVNGTOM.BIN]
+name=Revenge of the Beefsteak Tomatoes
+maker=20th Century Fox
+year=1983
+[RIDDLE.BIN]
+name=Riddle of the Sphinx
+maker=Imagic
+year=1982
+[RIVERAID.BIN]
+name=River Raid
+maker=Activision
+year=1982
+[RIVRAID2.BIN]
+name=River Raid II
+maker=Activision
+year=1988
+[RIVER_TW.BIN]
+name=River Raid
+maker=unknown
+comments=(pirate)
+[RIVERP.BIN]
+name=River Patrol
+maker=Tigervision
+[ROADRUNR.BIN]
+name=Road Runner
+maker=Atari
+year=1989
+[ROBOTANK.BIN]
+name=Robot Tank
+maker=Activision
+year=1983
+[ROCNROPE.BIN]
+name=Roc N Rope
+maker=Coleco
+year=1984
+[ROOMDOOM.BIN]
+name=Room of Doom
+maker=CommaVid
+year=1982
+[RSBOXING.BIN]
+name=Realsports Boxing
+maker=Atari
+year=1987
+[RSSOCCER.BIN]
+name=Realsports Soccer
+maker=Atari
+year=1983
+[RSTENNIS.BIN]
+name=Realsports Tennis
+maker=Atari
+year=1983
+[RS_BASEB.BIN]
+name=Realsports Baseball
+maker=Atari
+year=1982
+[RS_FOOTB.BIN]
+name=Realsports Football
+maker=Atari
+year=1982
+[RS_VOLLY.BIN]
+name=Realsports Volleyball
+maker=Atari
+year=1982
+[SABOTEUR.BIN]
+name=Saboteur
+maker=Atari
+year=1983
+[SALTDIAG.BIN]
+name=SALT Diagnostics
+maker=Atari
+[MAO17600.BIN]
+name=SALT Diagnostics
+maker=Atari
+comments=(2)
+[SAROSPAL.BIN]
+name=Sword of Saros
+maker=Starpath
+year=1983
+comments=(PAL)
+[SAVESHIP.BIN]
+name=Save Our Ship
+maker=Technovision
+[SCUDIV_P.BIN]
+name=Scuba Diver
+maker=Sancho
+year=1983
+[SEAHWK_F.BIN]
+name=Sea Hawk
+maker=Sancho
+year=1982
+[SEAHWK_P.BIN]
+name=Sea Hawk
+maker=unknown
+comments=(pirate)
+[SEAMNSTR.BIN]
+name=Sea Monster
+maker=Bit Corp.
+[SEAQUEST.BIN]
+name=Seaquest
+maker=Activision
+year=1983
+[SEA_HUNT.BIN]
+name=Sea Hunt
+maker=Sancho
+year=1983
+[SECRETQ.BIN]
+name=Secret Quest
+maker=Atari
+year=1989
+[SEESW_TW.BIN]
+name=See Saw
+maker=unknown
+comments=(pirate of Circus Atari)
+[SENTINEL.BIN]
+name=Sentinel
+maker=Atari
+year=1990
+[SHARKATK.BIN]
+name=Shark Attack
+maker=Apollo
+year=1982
+[SHOOTIN.BIN]
+name=Shooting Gallery
+maker=Imagic
+year=1982
+[SHTLORBT.BIN]
+name=Shuttle Orbiter
+maker=Avalon Hill
+year=1983
+[SINISTAR.BIN]
+name=Sinistar
+maker=Atari
+comments=(prototype)
+[SKATEBRD.BIN]
+name=Skatebardin'
+maker=Absolute
+year=1987
+[SKEETSHT.BIN]
+name=Skeet Shoot
+maker=Apollo
+year=1981
+[SKIHUNT.BIN]
+name=Ski Hunt
+maker=R.J.P.G.
+year=1983
+[SKIING.BIN]
+name=Skiing
+maker=Activision
+year=1980
+[SKYDIVER.BIN]
+name=Sky Diver
+maker=Atari
+[SKYJINKS.BIN]
+name=Sky Jinks
+maker=Activision
+year=1982
+[SKYSKIPR.BIN]
+name=Sky Skipper
+maker=Parker Bros.
+year=1983
+[SLOTMACH.BIN]
+name=Slot Machine
+maker=Atari
+[SLOTRACE.BIN]
+name=Slot Racers
+maker=Atari
+year=1978
+[SMRFSAVE.BIN]
+name=Smurfs Save the Day
+maker=Coleco
+year=1983
+[SMURFRES.BIN]
+name=Smurf Rescue in Gargamel's Castle
+maker=Coleco
+year=1982
+[SMURF_PL.BIN]
+name=Smurf Rescue in Gargamel's Castle
+maker=Coleco
+year=1982
+comments=(PAL)
+[SNALSQRL.BIN]
+name=Snail Against Squirrel
+maker=Bit Corp.
+[SNEKPEEK.BIN]
+name=Sneak 'N Peek
+maker=VidTec
+year=1982
+[SNOOPY.BIN]
+name=Snoopy and the Red Baron
+maker=Atari
+year=1983
+[SOLARFOX.BIN]
+name=Solar Fox
+maker=CBS
+year=1983
+[SOLARIS.BIN]
+name=Solaris
+maker=Atari
+year=1986
+[SOLRSTRM.BIN]
+name=Solar Storm
+maker=Imagic
+year=1983
+[SORCAPRN.BIN]
+name=Sorcerer's Apprentice
+maker=Atari
+year=1983
+[SORCERER.BIN]
+name=Sorcerer
+maker=Mythicon
+year=1983
+[SOUNDX.BIN]
+name=SoundX
+maker=Hozer Video
+[SPACANYN.BIN]
+name=Space Canyon
+maker=Panda
+comments=(pirate of Space Cavern)
+[SPACATTK.BIN]
+name=Space Attack
+maker=M Network
+year=1982
+[SPACE2.BIN]
+name=Space Invaders
+comments=(modified gfx)
+[SPACECAV.BIN]
+name=Space Cavern
+maker=Apollo
+year=1982
+[SPACEWAR.BIN]
+name=Space War
+maker=Atari
+[SPACHASE.BIN]
+name=Space Chase
+maker=Apollo
+year=1982
+[SPACJOCK.BIN]
+name=Space Jockey
+maker=VidTec
+year=1982
+[SPACMAST.BIN]
+name=Spacemaster X-7
+maker=20th Century Fox
+year=1983
+[SPACRAID.BIN]
+name=Space Raid
+maker=unknown
+comments=(pirate of Megamania)
+[SPACTUNL.BIN]
+name=Space Tunnel
+maker=unknown
+[SPACT_TW.BIN]
+name=Space Tunnel
+maker=Bit Corp.
+[SPCINVAD.BIN]
+name=Space Invaders
+maker=Atari
+year=1980
+[SPCROBOT.BIN]
+name=Space Robot
+maker=Dimax
+[SPCSHUTL.BIN]
+name=Space Shuttle: A Journey Into Space
+maker=Activision
+year=1983
+[SPIDRFTR.BIN]
+name=Spider Fighter
+maker=Activision
+year=1983
+[SPIDRMAN.BIN]
+name=Spider-Man
+maker=Parker Bros.
+year=1982
+[SPIDROID.BIN]
+name=Spiderdroid
+maker=Froggo
+comments=(pirate of Amidar)
+[SPIKE_PK.BIN]
+name=Spike's Peak
+maker=Xonox
+year=1983
+[SPITFIRE.BIN]
+name=Spitfire Attack
+maker=Milton Bradley
+year=1983
+[SPRCOBRA.BIN]
+name=Super Cobra
+maker=Parker Bros.
+year=1983
+[SPRFOOTB.BIN]
+name=Super Football
+maker=Atari
+year=1988
+[SPRINGER.BIN]
+name=Springer
+maker=Tigervision
+[SPRNMAST.BIN]
+name=Sprintmaster
+maker=Atari
+year=1988
+[SPYHUNTR.BIN]
+name=Spy Hunter
+maker=Sega
+[SQUEEZBX.BIN]
+name=Squeeze Box
+maker=U.S. Games
+year=1982
+[SQ_EARTH.BIN]
+name=Swordquest Earthworld
+maker=Atari
+year=1982
+[SQ_FIRE.BIN]
+name=Swordquest Fireworld
+maker=Atari
+year=1982
+[SQ_WATER.BIN]
+name=Swordquest Waterworld
+maker=Atari
+year=1983
+[SSSNAKE.BIN]
+name=Sssnake
+maker=Data Age
+year=1982
+[STAMPEDE.BIN]
+name=Stampede
+maker=Activision
+year=1981
+[STAREMPR.BIN]
+name=Star Wars: Empire Strikes Back
+maker=Parker Bros.
+year=1982
+[STARFOX.BIN]
+name=Star Fox
+maker=Mythicon
+year=1983
+[STARGATE.BIN]
+name=Stargate
+maker=Atari
+year=1984
+[STARGN.BIN]
+name=Star Gunner
+maker=Telesys
+year=1982
+[STARMAST.BIN]
+name=Star Master
+maker=Activision
+year=1982
+[STARRAID.BIN]
+name=Star Raiders
+maker=Atari
+year=1982
+[STARSHIP.BIN]
+name=Star Ship
+maker=Atari
+year=1977
+[ZAXXON.BIN]
+name=Zaxxon
+maker=Coleco
+year=1982
+[ZOOFUN.BIN]
+name=Zoo Fun
+maker=Homevision
+[Z_TACK.BIN]
+name=Z-Tack
+maker=Bomb
+[YAR_REV.BIN]
+name=Yar's Revenge
+maker=Atari
+[XMAN.BIN]
+name=X-Man
+maker=Universal Games
+[XEVIOUS.BIN]
+name=Xevious
+maker=Atari
+year=1983
+comments=(prototype)
+[XENOPHOB.BIN]
+name=Xenophobe
+maker=Atari
+year=1990
+[WORMWAR1.BIN]
+name=Worm War 1
+maker=20th Century Fox
+year=1982
+[WORLDEND.BIN]
+name=World End
+maker=Homevision
+[WORDZAPR.BIN]
+name=Word Zapper
+maker=VidTec
+year=1982
+[WIZRDWOR.BIN]
+name=Wizard of Wor
+maker=CBS
+year=1982
+[WINTERGA.BIN]
+name=Winter Games
+maker=Epyx
+year=1987
+[WINGWAR.BIN]
+name=Wing War
+maker=Imagic
+[WARPLOCK.BIN]
+name=Warplock
+maker=Data Age
+year=1982
+[WARLORDS.BIN]
+name=Warlords
+maker=Atari
+year=1981
+[WALLDFND.BIN]
+name=Wall Defender
+maker=Bomb
+[WALLBALL.BIN]
+name=Wall Ball
+maker=Avalon Hill
+year=1983
+[WABBIT.BIN]
+name=Wabbit
+maker=Apollo
+year=1982
+[VID_OLYM.BIN]
+name=Video Olympics
+maker=Atari
+year=1978
+[VIDREFLX.BIN]
+name=Video Reflex
+maker=Exus
+[VIDPIN.BIN]
+name=Video Pinball
+maker=Atari
+year=1981
+[VIDJOGGR.BIN]
+name=Video Jogger
+maker=Exus
+[VIDCHESS.BIN]
+name=Video Chess
+maker=Atari
+[VIDCHECK.BIN]
+name=Video Checkers
+maker=Atari
+year=1978
+[VENTURE.BIN]
+name=Venture
+maker=Coleco
+year=1982
+[VANGUARD.BIN]
+name=Vanguard
+maker=Atari
+year=1982
+[UPNDOWN.BIN]
+name=Up N Down
+maker=Sega
+year=1984
+[UNIVCHOS.BIN]
+name=Universal Chaos
+maker=Telegames
+[UFOPATRL.BIN]
+name=UFO Patrol
+maker=unknown
+[TUTANK.BIN]
+name=Tutankham
+maker=Parker Bros.
+year=1983
+[TXSCHAIN.BIN]
+name=Texas Chainsaw Massacre
+maker=Wizard Video
+[TURMOIL.BIN]
+name=Turmoil
+maker=20th Century Fox
+year=1982
+[TUNLRUNR.BIN]
+name=Tunnel Runner
+maker=CBS
+year=1983
+[TUBYBIRD.BIN]
+name=Tuby Bird
+maker=Rainbow Vision
+comments=(pirate of Dolphin)
+[TRONDEAD.BIN]
+name=Tron Deadly Discs
+maker=M Network
+year=1982
+[TRICKSHT.BIN]
+name=Trick Shot
+maker=Imagic
+year=1982
+[TRAFFIC.BIN]
+name=Traffic
+maker=R.J.P.G.
+[TRACK.BIN]
+name=Track and Field
+maker=Atari
+year=1984
+[TOWERINF.BIN]
+name=Towering Inferno
+maker=U.S. Games
+year=1982
+[TOOTHPRO.BIN]
+name=Tooth Protectors
+maker=DSD Camelot
+year=1983
+[TOMBOY.BIN]
+name=Tomboy
+maker=SunTek
+comments=(pirate of Pitfall!)
+[TIMEWARP.BIN]
+name=Time Warp
+maker=unknown
+[TIMEPLT.BIN]
+name=Time Pilot
+maker=Coleco
+year=1983
+[THUNDGRD.BIN]
+name=Thunderground
+maker=Sega
+year=1983
+[THRSHOLD.BIN]
+name=Threshold
+maker=Tigervision
+year=1982
+[TFSI.BIN]
+name=Space Invaders
+comments=(modified gfx by TF)
+[STARSTRK.BIN]
+name=Star Strike
+maker=M Network
+year=1982
+[STARTREK.BIN]
+name=Star Trek
+maker=Sega
+year=1983
+[STARVYGR.BIN]
+name=Star Voyager
+maker=Imagic
+year=1982
+[STELRTRK.BIN]
+name=Stellar Track
+maker=Sears
+year=1980
+[STEPLCHS.BIN]
+name=Steeplechase
+maker=Sears
+year=1980
+[STRATGYX.BIN]
+name=Strategy X
+maker=Konami
+year=1981
+[STRNGHLD.BIN]
+name=Stronghold
+maker=CommaVid
+[STRTRACE.BIN]
+name=Street Racer
+maker=Atari
+[STRWBERY.BIN]
+name=Strawberry Shortcake Musical Matchups
+maker=Parker Bros.
+year=1983
+[SUBCOMDR.BIN]
+name=Submarine Commander
+maker=Atari
+year=1982
+[SUBSCAN.BIN]
+name=Sub Scan
+maker=Sega
+year=1982
+[SUICIDE.BIN]
+name=Suicide Mission
+maker=Arcadia
+year=1982
+[SUICDEMO.BIN]
+name=Suicide Mission Demo
+maker=Arcadia
+year=1982
+[SUDMOPAL.BIN]
+name=Suicide Mission Demo
+maker=Starpath
+year=1982
+comments=(PAL)
+[SUICDPAL.BIN]
+name=Suicide Mission
+maker=Starpath
+year=1982
+comments=(PAL)
+[SUICID23.BIN]
+name=Suicide Mission
+comments=(Asteroids clone version)
+[SUMMERGA.BIN]
+name=Summer Games
+maker=Epyx
+year=1987
+[SUPERB.BIN]
+name=Super Breakout
+maker=Atari
+year=1981
+[SUPERCCE.BIN]
+name=Superman
+maker=CCE
+comments=(pirate)
+[SUPFERRI.BIN]
+name=Super Ferrari
+comments=(pirate of Enduro)
+[SUPRBASB.BIN]
+name=Super Baseball
+maker=Atari
+year=1988
+[SUPRBASE.BIN]
+name=Super Challenge Baseball
+maker=M Network
+year=1982
+[SUPRFOOT.BIN]
+name=Super Challenge Football
+maker=M Network
+year=1982
+[SUPRMAN1.BIN]
+name=Superman
+maker=Atari
+year=1978
+[SUPRMAN2.BIN]
+name=Superman
+maker=Atari
+year=1978
+comments=(bridge fix)
+[SURFPRDS.BIN]
+name=Surfer's Paradise
+maker=unknown
+[SURROUND.BIN]
+name=Surround
+maker=Atari
+year=1977
+[SURVIVL.BIN]
+name=Survival Island
+maker=Starpath
+year=1983
+[SURVLRUN.BIN]
+name=Survival Run
+maker=Milton Bradley
+year=1983
+[SWARCADE.BIN]
+name=Star Wars: The Arcade Game
+maker=Parker Bros.
+year=1983
+[SWEAT.BIN]
+name=Sweat
+maker=Starpath
+comments=(prototype)
+[SWOSAROS.BIN]
+name=Sword of Saros
+maker=Starpath
+year=1983
+[TACSCAN.BIN]
+name=Tac Scan
+maker=Sega
+year=1982
+[TANKSBUT.BIN]
+name=Tanks But No Tanks
+maker=Zimag
+[TAPEWORM.BIN]
+name=Tape Worm
+maker=SpectraVision
+[TAPPER.BIN]
+name=Tapper
+maker=Bally Midway
+year=1983
+[TASKFORC.BIN]
+name=Task Force
+maker=Froggo
+[TAXAVOID.BIN]
+name=Tax Avoiders
+maker=American Videogame
+year=1982
+[TAZ.BIN]
+name=Taz
+maker=Atari
+year=1983
+[TENNIS.BIN]
+name=Tennis
+maker=Activision
+year=1981
+[TETRIS26.BIN]
+name=Tetris 2600
+maker=Colin J. Hughes
+year=1997
+[ALIENRET.BIN]
+name=Alien's Return
+maker=ITT
+[MOONSWEP.BIN]
+name=Moon Sweeper
+maker=Imagic
+year=1983
+[MOTOCROS.BIN]
+name=Motocross Racer
+maker=Xonox
+year=1983
+[MR_T.BIN]
+name=Mr. T
+maker=StarSoft
+comments=(pirate of Fast Eddie)
+[WALKER.BIN]
+name=Walker
+maker=unknown
+comments=(pirate of Clown Downtown)
+[FRONT_RK.BIN]
+name=Frontline
+comments=(pirate of Combat)
+[FUNWNUMB.BIN]
+name=Fun With Numbers
+maker=Atari
+year=1986
+comments=(rerelease of Basic Math)
+[JAMESBND.BIN]
+name=James Bond 007 ?
+maker=Parker Bros.
+year=1983
+[MXDMOPAL.BIN]
+name=Party Mix Demo
+maker=Starpath
+year=1983
+comments=(PAL) ?
+[STARPATH.BIN]
+name=Starpath binary ?
+[TEST.BIN]
+name=Test ?
+[QUADRUN.BIN]
+name=Quadrun
+maker=Atari
+[TPS.BIN]
+name=This Planet Sucks
+maker=What?Ware
+year=1997
+[LANCELOT.BIN]
+name=Sir Lancelot
+maker=Xonox
+[SURFSUP.BIN]
+name=Surf's Up
+maker=Amiga
+[DON_DUCK.BIN]
+name=Donald Duck's Speedboat
+maker=Atari
+year=1983
+[BBEARS.BIN]
+name=Berenstain Bears
+maker=Coleco
+[GLACIER.BIN]
+name=Glacier
+maker=Telegames
+[IKARIWAR.BIN]
+name=Ikari Warriors
+maker=Atari
+[ROBNHOOD.BIN]
+name=Robin Hood
+maker=Xonox
+year=1983
+[SUBTERRA.BIN]
+name=Subterrania
+maker=Imagic
+[F14TOMCT.BIN]
+name=F-14 Tomcat
+maker=Absolute
+year=1988
+[DUMBO.BIN]
+name=Dumbo's Flying Circus
+maker=Atari
+year=1983
+[STNTMAN.BIN]
+name=Stunt Man
+maker=Sancho
+year=1983
+[LADYWDNG.BIN]
+name=Lady in Wading
+maker=Playaround
+[SHOOTACD.BIN]
+name=Shooting Arcade
+maker=Axlon
+year=1989
+[BOING26.BIN]
+name=Boing! Demo
+maker=Rob Kudla
+year=1999
+comments=(Amiga style)
+[PAC26.BIN]
+name=PacF2M
+maker=Rob Kudla
+year=1999
+[2PAKBL~1.BIN]
+name=2-Pak Blue
+maker=Pirate, PAL)
+comments=(Challenge, Surfing
+[2PAKGR~1.BIN]
+name=2-Pak Green
+maker=Pirate, PAL)
+comments=(Hoppy, Alien Force
+[2PAKYE~1.BIN]
+name=2-Pak Yellow
+maker=Pirate, PAL)
+comments=(Star Warrior, Frogger
+[ANGELN~1.BIN]
+name=Anglen
+comments=(pirate of Fishing Derby, PAL)
+[ASTERIX.BIN]
+name=Asterix
+maker=Atari
+year=1983
+comments=(PAL, 2)
+[AUTORE~1.BIN]
+name=Autorennen
+comments=(pirate of Grand Prix, PAL)
+[BREAKD~1.BIN]
+name=Breakdown
+comments=(PAL)
+[DSCHUN~1.BIN]
+name=Dschungle Boy
+comments=(pirate of Pitfall!, PAL)
+[GHOSTB~1.BIN]
+name=Ghostbusters II
+maker=Activision
+[KRIEGD~1.BIN]
+name=Krieg der Sterne
+comments=(pirate of Atlantis, PAL)
+[KUNGFU~1.BIN]
+name=Kung Fu
+comments=(PAL)
+[SEEMON~1.BIN]
+name=See Monster
+comments=(works?)
+[SOCCER.BIN]
+name=Soccer
+comments=(PAL)
+[TEDDYA~1.BIN]
+name=Teddy Apple
+comments=(pirate of I Want My Mommy, PAL)
+[TIMEMA~1.BIN]
+name=Time Machine
+comments=(PAL)
+[TIMERA~1.BIN]
+name=Time Race
+comments=(PAL)
+[TIMERA~2.BIN]
+name=Time Race 2
+comments=(PAL)
+[WACHRO~1.BIN]
+name=Wachroboter jagt Jupy
+comments=(pirate of Keystone Kapers, PAL)
+[WELTRA~1.BIN]
+name=Weltraumtunnel
+comments=(pirate of Laser Gates, PAL)
+[ROBOFGHT.BIN]
+name=robofght
+[SKI_RUN.BIN]
+name=ski_run
